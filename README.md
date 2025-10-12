@@ -10,6 +10,9 @@ A web scraper for Vietnamese book data from online bookstores. This tool crawls 
 - **JSON storage**: Stores data in structured JSON format for easy processing
 - **Configurable**: Adjustable scraping parameters and output options
 - **Logging**: Comprehensive logging for monitoring scraping progress
+- **Title standardization**: Automatically cleans and standardizes book titles
+- **Detail extraction**: Optional detailed scraping for complete titles and author information
+- **Modular architecture**: Clean, maintainable code structure with separated concerns
 
 ## Installation
 
@@ -24,6 +27,11 @@ cd sachnay-warehouse
 pip install -r requirements.txt
 ```
 
+3. (Optional) Install as a package:
+```bash
+pip install -e .
+```
+
 ## Usage
 
 ### Basic usage:
@@ -36,10 +44,22 @@ python3 main.py
 python3 main.py --max-pages 5 --output my_books.json --log-level DEBUG
 ```
 
+### Enhanced data extraction:
+```bash
+python3 main.py --max-pages 3 --fetch-details --output detailed_books.json
+```
+
+### With custom configuration:
+```bash
+python3 main.py --config config/config.json --max-pages 2 --fetch-details
+```
+
 ### Available options:
 - `--max-pages`: Maximum pages to scrape per source (default: 5)
-- `--output`: Output JSON file path (default: books_data.json)
+- `--output`: Output JSON file path (default: output/books_data.json)
 - `--log-level`: Logging level (DEBUG, INFO, WARNING, ERROR)
+- `--fetch-details`: Fetch detailed information from individual book pages (slower but more complete)
+- `--config`: Path to custom configuration file
 
 ## Data Structure
 
@@ -66,11 +86,38 @@ The scraped data is stored in JSON format with the following structure:
 
 ## Architecture
 
-The project consists of three main components:
+The project features a modular architecture with clear separation of concerns:
 
-1. **Scrapers** (`scrapers.py`): Web scraping logic for each supported website
-2. **Data Manager** (`data_manager.py`): Handles data storage, deduplication, and merging
-3. **Main Script** (`main.py`): Orchestrates the scraping process
+```
+sachnay-warehouse/
+├── main.py                    # Main entry point
+├── output/                    # Output files
+│   ├── books_data.json       # Scraped book data
+│   └── scraper.log          # Application logs
+├── src/                       # Source code
+│   ├── config.py             # Configuration management
+│   ├── core/                 # Core functionality
+│   │   ├── base_scraper.py   # Abstract base scraper class
+│   │   └── data_manager.py   # Data storage and deduplication
+│   ├── scrapers/             # Website-specific scrapers
+│   │   ├── sachdonga_scraper.py
+│   │   └── nhanam_scraper.py
+│   └── utils/                # Utility functions
+│       └── __init__.py       # Text, URL, and logging utilities
+├── tests/                    # Unit tests
+├── config/                   # Configuration files
+└── requirements.txt          # Dependencies
+```
+
+### Key Components:
+
+1. **Core** (`src/core/`): Base classes and data management
+2. **Scrapers** (`src/scrapers/`): Website-specific scraping logic
+3. **Utils** (`src/utils/`): Utility functions for text processing, URLs, and logging
+4. **Config** (`src/config.py`): Centralized configuration management
+5. **Tests** (`tests/`): Unit tests and test utilities
+
+For detailed architecture documentation, see [ARCHITECTURE.md](ARCHITECTURE.md).
 
 ## Supported Websites
 
@@ -82,21 +129,9 @@ The project consists of three main components:
 Run the test suite to verify functionality:
 
 ```bash
-python3 test_scraper.py
+# Run all tests
+python3 tests/test_utils.py
+
+# Run specific tests
+python3 -m unittest tests.test_utils.TestTextUtils
 ```
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Disclaimer
-
-This tool is for educational and research purposes. Please respect the websites' robots.txt and terms of service when scraping data.

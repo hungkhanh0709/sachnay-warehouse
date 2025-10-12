@@ -1,0 +1,17 @@
+{
+    "scraping": {
+        "max_pages": 3,
+        "fetch_details": false,
+        "delay_between_requests": 1.5,
+        "max_retries": 3,
+        "timeout": 30
+    },
+    "output": {
+        "default_filename": "custom_books.json",
+        "indent": 4
+    },
+    "logging": {
+        "level": "DEBUG",
+        "log_file": "custom_scraper.log"
+    }
+}

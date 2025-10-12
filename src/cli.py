@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """
-Main entry point for the Sachnay Warehouse book scraper.
+Command-line interface for the Sachnay Warehouse scraper.
 
-This script provides the same functionality as the old main.py but uses
-the new modular architecture.
+This script orchestrates the scraping process, data management, and CLI interface.
 """
 
 import sys
@@ -11,13 +10,10 @@ import argparse
 import logging
 from pathlib import Path
 
-# Add src to Python path to allow imports
-sys.path.insert(0, str(Path(__file__).parent / "src"))
-
-from config import config
-from core.data_manager import BookDataManager
-from scrapers import SachDongaScraper, NhaNamScraper
-from utils import LoggerUtils
+from .config import config
+from .core.data_manager import BookDataManager
+from .scrapers import SachDongaScraper, NhaNamScraper
+from .utils import LoggerUtils
 
 
 def setup_logging(log_level: str) -> None:

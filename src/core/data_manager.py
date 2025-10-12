@@ -1,15 +1,22 @@
+"""
+Data management module for handling book data storage and deduplication.
+"""
+
 import json
 import os
 import logging
+import hashlib
 from datetime import datetime
 from typing import List, Dict, Any, Set
-import hashlib
+
+from config import config
+
 
 class BookDataManager:
     """Manages book data storage and deduplication."""
     
-    def __init__(self, data_file: str = "books_data.json"):
-        self.data_file = data_file
+    def __init__(self, data_file: str = None):
+        self.data_file = data_file or config.get("output.default_filename", "books_data.json")
         self.logger = logging.getLogger(__name__)
         
     def load_existing_data(self) -> List[Dict[str, Any]]:
@@ -34,8 +41,11 @@ class BookDataManager:
         }
         
         try:
+            indent = config.get("output.indent", 2)
+            ensure_ascii = config.get("output.ensure_ascii", False)
+            
             with open(self.data_file, 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, indent=2)
+                json.dump(data, f, ensure_ascii=ensure_ascii, indent=indent)
             self.logger.info(f"Saved {len(books)} books to {self.data_file}")
         except IOError as e:
             self.logger.error(f"Error saving data: {e}")
