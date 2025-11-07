@@ -1,0 +1,561 @@
+{
+    "awards": [
+        {
+            "id": "vn_sach_quoc_gia",
+            "name": "Giải Sách Quốc gia",
+            "name_en": "National Book Award (Vietnam)",
+            "country": "Vietnam",
+            "region": "Asia",
+            "scope": "national",
+            "established_year": null,
+            "language": "vi",
+            "description": "Giải thưởng sách uy tín nhất của Việt Nam",
+            "website": null,
+            "categories": [
+                "fiction",
+                "non-fiction",
+                "poetry",
+                "translation"
+            ]
+        },
+        {
+            "id": "intl_nobel_literature",
+            "name": "Giải Nobel Văn chương",
+            "name_en": "Nobel Prize in Literature",
+            "country": "Sweden",
+            "region": "International",
+            "scope": "international",
+            "established_year": 1901,
+            "language": "multiple",
+            "description": "Giải thưởng văn học danh giá nhất thế giới, trao cho tác giả có đóng góp xuất sắc cho văn học thế giới",
+            "website": "https://www.nobelprize.org/prizes/literature/",
+            "categories": [
+                "lifetime_achievement"
+            ]
+        },
+        {
+            "id": "us_pulitzer",
+            "name": "Giải Pulitzer",
+            "name_en": "Pulitzer Prize",
+            "country": "United States",
+            "region": "North America",
+            "scope": "national",
+            "established_year": 1917,
+            "language": "en",
+            "description": "Giải thưởng danh giá của Mỹ cho văn học, báo chí và âm nhạc",
+            "website": "https://www.pulitzer.org/",
+            "categories": [
+                "fiction",
+                "non-fiction",
+                "poetry",
+                "drama",
+                "history",
+                "biography"
+            ]
+        },
+        {
+            "id": "uk_booker_prize",
+            "name": "Giải Booker",
+            "name_en": "The Booker Prize",
+            "country": "United Kingdom",
+            "region": "Europe",
+            "scope": "international",
+            "established_year": 1969,
+            "language": "en",
+            "description": "Giải thưởng văn học tiếng Anh uy tín nhất, dành cho tiểu thuyết xuất bản tại Anh",
+            "website": "https://thebookerprizes.com/",
+            "categories": [
+                "fiction"
+            ]
+        },
+        {
+            "id": "intl_booker",
+            "name": "Giải Booker Quốc tế",
+            "name_en": "International Booker Prize",
+            "country": "United Kingdom",
+            "region": "International",
+            "scope": "international",
+            "established_year": 2005,
+            "language": "multiple",
+            "description": "Dành cho tác phẩm văn học được dịch sang tiếng Anh",
+            "website": "https://thebookerprizes.com/the-international-booker-prize",
+            "categories": [
+                "fiction",
+                "translation"
+            ]
+        },
+        {
+            "id": "us_national_book_award",
+            "name": "Giải Sách Quốc gia Mỹ",
+            "name_en": "National Book Award",
+            "country": "United States",
+            "region": "North America",
+            "scope": "national",
+            "established_year": 1950,
+            "language": "en",
+            "description": "Một trong những giải thưởng văn học danh giá nhất nước Mỹ",
+            "website": "https://www.nationalbook.org/",
+            "categories": [
+                "fiction",
+                "non-fiction",
+                "poetry",
+                "young_adult",
+                "translation"
+            ]
+        },
+        {
+            "id": "us_national_book_critics_circle",
+            "name": "Giải Hội đồng phê bình sách quốc gia",
+            "name_en": "National Book Critics Circle Award",
+            "country": "United States",
+            "region": "North America",
+            "scope": "national",
+            "established_year": 1975,
+            "language": "en",
+            "description": "Giải thưởng do các nhà phê bình văn học Mỹ bình chọn",
+            "website": "https://bookcritics.org/",
+            "categories": [
+                "fiction",
+                "non-fiction",
+                "poetry",
+                "biography",
+                "criticism"
+            ]
+        },
+        {
+            "id": "intl_dublin_literary",
+            "name": "Giải Văn học Dublin Quốc tế",
+            "name_en": "International Dublin Literary Award",
+            "country": "Ireland",
+            "region": "International",
+            "scope": "international",
+            "established_year": 1996,
+            "language": "multiple",
+            "description": "Giải thưởng văn học tiền thưởng cao nhất thế giới cho một cuốn tiểu thuyết",
+            "website": "https://dublinaward.ie/",
+            "categories": [
+                "fiction"
+            ]
+        },
+        {
+            "id": "intl_goodreads_choice",
+            "name": "Giải Goodreads Choice",
+            "name_en": "Goodreads Choice Awards",
+            "country": "United States",
+            "region": "International",
+            "scope": "international",
+            "established_year": 2009,
+            "language": "en",
+            "description": "Giải thưởng do độc giả bình chọn trên nền tảng Goodreads",
+            "website": "https://www.goodreads.com/choiceawards",
+            "categories": [
+                "fiction",
+                "mystery",
+                "romance",
+                "fantasy",
+                "science_fiction",
+                "horror",
+                "humor",
+                "non-fiction",
+                "memoir",
+                "history",
+                "young_adult",
+                "debut",
+                "graphic_novel",
+                "poetry"
+            ]
+        },
+        {
+            "id": "spain_cervantes",
+            "name": "Giải Miguel de Cervantes",
+            "name_en": "Miguel de Cervantes Prize",
+            "country": "Spain",
+            "region": "International",
+            "scope": "international",
+            "established_year": 1976,
+            "language": "es",
+            "description": "Giải thưởng văn học tiếng Tây Ban Nha uy tín nhất, coi như Nobel của thế giới Hispanic",
+            "website": null,
+            "categories": [
+                "lifetime_achievement"
+            ]
+        },
+        {
+            "id": "france_goncourt",
+            "name": "Giải Goncourt",
+            "name_en": "Prix Goncourt",
+            "country": "France",
+            "region": "Europe",
+            "scope": "national",
+            "established_year": 1903,
+            "language": "fr",
+            "description": "Giải thưởng văn học danh giá nhất của Pháp",
+            "website": "https://www.academie-goncourt.fr/",
+            "categories": [
+                "fiction"
+            ]
+        },
+        {
+            "id": "germany_book_prize",
+            "name": "Giải Sách Đức",
+            "name_en": "German Book Prize",
+            "country": "Germany",
+            "region": "Europe",
+            "scope": "national",
+            "established_year": 2005,
+            "language": "de",
+            "description": "Giải thưởng cho tiểu thuyết tiếng Đức hay nhất trong năm",
+            "website": "https://www.deutscher-buchpreis.de/",
+            "categories": [
+                "fiction"
+            ]
+        },
+        {
+            "id": "italy_strega",
+            "name": "Giải Strega",
+            "name_en": "Premio Strega",
+            "country": "Italy",
+            "region": "Europe",
+            "scope": "national",
+            "established_year": 1947,
+            "language": "it",
+            "description": "Giải thưởng văn học danh giá nhất của Italia",
+            "website": null,
+            "categories": [
+                "fiction"
+            ]
+        },
+        {
+            "id": "japan_akutagawa",
+            "name": "Giải Akutagawa",
+            "name_en": "Akutagawa Prize",
+            "country": "Japan",
+            "region": "Asia",
+            "scope": "national",
+            "established_year": 1935,
+            "language": "ja",
+            "description": "Giải thưởng văn học uy tín của Nhật Bản dành cho tác phẩm văn học thuần túy",
+            "website": null,
+            "categories": [
+                "fiction"
+            ]
+        },
+        {
+            "id": "japan_naoki",
+            "name": "Giải Naoki",
+            "name_en": "Naoki Prize",
+            "country": "Japan",
+            "region": "Asia",
+            "scope": "national",
+            "established_year": 1935,
+            "language": "ja",
+            "description": "Giải thưởng văn học Nhật Bản dành cho tiểu thuyết đại chúng",
+            "website": null,
+            "categories": [
+                "fiction"
+            ]
+        },
+        {
+            "id": "china_mao_dun",
+            "name": "Giải Văn học Mao Dun",
+            "name_en": "Mao Dun Literature Prize",
+            "country": "China",
+            "region": "Asia",
+            "scope": "national",
+            "established_year": 1981,
+            "language": "zh",
+            "description": "Giải thưởng văn học cao quý nhất của Trung Quốc",
+            "website": null,
+            "categories": [
+                "fiction"
+            ]
+        },
+        {
+            "id": "australia_miles_franklin",
+            "name": "Giải Miles Franklin",
+            "name_en": "Miles Franklin Award",
+            "country": "Australia",
+            "region": "Oceania",
+            "scope": "national",
+            "established_year": 1957,
+            "language": "en",
+            "description": "Giải thưởng văn học uy tín nhất của Úc",
+            "website": "https://www.milesfranklin.com.au/",
+            "categories": [
+                "fiction"
+            ]
+        },
+        {
+            "id": "canada_giller",
+            "name": "Giải Giller",
+            "name_en": "Scotiabank Giller Prize",
+            "country": "Canada",
+            "region": "North America",
+            "scope": "national",
+            "established_year": 1994,
+            "language": "en",
+            "description": "Giải thưởng văn học danh giá nhất của Canada",
+            "website": "https://scotiabankgillerprize.ca/",
+            "categories": [
+                "fiction"
+            ]
+        },
+        {
+            "id": "india_jnanpith",
+            "name": "Giải Jnanpith",
+            "name_en": "Jnanpith Award",
+            "country": "India",
+            "region": "Asia",
+            "scope": "national",
+            "established_year": 1965,
+            "language": "multiple",
+            "description": "Giải thưởng văn học cao quý nhất của Ấn Độ",
+            "website": null,
+            "categories": [
+                "lifetime_achievement"
+            ]
+        },
+        {
+            "id": "portugal_camoes",
+            "name": "Giải Camões",
+            "name_en": "Camões Prize",
+            "country": "Portugal",
+            "region": "International",
+            "scope": "international",
+            "established_year": 1988,
+            "language": "pt",
+            "description": "Giải thưởng văn học tiếng Bồ Đào Nha uy tín nhất",
+            "website": null,
+            "categories": [
+                "lifetime_achievement"
+            ]
+        },
+        {
+            "id": "uk_costa",
+            "name": "Giải Costa",
+            "name_en": "Costa Book Awards",
+            "country": "United Kingdom",
+            "region": "Europe",
+            "scope": "national",
+            "established_year": 1971,
+            "language": "en",
+            "description": "Giải thưởng văn học của Anh cho nhiều thể loại (ngừng trao từ 2021)",
+            "website": null,
+            "categories": [
+                "fiction",
+                "first_novel",
+                "biography",
+                "poetry",
+                "children"
+            ]
+        },
+        {
+            "id": "uk_womens_prize",
+            "name": "Giải Văn học Nữ giới",
+            "name_en": "Women's Prize for Fiction",
+            "country": "United Kingdom",
+            "region": "International",
+            "scope": "international",
+            "established_year": 1996,
+            "language": "en",
+            "description": "Giải thưởng dành cho tác phẩm viết bởi nữ giới bằng tiếng Anh",
+            "website": "https://www.womensprizeforfiction.co.uk/",
+            "categories": [
+                "fiction"
+            ]
+        },
+        {
+            "id": "us_hugo",
+            "name": "Giải Hugo",
+            "name_en": "Hugo Award",
+            "country": "United States",
+            "region": "International",
+            "scope": "international",
+            "established_year": 1953,
+            "language": "en",
+            "description": "Giải thưởng uy tín cho văn học khoa học viễn tưởng và giả tưởng",
+            "website": "http://www.thehugoawards.org/",
+            "categories": [
+                "science_fiction",
+                "fantasy"
+            ]
+        },
+        {
+            "id": "us_nebula",
+            "name": "Giải Nebula",
+            "name_en": "Nebula Award",
+            "country": "United States",
+            "region": "International",
+            "scope": "international",
+            "established_year": 1965,
+            "language": "en",
+            "description": "Giải thưởng do Hiệp hội nhà văn khoa học viễn tưởng và giả tưởng Mỹ trao tặng",
+            "website": "https://nebulas.sfwa.org/",
+            "categories": [
+                "science_fiction",
+                "fantasy"
+            ]
+        },
+        {
+            "id": "us_edgar",
+            "name": "Giải Edgar Allan Poe",
+            "name_en": "Edgar Award",
+            "country": "United States",
+            "region": "International",
+            "scope": "international",
+            "established_year": 1946,
+            "language": "en",
+            "description": "Giải thưởng uy tín cho tiểu thuyết trinh thám và bí ẩn",
+            "website": "https://mysterywriters.org/",
+            "categories": [
+                "mystery",
+                "crime"
+            ]
+        },
+        {
+            "id": "us_newbery",
+            "name": "Giải Newbery",
+            "name_en": "Newbery Medal",
+            "country": "United States",
+            "region": "North America",
+            "scope": "national",
+            "established_year": 1922,
+            "language": "en",
+            "description": "Giải thưởng danh giá nhất cho văn học thiếu nhi Mỹ",
+            "website": "http://www.ala.org/alsc/awardsgrants/bookmedia/newberymedal",
+            "categories": [
+                "children"
+            ]
+        },
+        {
+            "id": "intl_hans_christian_andersen",
+            "name": "Giải Hans Christian Andersen",
+            "name_en": "Hans Christian Andersen Award",
+            "country": "Switzerland",
+            "region": "International",
+            "scope": "international",
+            "established_year": 1956,
+            "language": "multiple",
+            "description": "Giải Nobel của văn học thiếu nhi",
+            "website": "https://www.ibby.org/",
+            "categories": [
+                "children"
+            ]
+        },
+        {
+            "id": "intl_astrid_lindgren",
+            "name": "Giải Tưởng niệm Astrid Lindgren",
+            "name_en": "Astrid Lindgren Memorial Award",
+            "country": "Sweden",
+            "region": "International",
+            "scope": "international",
+            "established_year": 2003,
+            "language": "multiple",
+            "description": "Giải thưởng văn học thiếu nhi với giá trị tiền thưởng lớn nhất thế giới",
+            "website": "https://www.alma.se/",
+            "categories": [
+                "children"
+            ]
+        },
+        {
+            "id": "uk_guardian_fiction",
+            "name": "Giải Guardian cho Tiểu thuyết Đầu tiên",
+            "name_en": "Guardian First Book Award",
+            "country": "United Kingdom",
+            "region": "Europe",
+            "scope": "national",
+            "established_year": 1999,
+            "language": "en",
+            "description": "Giải thưởng cho tác phẩm đầu tay xuất sắc",
+            "website": null,
+            "categories": [
+                "first_novel"
+            ]
+        },
+        {
+            "id": "intl_franz_kafka",
+            "name": "Giải Franz Kafka",
+            "name_en": "Franz Kafka Prize",
+            "country": "Czech Republic",
+            "region": "International",
+            "scope": "international",
+            "established_year": 2001,
+            "language": "multiple",
+            "description": "Giải thưởng văn học quốc tế uy tín",
+            "website": null,
+            "categories": [
+                "fiction"
+            ]
+        },
+        {
+            "id": "israel_jerusalem",
+            "name": "Giải Jerusalem",
+            "name_en": "Jerusalem Prize",
+            "country": "Israel",
+            "region": "International",
+            "scope": "international",
+            "established_year": 1963,
+            "language": "multiple",
+            "description": "Giải thưởng cho tác giả có đóng góp cho tự do cá nhân trong xã hội",
+            "website": null,
+            "categories": [
+                "lifetime_achievement"
+            ]
+        },
+        {
+            "id": "us_pen_faulkner",
+            "name": "Giải PEN/Faulkner",
+            "name_en": "PEN/Faulkner Award for Fiction",
+            "country": "United States",
+            "region": "North America",
+            "scope": "national",
+            "established_year": 1981,
+            "language": "en",
+            "description": "Giải thưởng văn học do các nhà văn Mỹ bình chọn",
+            "website": "https://www.penfaulkner.org/",
+            "categories": [
+                "fiction"
+            ]
+        },
+        {
+            "id": "asia_man_asian",
+            "name": "Giải Văn học Châu Á",
+            "name_en": "Man Asian Literary Prize",
+            "country": "Hong Kong",
+            "region": "Asia",
+            "scope": "regional",
+            "established_year": 2007,
+            "language": "en",
+            "description": "Giải thưởng cho tiểu thuyết châu Á được dịch sang tiếng Anh (đã ngừng từ 2012)",
+            "website": null,
+            "categories": [
+                "fiction",
+                "translation"
+            ]
+        },
+        {
+            "id": "asia_sea_write",
+            "name": "Giải S.E.A. Write",
+            "name_en": "S.E.A. Write Award",
+            "country": "Thailand",
+            "region": "Southeast Asia",
+            "scope": "regional",
+            "established_year": 1979,
+            "language": "multiple",
+            "description": "Giải thưởng văn học Đông Nam Á",
+            "website": null,
+            "categories": [
+                "fiction",
+                "poetry",
+                "short_story"
+            ]
+        }
+    ],
+    "metadata": {
+        "total_awards": 38,
+        "last_updated": "2024-11-07",
+        "version": "1.0",
+        "description": "Danh sách các giải thưởng văn học uy tín trên thế giới và Việt Nam",
+        "notes": "Dữ liệu này được sử dụng để liên kết với các tựa sách đạt giải"
+    }
+}
