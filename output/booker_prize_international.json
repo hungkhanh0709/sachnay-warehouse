@@ -1,0 +1,385 @@
+{
+  "award_info": {
+    "id": "intl_man_booker_international",
+    "name": "International Booker Prize",
+    "former_name": "Man Booker International Prize",
+    "name_vi": "Giải Booker Quốc tế",
+    "country": "United Kingdom",
+    "region": "International",
+    "scope": "international",
+    "established_year": 2005,
+    "frequency": "annual (since 2016), biennial (2005-2015)",
+    "language": "en",
+    "description": "International literary award for translated fiction. From 2005-2015, awarded biennially for lifetime achievement. From 2016 onwards, awarded annually to a single translated work, with prize split equally between author and translator.",
+    "description_vi": "Giải thưởng văn học quốc tế cho tác phẩm dịch. Từ 2005-2015 trao 2 năm/lần cho thành tựu trọn đời. Từ 2016 trở đi trao hàng năm cho một tác phẩm dịch, chia đều giải thưởng giữa tác giả và người dịch.",
+    "genres": [
+      "fiction",
+      "translated_literature"
+    ],
+    "website": "https://thebookerprizes.com/the-international-booker-prize",
+    "prize_money": "£50,000 (split between author and translator since 2016)",
+    "eligibility": "2005-2015: any author writing in or translated to English. 2016+: translated fiction published in UK/Ireland"
+  },
+  "statistics": {
+    "total_years": 16,
+    "phase_1_lifetime_achievement": {
+      "years": "2005-2015",
+      "frequency": "biennial",
+      "total_awards": 6,
+      "years_awarded": [
+        2005,
+        2007,
+        2009,
+        2011,
+        2013,
+        2015
+      ]
+    },
+    "phase_2_translated_fiction": {
+      "years": "2016-2025",
+      "frequency": "annual",
+      "total_awards": 10,
+      "years_awarded": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "total_laureates": 16,
+    "countries_represented": 13,
+    "first_translated_work_award": {
+      "year": 2016,
+      "note": "Award restructured to focus on single translated works"
+    },
+    "notable_firsts": {
+      "first_korean_winner": {
+        "year": 2016,
+        "author": "Han Kang",
+        "work": "The Vegetarian"
+      },
+      "first_polish_winner": {
+        "year": 2018,
+        "author": "Olga Tokarczuk",
+        "work": "Flights"
+      },
+      "first_arabic_winner": {
+        "year": 2019,
+        "author": "Jokha al-Harthi",
+        "work": "Celestial Bodies"
+      },
+      "first_hindi_winner": {
+        "year": 2022,
+        "author": "Geetanjali Shree",
+        "work": "Tomb of Sand"
+      },
+      "first_bulgarian_winner": {
+        "year": 2023,
+        "author": "Georgi Gospodinov",
+        "work": "Time Shelter"
+      },
+      "first_german_winner": {
+        "year": 2024,
+        "author": "Jenny Erpenbeck",
+        "work": "Kairos"
+      },
+      "first_story_collection_winner": {
+        "year": 2025,
+        "author": "Banu Mushtaq",
+        "work": "Heart Lamp: Selected Stories"
+      }
+    }
+  },
+  "laureates_by_year": {
+    "2025": {
+      "phase": "translated_fiction",
+      "laureates": [
+        {
+          "name": "Banu Mushtaq",
+          "work": {
+            "title": "Heart Lamp: Selected Stories",
+            "translations": {},
+            "original_title": "ಎದೆಯ ಹಣತೆ",
+            "original_language": "Kannada",
+            "translator": "Deepa Bhasthi"
+          },
+          "country": "India",
+          "genre": [
+            "short_stories"
+          ],
+          "notes": "First Kannada work to win, first story collection to win, first Indian translator to win"
+        }
+      ]
+    },
+    "2024": {
+      "phase": "translated_fiction",
+      "laureates": [
+        {
+          "name": "Jenny Erpenbeck",
+          "work": {
+            "title": "Kairos",
+            "translations": {},
+            "original_language": "German",
+            "translator": "Michael Hofmann"
+          },
+          "country": "Germany",
+          "genre": [
+            "fiction"
+          ],
+          "notes": "First German winner, first male translator to win"
+        }
+      ]
+    },
+    "2023": {
+      "phase": "translated_fiction",
+      "laureates": [
+        {
+          "name": "Georgi Gospodinov",
+          "work": {
+            "title": "Time Shelter",
+            "translations": {},
+            "original_title": "Времеубежище",
+            "original_language": "Bulgarian",
+            "translator": "Angela Rodel"
+          },
+          "country": "Bulgaria",
+          "genre": [
+            "fiction"
+          ],
+          "notes": "First Bulgarian winner"
+        }
+      ]
+    },
+    "2022": {
+      "phase": "translated_fiction",
+      "laureates": [
+        {
+          "name": "Geetanjali Shree",
+          "work": {
+            "title": "Tomb of Sand",
+            "translations": {},
+            "original_title": "रेत समाधि",
+            "original_language": "Hindi",
+            "translator": "Daisy Rockwell"
+          },
+          "country": "India",
+          "genre": [
+            "fiction"
+          ],
+          "notes": "First Hindi-language novel to win, first Indian language novel to win"
+        }
+      ]
+    },
+    "2021": {
+      "phase": "translated_fiction",
+      "laureates": [
+        {
+          "name": "David Diop",
+          "work": {
+            "title": "At Night All Blood Is Black",
+            "translations": {},
+            "original_title": "Frère d'âme",
+            "original_language": "French",
+            "translator": "Anna Moschovakis"
+          },
+          "country": "France",
+          "genre": [
+            "fiction"
+          ]
+        }
+      ]
+    },
+    "2020": {
+      "phase": "translated_fiction",
+      "laureates": [
+        {
+          "name": "Marieke Lucas Rijneveld",
+          "work": {
+            "title": "The Discomfort of Evening",
+            "translations": {},
+            "original_title": "De avond is ongemak",
+            "original_language": "Dutch",
+            "translator": "Michele Hutchison"
+          },
+          "country": "Netherlands",
+          "genre": [
+            "fiction"
+          ],
+          "notes": "Winner announced on 26 August 2020 (delayed due to COVID-19)"
+        }
+      ]
+    },
+    "2019": {
+      "phase": "translated_fiction",
+      "laureates": [
+        {
+          "name": "Jokha al-Harthi",
+          "work": {
+            "title": "Celestial Bodies",
+            "translations": {},
+            "original_title": "سيدات القمر",
+            "original_language": "Arabic",
+            "translator": "Marilyn Booth"
+          },
+          "country": "Oman",
+          "genre": [
+            "fiction"
+          ],
+          "notes": "First author writing in Arabic to win"
+        }
+      ]
+    },
+    "2018": {
+      "phase": "translated_fiction",
+      "laureates": [
+        {
+          "name": "Olga Tokarczuk",
+          "work": {
+            "title": "Flights",
+            "translations": {},
+            "original_title": "Bieguni",
+            "original_language": "Polish",
+            "translator": "Jennifer Croft"
+          },
+          "country": "Poland",
+          "genre": [
+            "fiction"
+          ],
+          "notes": "First Polish author to win"
+        }
+      ]
+    },
+    "2017": {
+      "phase": "translated_fiction",
+      "laureates": [
+        {
+          "name": "David Grossman",
+          "work": {
+            "title": "A Horse Walks into a Bar",
+            "translations": {},
+            "original_title": "סוס אחד נכנס לבר",
+            "original_language": "Hebrew",
+            "translator": "Jessica Cohen"
+          },
+          "country": "Israel",
+          "genre": [
+            "fiction"
+          ],
+          "notes": "First Israeli author to win"
+        }
+      ]
+    },
+    "2016": {
+      "phase": "translated_fiction",
+      "laureates": [
+        {
+          "name": "Han Kang",
+          "work": {
+            "title": "The Vegetarian",
+            "translations": {},
+            "original_title": "채식주의자",
+            "original_language": "Korean",
+            "translator": "Deborah Smith"
+          },
+          "country": "South Korea",
+          "genre": [
+            "fiction"
+          ],
+          "notes": "First Korean author to win, first year of new translated fiction format"
+        }
+      ]
+    },
+    "2015": {
+      "phase": "lifetime_achievement",
+      "laureates": [
+        {
+          "name": "László Krasznahorkai",
+          "country": "Hungary",
+          "original_language": "Hungarian",
+          "translators": "George Szirtes and Ottilie Mulzet",
+          "genre": [
+            "fiction"
+          ],
+          "notes": "First Hungarian winner, lifetime achievement award"
+        }
+      ]
+    },
+    "2013": {
+      "phase": "lifetime_achievement",
+      "laureates": [
+        {
+          "name": "Lydia Davis",
+          "country": "United States",
+          "original_language": "English",
+          "genre": [
+            "short_stories",
+            "fiction"
+          ],
+          "notes": "Known for short story writing, lifetime achievement award"
+        }
+      ]
+    },
+    "2011": {
+      "phase": "lifetime_achievement",
+      "laureates": [
+        {
+          "name": "Philip Roth",
+          "country": "United States",
+          "original_language": "English",
+          "genre": [
+            "fiction"
+          ],
+          "notes": "Controversial win - judge Carmen Callil resigned in protest, lifetime achievement award"
+        }
+      ]
+    },
+    "2009": {
+      "phase": "lifetime_achievement",
+      "laureates": [
+        {
+          "name": "Alice Munro",
+          "country": "Canada",
+          "original_language": "English",
+          "genre": [
+            "short_stories"
+          ],
+          "notes": "Master of short story form, lifetime achievement award"
+        }
+      ]
+    },
+    "2007": {
+      "phase": "lifetime_achievement",
+      "laureates": [
+        {
+          "name": "Chinua Achebe",
+          "country": "Nigeria",
+          "original_language": "English",
+          "genre": [
+            "fiction"
+          ],
+          "notes": "Father of modern African literature, lifetime achievement award"
+        }
+      ]
+    },
+    "2005": {
+      "phase": "lifetime_achievement",
+      "laureates": [
+        {
+          "name": "Ismail Kadare",
+          "country": "Albania",
+          "original_language": "Albanian",
+          "genre": [
+            "fiction"
+          ],
+          "notes": "Inaugural winner, lifetime achievement award"
+        }
+      ]
+    }
+  }
+}

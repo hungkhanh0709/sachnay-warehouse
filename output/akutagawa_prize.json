@@ -31,39 +31,51 @@
             "laureates": [
                 {
                     "name": "Aki Asahina",
-                    "work_title": "Sanshōuo no Shijūkunichi (サンショウウオの四十九日)",
-                    "published_in": "Shinchō",
+                    "work": {
+                        "title": "Sanshōuo no Shijūkunichi (サンショウウオの四十九日)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Shinchō"
                 },
                 {
                     "name": "Sanzō K. Matsunaga",
-                    "work_title": "Bari Sankō (バリ山行)",
-                    "published_in": "Gunzō",
+                    "work": {
+                        "title": "Bari Sankō (バリ山行)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Gunzō"
                 },
                 {
                     "name": "Jose Ando",
-                    "work_title": "Dtopia",
-                    "published_in": "Bungei",
+                    "work": {
+                        "title": "Dtopia",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Bungei"
                 },
                 {
                     "name": "Yuui Suzuki",
-                    "work_title": "Goethe wa Subete o Itta (ゲーテはすべてを言った)",
-                    "published_in": "Shōsetsu Tripper",
+                    "work": {
+                        "title": "Goethe wa Subete o Itta (ゲーテはすべてを言った)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Shōsetsu Tripper"
                 }
             ]
         },
@@ -71,23 +83,29 @@
             "laureates": [
                 {
                     "name": "Saou Ichikawa",
-                    "work_title": "Hunchback (ハンチバック)",
-                    "published_in": "Bungei",
+                    "work": {
+                        "title": "Hunchback (ハンチバック)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Hunchback, trans. Polly Barton, Penguin, 2025",
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Bungei",
+                    "english_translation": "Hunchback, trans. Polly Barton, Penguin, 2025"
                 },
                 {
                     "name": "Rie Kudan",
-                    "work_title": "Sympathy Tokyo Tower (東京都同情塔, Tokyō-to Dōjō-tō)",
-                    "published_in": "Shinchō",
+                    "work": {
+                        "title": "Sympathy Tokyo Tower (東京都同情塔, Tokyō-to Dōjō-tō)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Sympathy Tower Tokyo, trans. Jesse Kirkwood, Penguin, 2025",
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Shinchō",
+                    "english_translation": "Sympathy Tower Tokyo, trans. Jesse Kirkwood, Penguin, 2025"
                 }
             ]
         },
@@ -95,31 +113,40 @@
             "laureates": [
                 {
                     "name": "Junko Takase",
-                    "work_title": "May You Have Delicious Meals (おいしいごはんが食べられますように, Oishii Gohan ga Taberaremasuyōni)",
-                    "published_in": "Gunzō",
+                    "work": {
+                        "title": "May You Have Delicious Meals (おいしいごはんが食べられますように, Oishii Gohan ga Taberaremasuyōni)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "May You Have Delicious Meals, trans. Morgan Giles, Penguin, 2025",
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Gunzō",
+                    "english_translation": "May You Have Delicious Meals, trans. Morgan Giles, Penguin, 2025"
                 },
                 {
                     "name": "Iko Idogawa",
-                    "work_title": "Kono Yo no Yorokobi yo (この世の喜びよ)",
-                    "published_in": "Gunzō",
+                    "work": {
+                        "title": "Kono Yo no Yorokobi yo (この世の喜びよ)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Gunzō"
                 },
                 {
                     "name": "Atsushi Satō",
-                    "work_title": "Arechi no Kazoku (荒地の家族)",
-                    "published_in": "Shinchō",
+                    "work": {
+                        "title": "Arechi no Kazoku (荒地の家族)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Shinchō"
                 }
             ]
         },
@@ -127,31 +154,40 @@
             "laureates": [
                 {
                     "name": "Li Kotomi",
-                    "work_title": "Higanbana ga saku shima (彼岸花が咲く島)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "Higanbana ga saku shima (彼岸花が咲く島)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Bungakukai"
                 },
                 {
                     "name": "Mai Ishizawa",
-                    "work_title": "The Place of Shells (貝に続く場所にて, Kai ni tsudzuku basho nite)",
-                    "published_in": "Gunzō",
+                    "work": {
+                        "title": "The Place of Shells (貝に続く場所にて, Kai ni tsudzuku basho nite)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "The Place of Shells, trans. Polly Barton, New Directions Publishing, 2025",
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Gunzō",
+                    "english_translation": "The Place of Shells, trans. Polly Barton, New Directions Publishing, 2025"
                 },
                 {
                     "name": "Bunji Sunakawa",
-                    "work_title": "Black Box (ブラックボックス)",
-                    "published_in": "Gunzō",
+                    "work": {
+                        "title": "Black Box (ブラックボックス)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Gunzō"
                 }
             ]
         },
@@ -159,31 +195,40 @@
             "laureates": [
                 {
                     "name": "Haruka Tono",
-                    "work_title": "Hakyoku (破局)",
-                    "published_in": "Bungei",
+                    "work": {
+                        "title": "Hakyoku (破局)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Bungei"
                 },
                 {
                     "name": "Haneko Takayama",
-                    "work_title": "Shuri no Uma (首里の馬)",
-                    "published_in": "Shinchō",
+                    "work": {
+                        "title": "Shuri no Uma (首里の馬)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Shinchō"
                 },
                 {
                     "name": "Rin Usami",
-                    "work_title": "Idol, Burning (推し、燃ゆ, Oshi, Moyu)",
-                    "published_in": "Bungei",
+                    "work": {
+                        "title": "Idol, Burning (推し、燃ゆ, Oshi, Moyu)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Idol, Burning, trans. Asa Yoneda, HarperVia, 2022",
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Bungei",
+                    "english_translation": "Idol, Burning, trans. Asa Yoneda, HarperVia, 2022"
                 }
             ]
         },
@@ -191,22 +236,28 @@
             "laureates": [
                 {
                     "name": "Natsuko Imamura",
-                    "work_title": "The Woman in the Purple Skirt (むらさきのスカートの女, Murasaki no Sukāto no Onna)",
-                    "published_in": "Shōsetsu Tripper",
+                    "work": {
+                        "title": "The Woman in the Purple Skirt (むらさきのスカートの女, Murasaki no Sukāto no Onna)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "The Woman in the Purple Skirt, trans. Lucy North, Faber and Faber, 2021",
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Shōsetsu Tripper",
+                    "english_translation": "The Woman in the Purple Skirt, trans. Lucy North, Faber and Faber, 2021"
                 },
                 {
                     "name": "Makoto Furukawa",
-                    "work_title": "Seitaka Awadachisō (背高泡立草)",
-                    "published_in": "Subaru",
+                    "work": {
+                        "title": "Seitaka Awadachisō (背高泡立草)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Subaru"
                 }
             ]
         },
@@ -214,30 +265,39 @@
             "laureates": [
                 {
                     "name": "Hiroki Takahashi",
-                    "work_title": "Okuribi (送り火)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "Okuribi (送り火)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Bungakukai"
                 },
                 {
                     "name": "Ryōhei Machiya",
-                    "work_title": "1R 1-Pun 34-Byō (1R1分34秒)",
-                    "published_in": "Shinchō",
+                    "work": {
+                        "title": "1R 1-Pun 34-Byō (1R1分34秒)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Shinchō"
                 },
                 {
                     "name": "Takahiro Ueda",
-                    "work_title": "Nimuroddo (ニムロッド)",
-                    "published_in": "Gunzō",
+                    "work": {
+                        "title": "Nimuroddo (ニムロッド)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Gunzō"
                 }
             ]
         },
@@ -245,31 +305,40 @@
             "laureates": [
                 {
                     "name": "Shinsuke Numata",
-                    "work_title": "Eiri (影裏)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "Eiri (影裏)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Bungakukai"
                 },
                 {
                     "name": "Chisako Wakatake",
-                    "work_title": "Ora Ora de Hitori Igumo (おらおらでひとりいぐも)",
-                    "published_in": "Bungei",
+                    "work": {
+                        "title": "Ora Ora de Hitori Igumo (おらおらでひとりいぐも)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Bungei"
                 },
                 {
                     "name": "Yūka Ishii",
-                    "work_title": "The Mud of a Century (百年泥, Hyakunen Doro)",
-                    "published_in": "Shinchō",
+                    "work": {
+                        "title": "The Mud of a Century (百年泥, Hyakunen Doro)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "The Mud of a Century, trans. Haydn Trowell, Gazebo Books, 2023",
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Shinchō",
+                    "english_translation": "The Mud of a Century, trans. Haydn Trowell, Gazebo Books, 2023"
                 }
             ]
         },
@@ -277,22 +346,28 @@
             "laureates": [
                 {
                     "name": "Sayaka Murata",
-                    "work_title": "Convenience Store Woman (コンビニ人間, Konbini Ningen)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "Convenience Store Woman (コンビニ人間, Konbini Ningen)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Convenience Store Woman, trans. Ginny Tapley Takemori, Grove Press, 2018",
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Bungakukai",
+                    "english_translation": "Convenience Store Woman, trans. Ginny Tapley Takemori, Grove Press, 2018"
                 },
                 {
                     "name": "Sumito Yamashita",
-                    "work_title": "Shinsekai (しんせかい)",
-                    "published_in": "Shinchō",
+                    "work": {
+                        "title": "Shinsekai (しんせかい)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Shinchō"
                 }
             ]
         },
@@ -300,28 +375,35 @@
             "laureates": [
                 {
                     "name": "Keisuke Hada",
-                    "work_title": "Sukurappu Ando Birudo (スクラップ・アンド・ビルド)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "Sukurappu Ando Birudo (スクラップ・アンド・ビルド)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Bungakukai"
                 },
                 {
                     "name": "Naoki Matayoshi",
-                    "work_title": "Spark (火花, Hibana)",
-                    "published_in": null,
+                    "work": {
+                        "title": "Spark (火花, Hibana)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Spark, trans. Allison Watts, Pushkin Press, 2020",
                     "notes": "Best-seller: 2.29 million copies sold",
-                    "edition": "upper"
+                    "edition": "upper",
+                    "english_translation": "Spark, trans. Allison Watts, Pushkin Press, 2020"
                 },
                 {
                     "name": "Yūshō Takiguchi",
-                    "work_title": "Shinde Inai Mono (死んでいない者)",
-                    "published_in": null,
+                    "work": {
+                        "title": "Shinde Inai Mono (死んでいない者)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
@@ -329,13 +411,16 @@
                 },
                 {
                     "name": "Yukiko Motoya",
-                    "work_title": "An Exotic Marriage (異類婚姻譚, Irui Konin Tan)",
-                    "published_in": "Gunzō",
+                    "work": {
+                        "title": "An Exotic Marriage (異類婚姻譚, Irui Konin Tan)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "An Exotic Marriage (In The Lonesome Bodybuilder), trans. Asa Yoneda, Soft Skull, 2018",
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Gunzō",
+                    "english_translation": "An Exotic Marriage (In The Lonesome Bodybuilder), trans. Asa Yoneda, Soft Skull, 2018"
                 }
             ]
         },
@@ -343,22 +428,28 @@
             "laureates": [
                 {
                     "name": "Tomoka Shibasaki",
-                    "work_title": "Spring Garden (春の庭, Haru no Niwa)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "Spring Garden (春の庭, Haru no Niwa)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Spring Garden, trans. Polly Barton, Pushkin Press, 2017",
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Bungakukai",
+                    "english_translation": "Spring Garden, trans. Polly Barton, Pushkin Press, 2017"
                 },
                 {
                     "name": "Masatsugu Ono",
-                    "work_title": "Kyūnenmae no Inori (九年前の祈り)",
-                    "published_in": "Gunzō",
+                    "work": {
+                        "title": "Kyūnenmae no Inori (九年前の祈り)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Gunzō"
                 }
             ]
         },
@@ -366,23 +457,28 @@
             "laureates": [
                 {
                     "name": "Kaori Fujino",
-                    "work_title": "Nails and Eyes (爪と目, Tsume to Me)",
-                    "published_in": "Shinchō",
+                    "work": {
+                        "title": "Nails and Eyes (爪と目, Tsume to Me)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Nails and Eyes, trans. Kendall Heitzman, Pushkin Press, 2023",
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Shinchō",
+                    "english_translation": "Nails and Eyes, trans. Kendall Heitzman, Pushkin Press, 2023"
                 },
                 {
                     "name": "Hiroko Oyamada",
-                    "work_title": "The Hole (穴, Ana)",
-                    "published_in": null,
+                    "work": {
+                        "title": "The Hole (穴, Ana)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "The Hole, trans. David Boyd, New Directions Publishing, 2020",
-                    "edition": "lower"
+                    "edition": "lower",
+                    "english_translation": "The Hole, trans. David Boyd, New Directions Publishing, 2020"
                 }
             ]
         },
@@ -390,23 +486,29 @@
             "laureates": [
                 {
                     "name": "Maki Kashimada",
-                    "work_title": "Touring the Land of the Dead (冥土めぐり, Meido Meguri)",
-                    "published_in": "Bungei",
+                    "work": {
+                        "title": "Touring the Land of the Dead (冥土めぐり, Meido Meguri)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Touring the Land of the Dead, trans. Haydn Trowell, Europa Editions, 2021",
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Bungei",
+                    "english_translation": "Touring the Land of the Dead, trans. Haydn Trowell, Europa Editions, 2021"
                 },
                 {
                     "name": "Natsuko Kuroda",
-                    "work_title": "ab Sango (abさんご)",
-                    "published_in": "Waseda Bungaku",
+                    "work": {
+                        "title": "ab Sango (abさんご)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
                     "notes": "Oldest recipient at age 75",
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Waseda Bungaku"
                 }
             ]
         },
@@ -414,23 +516,29 @@
             "laureates": [
                 {
                     "name": "Toh EnJoe",
-                    "work_title": "Harlequin's Butterfly (道化師の蝶, Dōkeshi no Chō)",
-                    "published_in": "Gunzō",
+                    "work": {
+                        "title": "Harlequin's Butterfly (道化師の蝶, Dōkeshi no Chō)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Harlequin Butterfly, trans. David Boyd, Pushkin Press, 2024",
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Gunzō",
+                    "english_translation": "Harlequin Butterfly, trans. David Boyd, Pushkin Press, 2024"
                 },
                 {
                     "name": "Shinya Tanaka",
-                    "work_title": "Cannibals (共喰い, Tomogui)",
-                    "published_in": "Subaru",
+                    "work": {
+                        "title": "Cannibals (共喰い, Tomogui)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Cannibals, trans. Kalau Almony, Honford Star, 2024",
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Subaru",
+                    "english_translation": "Cannibals, trans. Kalau Almony, Honford Star, 2024"
                 }
             ]
         },
@@ -438,17 +546,22 @@
             "laureates": [
                 {
                     "name": "Akiko Akazome",
-                    "work_title": "Otome no Mikkoku (乙女の密告)",
-                    "published_in": "Shinchō",
+                    "work": {
+                        "title": "Otome no Mikkoku (乙女の密告)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Shinchō"
                 },
                 {
                     "name": "Mariko Asabuki",
-                    "work_title": "Kikotowa (きことわ)",
-                    "published_in": null,
+                    "work": {
+                        "title": "Kikotowa (きことわ)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
@@ -456,8 +569,10 @@
                 },
                 {
                     "name": "Kenta Nishimura",
-                    "work_title": "Kueki Ressha (苦役列車)",
-                    "published_in": null,
+                    "work": {
+                        "title": "Kueki Ressha (苦役列車)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
@@ -469,12 +584,15 @@
             "laureates": [
                 {
                     "name": "Ken'ichirō Isozaki",
-                    "work_title": "Tsui no Sumika (終の住処)",
-                    "published_in": "Shinchō",
+                    "work": {
+                        "title": "Tsui no Sumika (終の住処)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Shinchō"
                 }
             ]
         },
@@ -482,8 +600,10 @@
             "laureates": [
                 {
                     "name": "Yang Yi",
-                    "work_title": "Toki ga Nijimu Asa (時が滲む朝)",
-                    "published_in": null,
+                    "work": {
+                        "title": "Toki ga Nijimu Asa (時が滲む朝)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
@@ -491,12 +611,15 @@
                 },
                 {
                     "name": "Kikuko Tsumura",
-                    "work_title": "Potosu Raimu no Fune (ポトスライムの舟)",
-                    "published_in": "Gunzō",
+                    "work": {
+                        "title": "Potosu Raimu no Fune (ポトスライムの舟)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Gunzō"
                 }
             ]
         },
@@ -504,21 +627,27 @@
             "laureates": [
                 {
                     "name": "Tetsushi Suwa",
-                    "work_title": "Asatte no Hito (アサッテの人)",
-                    "published_in": "Gunzō",
+                    "work": {
+                        "title": "Asatte no Hito (アサッテの人)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Gunzō"
                 },
                 {
                     "name": "Mieko Kawakami",
-                    "work_title": "Chichi to Ran (乳と卵)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "Chichi to Ran (乳と卵)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Bungakukai"
                 }
             ]
         },
@@ -526,8 +655,10 @@
             "laureates": [
                 {
                     "name": "Takami Itō",
-                    "work_title": "Hachigatsu no Rojō ni Suteru (八月の路上に捨てる)",
-                    "published_in": null,
+                    "work": {
+                        "title": "Hachigatsu no Rojō ni Suteru (八月の路上に捨てる)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
@@ -535,13 +666,16 @@
                 },
                 {
                     "name": "Nanae Aoyama",
-                    "work_title": "A Perfect Day to Be Alone (ひとり日和, Hitori Biyori)",
-                    "published_in": "Bungei",
+                    "work": {
+                        "title": "A Perfect Day to Be Alone (ひとり日和, Hitori Biyori)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "A Perfect Day to Be Alone, trans. Jesse Kirkwood, MacLehose Press, 2024",
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Bungei",
+                    "english_translation": "A Perfect Day to Be Alone, trans. Jesse Kirkwood, MacLehose Press, 2024"
                 }
             ]
         },
@@ -549,23 +683,29 @@
             "laureates": [
                 {
                     "name": "Fuminori Nakamura",
-                    "work_title": "The Boy in the Earth (土の中の子供, Tsuchi no Naka no Kodomo)",
-                    "published_in": "Shinchō",
+                    "work": {
+                        "title": "The Boy in the Earth (土の中の子供, Tsuchi no Naka no Kodomo)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "The Boy in the Earth, trans. Allison Markin Powell, Soho Crime, 2017",
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Shinchō",
+                    "english_translation": "The Boy in the Earth, trans. Allison Markin Powell, Soho Crime, 2017"
                 },
                 {
                     "name": "Akiko Itoyama",
-                    "work_title": "Waiting in the Offing (沖で待つ, Oki de Matsu)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "Waiting in the Offing (沖で待つ, Oki de Matsu)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Waiting in the Offing (In Words Without Borders), trans. Charles De Wolf, April 2007",
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Bungakukai",
+                    "english_translation": "Waiting in the Offing (In Words Without Borders), trans. Charles De Wolf, April 2007"
                 }
             ]
         },
@@ -573,21 +713,27 @@
             "laureates": [
                 {
                     "name": "Norio Mobu",
-                    "work_title": "Kaigo Nyūmon (介護入門)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "Kaigo Nyūmon (介護入門)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Bungakukai"
                 },
                 {
                     "name": "Kazushige Abe",
-                    "work_title": "Gurando Fināre (グランド･フィナーレ)",
-                    "published_in": "Gunzō",
+                    "work": {
+                        "title": "Gurando Fināre (グランド･フィナーレ)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Gunzō"
                 }
             ]
         },
@@ -595,8 +741,10 @@
             "laureates": [
                 {
                     "name": "Man'ichi Yoshimura",
-                    "work_title": "Hariganemushi (ハリガネムシ)",
-                    "published_in": null,
+                    "work": {
+                        "title": "Hariganemushi (ハリガネムシ)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
@@ -604,25 +752,31 @@
                 },
                 {
                     "name": "Hitomi Kanehara",
-                    "work_title": "Snakes and Earrings (蛇にピアス, Hebi ni Piasu)",
-                    "published_in": "Subaru",
+                    "work": {
+                        "title": "Snakes and Earrings (蛇にピアス, Hebi ni Piasu)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Snakes and Earrings, trans. David Karashima, Dutton, 2005",
                     "notes": "Co-winner, age 20",
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Subaru",
+                    "english_translation": "Snakes and Earrings, trans. David Karashima, Dutton, 2005"
                 },
                 {
                     "name": "Risa Wataya",
-                    "work_title": "I Want to Kick You in the Back (蹴りたい背中, Keritai Senaka)",
-                    "published_in": "Bungei",
+                    "work": {
+                        "title": "I Want to Kick You in the Back (蹴りたい背中, Keritai Senaka)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "I Want to Kick You in the Back, trans. Julianne Neville, One Peace Books, 2015",
                     "notes": "Co-winner, youngest recipient at age 19",
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Bungei",
+                    "english_translation": "I Want to Kick You in the Back, trans. Julianne Neville, One Peace Books, 2015"
                 }
             ]
         },
@@ -630,8 +784,10 @@
             "laureates": [
                 {
                     "name": "Shūichi Yoshida",
-                    "work_title": "Pāku Raifu (パーク・ライフ)",
-                    "published_in": null,
+                    "work": {
+                        "title": "Pāku Raifu (パーク・ライフ)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
@@ -639,8 +795,10 @@
                 },
                 {
                     "name": "Tamaki Daidō",
-                    "work_title": "Shoppai Doraibu (しょっぱいドライブ)",
-                    "published_in": null,
+                    "work": {
+                        "title": "Shoppai Doraibu (しょっぱいドライブ)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
@@ -652,17 +810,22 @@
             "laureates": [
                 {
                     "name": "Sōkyū Gen'yū",
-                    "work_title": "Chūin no Hana (中陰の花)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "Chūin no Hana (中陰の花)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Bungakukai"
                 },
                 {
                     "name": "Yū Nagashima",
-                    "work_title": "Mō-Supīdo de Haha wa (猛スピードで母は)",
-                    "published_in": null,
+                    "work": {
+                        "title": "Mō-Supīdo de Haha wa (猛スピードで母は)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
@@ -674,41 +837,53 @@
             "laureates": [
                 {
                     "name": "Kō Machida",
-                    "work_title": "Rip It Up (きれぎれ, Kiregire)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "Rip It Up (きれぎれ, Kiregire)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Rip It Up, trans. Daniel Joseph, Mercurial Editions, 2022",
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Bungakukai",
+                    "english_translation": "Rip It Up, trans. Daniel Joseph, Mercurial Editions, 2022"
                 },
                 {
                     "name": "Hisaki Matsuura",
-                    "work_title": "Hana Kutashi (花腐し)",
-                    "published_in": "Gunzō",
+                    "work": {
+                        "title": "Hana Kutashi (花腐し)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Gunzō"
                 },
                 {
                     "name": "Yūichi Seirai",
-                    "work_title": "Seisui (聖水)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "Seisui (聖水)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Bungakukai"
                 },
                 {
                     "name": "Toshiyuki Horie",
-                    "work_title": "The Bear and the Paving Stone (熊の敷石, Kuma no Shikiishi)",
-                    "published_in": "Gunzō",
+                    "work": {
+                        "title": "The Bear and the Paving Stone (熊の敷石, Kuma no Shikiishi)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "The Bear and the Paving Stone, trans. Geraint Howells, Pushkin Press, 2018",
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Gunzō",
+                    "english_translation": "The Bear and the Paving Stone, trans. Geraint Howells, Pushkin Press, 2018"
                 }
             ]
         },
@@ -716,21 +891,27 @@
             "laureates": [
                 {
                     "name": "Gen Getsu",
-                    "work_title": "Kage no Sumika (蔭の棲みか)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "Kage no Sumika (蔭の棲みか)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Bungakukai"
                 },
                 {
                     "name": "Chiya Fujino",
-                    "work_title": "Natsu no Yakusoku (夏の約束)",
-                    "published_in": "Gunzō",
+                    "work": {
+                        "title": "Natsu no Yakusoku (夏の約束)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Gunzō"
                 }
             ]
         },
@@ -738,31 +919,40 @@
             "laureates": [
                 {
                     "name": "Mangetsu Hanamura",
-                    "work_title": "Gerumaniamu no Yoru (ゲルマニウムの夜)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "Gerumaniamu no Yoru (ゲルマニウムの夜)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Bungakukai"
                 },
                 {
                     "name": "Shū Fujisawa",
-                    "work_title": "Buenosu Airesu Gozen Reiji (ブエノスアイレス午前零時)",
-                    "published_in": "Bungei",
+                    "work": {
+                        "title": "Buenosu Airesu Gozen Reiji (ブエノスアイレス午前零時)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Bungei"
                 },
                 {
                     "name": "Keiichirō Hirano",
-                    "work_title": "Eclipse (日蝕, Nisshoku)",
-                    "published_in": "Shinchō",
+                    "work": {
+                        "title": "Eclipse (日蝕, Nisshoku)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Eclipse, trans. Brent de Chene and Charles De Wolf, Columbia University Press, 2024",
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Shinchō",
+                    "english_translation": "Eclipse, trans. Brent de Chene and Charles De Wolf, Columbia University Press, 2024"
                 }
             ]
         },
@@ -770,13 +960,16 @@
             "laureates": [
                 {
                     "name": "Shun Medoruma",
-                    "work_title": "Droplets (水滴, Suiteki)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "Droplets (水滴, Suiteki)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Droplets (In Southern Exposure: Modern Japanese Literature from Okinawa), trans. Michael Molasky, University of Hawaii Press, 2000",
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Bungakukai",
+                    "english_translation": "Droplets (In Southern Exposure: Modern Japanese Literature from Okinawa), trans. Michael Molasky, University of Hawaii Press, 2000"
                 }
             ]
         },
@@ -784,31 +977,39 @@
             "laureates": [
                 {
                     "name": "Hiromi Kawakami",
-                    "work_title": "Record of a Night Too Brief (蛇を踏む, Hebi o Fumu)",
-                    "published_in": null,
+                    "work": {
+                        "title": "Record of a Night Too Brief (蛇を踏む, Hebi o Fumu)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Record of a Night Too Brief, trans. Lucy North, Pushkin Press, 2017",
-                    "edition": "upper"
+                    "edition": "upper",
+                    "english_translation": "Record of a Night Too Brief, trans. Lucy North, Pushkin Press, 2017"
                 },
                 {
                     "name": "Hitonari Tsuji",
-                    "work_title": "Kaikyō no Hikari (海峡の光)",
-                    "published_in": "Shinchō",
+                    "work": {
+                        "title": "Kaikyō no Hikari (海峡の光)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Shinchō"
                 },
                 {
                     "name": "Yū Miri",
-                    "work_title": "Kazoku Shinema (家族シネマ)",
-                    "published_in": "Gunzō",
+                    "work": {
+                        "title": "Kazoku Shinema (家族シネマ)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Gunzō"
                 }
             ]
         },
@@ -816,21 +1017,27 @@
             "laureates": [
                 {
                     "name": "Kazushi Hosaka",
-                    "work_title": "Kono Hito no Iki (この人の閾)",
-                    "published_in": "Shinchō",
+                    "work": {
+                        "title": "Kono Hito no Iki (この人の閾)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Shinchō"
                 },
                 {
                     "name": "Eiki Matayoshi",
-                    "work_title": "Buta no Mukui (豚の報い)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "Buta no Mukui (豚の報い)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Bungakukai"
                 }
             ]
         },
@@ -838,13 +1045,16 @@
             "laureates": [
                 {
                     "name": "Ryū Murakami",
-                    "work_title": "Almost Transparent Blue (限りなく透明に近いブルー, Kagirinaku Tōmei ni Chikai Burū)",
-                    "published_in": "Gunzō",
+                    "work": {
+                        "title": "Almost Transparent Blue (限りなく透明に近いブルー, Kagirinaku Tōmei ni Chikai Burū)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Almost Transparent Blue, trans. Nancy Andrew, Kodansha International, 1977",
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Gunzō",
+                    "english_translation": "Almost Transparent Blue, trans. Nancy Andrew, Kodansha International, 1977"
                 }
             ]
         },
@@ -852,14 +1062,16 @@
             "laureates": [
                 {
                     "name": "Kenzaburō Ōe",
-                    "work_title": "Prize Stock (飼育, Shiiku)",
-                    "published_in": null,
+                    "work": {
+                        "title": "Prize Stock (飼育, Shiiku)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Prize Stock (In Teach Us to Outgrow Our Madness), trans. John Nathan, Grove Press, 1977",
                     "notes": "Later won Nobel Prize in Literature (1994)",
-                    "edition": "upper"
+                    "edition": "upper",
+                    "english_translation": "Prize Stock (In Teach Us to Outgrow Our Madness), trans. John Nathan, Grove Press, 1977"
                 }
             ]
         },
@@ -867,23 +1079,29 @@
             "laureates": [
                 {
                     "name": "Shūsaku Endō",
-                    "work_title": "White Man (白い人, Shiroi Hito)",
-                    "published_in": "Kindai Bungaku",
+                    "work": {
+                        "title": "White Man (白い人, Shiroi Hito)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "White Man (In White Man, Yellow Man), trans. Teruyo Shimizu, Paulist Press, 2014",
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Kindai Bungaku",
+                    "english_translation": "White Man (In White Man, Yellow Man), trans. Teruyo Shimizu, Paulist Press, 2014"
                 },
                 {
                     "name": "Shintarō Ishihara",
-                    "work_title": "Season of Violence (太陽の季節, Taiyō no Kisetsu)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "Season of Violence (太陽の季節, Taiyō no Kisetsu)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "Season of Violence, trans. John G. Mills, Toshie Takahama, and Ken Tremayne, Tuttle, 1966",
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Bungakukai",
+                    "english_translation": "Season of Violence, trans. John G. Mills, Toshie Takahama, and Ken Tremayne, Tuttle, 1966"
                 }
             ]
         },
@@ -891,30 +1109,39 @@
             "laureates": [
                 {
                     "name": "Kōbō Abe",
-                    "work_title": "Kabe—S. Karuma shi no Hanzai (壁—S・カルマ氏の犯罪)",
-                    "published_in": "Kindai Bungaku",
+                    "work": {
+                        "title": "Kabe—S. Karuma shi no Hanzai (壁—S・カルマ氏の犯罪)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Kindai Bungaku"
                 },
                 {
                     "name": "Toshimitsu Ishikawa",
-                    "work_title": "Haru no Kusa (春の草 他)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "Haru no Kusa (春の草 他)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Bungakukai"
                 },
                 {
                     "name": "Yoshie Hotta",
-                    "work_title": "Hiroba no Kodoku (広場の孤独 他)",
-                    "published_in": "Chūōkōron",
+                    "work": {
+                        "title": "Hiroba no Kodoku (広場の孤独 他)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Chūōkōron"
                 }
             ]
         },
@@ -922,31 +1149,40 @@
             "laureates": [
                 {
                     "name": "Tsuyoshi Kotani",
-                    "work_title": "Kakushō (確証)",
-                    "published_in": "Sakka",
+                    "work": {
+                        "title": "Kakushō (確証)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Sakka"
                 },
                 {
                     "name": "Shigeko Yuki",
-                    "work_title": "Hon no Hanashi (本の話)",
-                    "published_in": "Sakuhin",
+                    "work": {
+                        "title": "Hon no Hanashi (本の話)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Sakuhin"
                 },
                 {
                     "name": "Yasushi Inoue",
-                    "work_title": "The Bullfight (闘牛, Tōgyū)",
-                    "published_in": "Bungakukai",
+                    "work": {
+                        "title": "The Bullfight (闘牛, Tōgyū)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
-                    "english_translation": "The Bullfight, trans. Michael Emmerich, Pushkin Press, 2013",
-                    "edition": "lower"
+                    "edition": "lower",
+                    "published_in": "Bungakukai",
+                    "english_translation": "The Bullfight, trans. Michael Emmerich, Pushkin Press, 2013"
                 }
             ]
         },
@@ -954,13 +1190,16 @@
             "laureates": [
                 {
                     "name": "Tatsuzō Ishikawa",
-                    "work_title": "Sōbō (蒼氓)",
-                    "published_in": "Seiza (星座)",
+                    "work": {
+                        "title": "Sōbō (蒼氓)",
+                        "translations": {}
+                    },
                     "genre": [
                         "fiction"
                     ],
                     "notes": "First Akutagawa Prize winner",
-                    "edition": "upper"
+                    "edition": "upper",
+                    "published_in": "Seiza (星座)"
                 }
             ]
         }

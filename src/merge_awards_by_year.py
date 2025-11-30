@@ -45,7 +45,6 @@ def create_nobel_award_entry(year: str, year_data: Any) -> Dict:
             "name": laureate.get("name"),
             "country": laureate.get("country"),
             "language": laureate.get("language"),
-            "work_title": None,  # Nobel doesn't specify specific work
             "motivation": laureate.get("motivation"),
             "genre": laureate.get("genre", [])
         }
@@ -68,12 +67,15 @@ def create_pulitzer_award_entry(year: str, year_data: Dict) -> Dict:
     laureates = year_data.get("laureates", [])
     
     for laureate in laureates:
+        work = laureate.get("work", {})
         laureate_entry = {
             "name": laureate.get("name"),
             "country": "United States",
             "birth_state": laureate.get("birth_state"),
-            "work_title": laureate.get("book_title"),
-            "publisher": laureate.get("publisher"),
+            "work": {
+                "title": work.get("title", ""),
+                "translations": work.get("translations", {})
+            },
             "year_published": laureate.get("year_published"),
             "motivation": laureate.get("citation"),
             "genre": laureate.get("genre", [])
@@ -109,11 +111,14 @@ def create_booker_award_entry(year: str, year_data: Dict) -> Dict:
         elif genre is None:
             genre = []
         
+        work = laureate.get("work", {})
         laureate_entry = {
-            "name": laureate.get("author"),
-            "country": laureate.get("nationality"),
-            "work_title": laureate.get("book"),
-            "publisher": laureate.get("publisher"),
+            "name": laureate.get("name"),
+            "country": laureate.get("country"),
+            "work": {
+                "title": work.get("title", ""),
+                "translations": work.get("translations", {})
+            },
             "genre": genre,
             "judges_chair": laureate.get("judges_chair")
         }
@@ -134,43 +139,34 @@ def create_booker_award_entry(year: str, year_data: Dict) -> Dict:
 def create_goodreads_award_entry(year: str, year_data: Dict) -> Dict:
     """Create Goodreads Choice Awards entry for a year.
     
-    Flattens the nested categories structure into a flat list of laureates.
-    Each category becomes one laureate entry with category information.
+    Uses the new laureates array structure with work object.
     """
     award_entry = {
         "award_id": "intl_goodreads_choice",
         "laureates": []
     }
     
-    # Extract categories
-    categories = year_data.get("categories", {})
+    # Extract laureates
+    laureates = year_data.get("laureates", [])
     
-    # Iterate through each category
-    for category_key, category_data in categories.items():
-        laureate_entry = {}
-        
-        # Author name (required)
-        if "author" in category_data:
-            laureate_entry["name"] = category_data["author"]
-        
-        # Book title (required for Goodreads)
-        if "book" in category_data:
-            laureate_entry["work_title"] = category_data["book"]
-        
-        # Category information (e.g., "fiction", "fantasy", "romance")
-        laureate_entry["category"] = category_key
-        
-        # Publisher (optional)
-        if "publisher" in category_data and category_data["publisher"]:
-            laureate_entry["publisher"] = category_data["publisher"]
-        
-        # Notes (optional)
-        if "notes" in category_data and category_data["notes"]:
-            laureate_entry["notes"] = category_data["notes"]
+    for laureate in laureates:
+        work = laureate.get("work", {})
+        laureate_entry = {
+            "name": laureate.get("name"),
+            "work": {
+                "title": work.get("title", ""),
+                "translations": work.get("translations", {})
+            },
+            "category": laureate.get("category")
+        }
         
         # Special field for audiobook category
-        if "narrator" in category_data and category_data["narrator"]:
-            laureate_entry["narrator"] = category_data["narrator"]
+        if "narrator" in laureate and laureate["narrator"]:
+            laureate_entry["narrator"] = laureate["narrator"]
+        
+        # Notes (optional)
+        if "notes" in laureate and laureate["notes"]:
+            laureate_entry["notes"] = laureate["notes"]
         
         award_entry["laureates"].append(laureate_entry)
     
@@ -195,31 +191,20 @@ def create_akutagawa_award_entry(year: str, year_data: Dict) -> Dict:
     laureates = year_data.get("laureates", [])
     
     for laureate in laureates:
-        laureate_entry = {}
-        
-        # Author name (required)
-        if "name" in laureate:
-            laureate_entry["name"] = laureate["name"]
-        
-        # Work title (required)
-        if "work_title" in laureate:
-            laureate_entry["work_title"] = laureate["work_title"]
-        
-        # Edition (upper/lower half)
-        if "edition" in laureate:
-            laureate_entry["edition"] = laureate["edition"]
+        work = laureate.get("work", {})
+        laureate_entry = {
+            "name": laureate.get("name"),
+            "work": {
+                "title": work.get("title", ""),
+                "translations": work.get("translations", {})
+            },
+            "edition": laureate.get("edition"),
+            "genre": laureate.get("genre")
+        }
         
         # Published in (magazine/journal)
         if "published_in" in laureate and laureate["published_in"]:
             laureate_entry["published_in"] = laureate["published_in"]
-        
-        # Genre
-        if "genre" in laureate:
-            laureate_entry["genre"] = laureate["genre"]
-        
-        # English translation
-        if "english_translation" in laureate:
-            laureate_entry["english_translation"] = laureate["english_translation"]
         
         # Notes
         if "notes" in laureate and laureate["notes"]:
@@ -250,31 +235,21 @@ def create_hugo_award_entry(year: str, year_data: Dict) -> Dict:
         if "status" in laureate and laureate.get("status") != "winner":
             continue
         
-        laureate_entry = {}
+        work = laureate.get("work", {})
+        laureate_entry = {
+            "name": laureate.get("name"),
+            "work": {
+                "title": work.get("title", ""),
+                "translations": work.get("translations", {})
+            },
+            "genre": laureate.get("genre")
+        }
         
-        # Author name (required)
-        if "name" in laureate:
-            laureate_entry["name"] = laureate["name"]
-        
-        # Work title (required)
-        if "work_title" in laureate:
-            laureate_entry["work_title"] = laureate["work_title"]
-        
-        # Publisher
-        if "publisher" in laureate and laureate["publisher"]:
-            laureate_entry["publisher"] = laureate["publisher"]
-        
-        # Genre
-        if "genre" in laureate:
-            laureate_entry["genre"] = laureate["genre"]
-        
-        # Translator (for translated works)
-        if "translator" in laureate and laureate["translator"]:
-            laureate_entry["translator"] = laureate["translator"]
-        
-        # Original language
-        if "original_language" in laureate and laureate["original_language"]:
-            laureate_entry["original_language"] = laureate["original_language"]
+        # Translator and original language (for translated works)
+        if "translator" in work and work["translator"]:
+            laureate_entry["work"]["translator"] = work["translator"]
+        if "original_language" in work and work["original_language"]:
+            laureate_entry["work"]["original_language"] = work["original_language"]
         
         # Retro-Hugo flag and awarded year
         if laureate.get("is_retro", False):
@@ -306,47 +281,33 @@ def create_man_booker_international_award_entry(year: str, year_data: Dict) -> D
     phase = year_data.get("phase", "translated_fiction")
     
     for laureate in laureates:
-        laureate_entry = {}
+        work = laureate.get("work", {})
+        laureate_entry = {
+            "name": laureate.get("name"),
+            "country": laureate.get("country"),
+            "genre": laureate.get("genre")
+        }
         
-        # Author name (required)
-        if "name" in laureate:
-            laureate_entry["name"] = laureate["name"]
-        
-        # Work title (for translated fiction phase)
-        if "work_title" in laureate:
-            laureate_entry["work_title"] = laureate["work_title"]
-        
-        # Original title
-        if "original_title" in laureate and laureate["original_title"]:
-            laureate_entry["original_title"] = laureate["original_title"]
-        
-        # Translator (for translated fiction phase)
-        if "translator" in laureate and laureate["translator"]:
-            laureate_entry["translator"] = laureate["translator"]
+        # Work structure (for translated fiction phase)
+        if work:
+            laureate_entry["work"] = {
+                "title": work.get("title", ""),
+                "translations": work.get("translations", {})
+            }
+            
+            # Original title and language
+            if "original_title" in work and work["original_title"]:
+                laureate_entry["work"]["original_title"] = work["original_title"]
+            if "original_language" in work and work["original_language"]:
+                laureate_entry["work"]["original_language"] = work["original_language"]
+            
+            # Translator
+            if "translator" in work and work["translator"]:
+                laureate_entry["work"]["translator"] = work["translator"]
         
         # Translator country
         if "translator_country" in laureate and laureate["translator_country"]:
             laureate_entry["translator_country"] = laureate["translator_country"]
-        
-        # Translators (for lifetime achievement phase with multiple translators)
-        if "translators" in laureate and laureate["translators"]:
-            laureate_entry["translators"] = laureate["translators"]
-        
-        # Country
-        if "country" in laureate:
-            laureate_entry["country"] = laureate["country"]
-        
-        # Original language
-        if "original_language" in laureate:
-            laureate_entry["original_language"] = laureate["original_language"]
-        
-        # Publisher (for translated fiction phase)
-        if "publisher" in laureate and laureate["publisher"]:
-            laureate_entry["publisher"] = laureate["publisher"]
-        
-        # Genre
-        if "genre" in laureate:
-            laureate_entry["genre"] = laureate["genre"]
         
         # Award phase (lifetime_achievement or translated_fiction)
         if phase:
@@ -519,7 +480,7 @@ def main():
     goodreads_file = output_dir / "goodreads_choice.json"
     akutagawa_file = output_dir / "akutagawa_prize.json"
     hugo_file = output_dir / "hugo_awards.json"
-    man_booker_intl_file = output_dir / "man_booker_international.json"
+    man_booker_intl_file = output_dir / "booker_prize_international.json"
     output_file = output_dir / "awards_by_year.json"
     
     print("Loading data files...")
@@ -552,7 +513,7 @@ def main():
                 "goodreads_choice.json",
                 "akutagawa_prize.json",
                 "hugo_awards.json",
-                "man_booker_international.json"
+                "booker_prize_international.json"
             ],
             "awards_included": [
                 {

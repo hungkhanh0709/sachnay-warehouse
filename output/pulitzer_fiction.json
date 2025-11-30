@@ -19,8 +19,10 @@
             "laureates": [
                 {
                     "name": "Percival Everett",
-                    "book_title": "James",
-                    "publisher": "Doubleday",
+                    "work": {
+                        "title": "James",
+                        "translations": {}
+                    },
                     "year_published": 2024,
                     "genre": [
                         "novel"
@@ -34,8 +36,10 @@
             "laureates": [
                 {
                     "name": "Jayne Anne Phillips",
-                    "book_title": "Night Watch",
-                    "publisher": "Knopf",
+                    "work": {
+                        "title": "Night Watch",
+                        "translations": {}
+                    },
                     "year_published": 2023,
                     "genre": [
                         "novel"
@@ -49,8 +53,10 @@
             "laureates": [
                 {
                     "name": "Hernan Diaz",
-                    "book_title": "Trust",
-                    "publisher": "Riverhead Books",
+                    "work": {
+                        "title": "Trust",
+                        "translations": {}
+                    },
                     "year_published": 2022,
                     "genre": [
                         "novel"
@@ -60,8 +66,10 @@
                 },
                 {
                     "name": "Barbara Kingsolver",
-                    "book_title": "Demon Copperhead",
-                    "publisher": "Harper",
+                    "work": {
+                        "title": "Demon Copperhead",
+                        "translations": {}
+                    },
                     "year_published": 2022,
                     "genre": [
                         "novel"
@@ -76,8 +84,10 @@
             "laureates": [
                 {
                     "name": "Joshua Cohen",
-                    "book_title": "The Netanyahus: An Account of a Minor and Ultimately Even Negligible Episode in the History of a Very Famous Family",
-                    "publisher": "New York Review Books",
+                    "work": {
+                        "title": "The Netanyahus: An Account of a Minor and Ultimately Even Negligible Episode in the History of a Very Famous Family",
+                        "translations": {}
+                    },
                     "year_published": 2021,
                     "genre": [
                         "novel"
@@ -91,8 +101,10 @@
             "laureates": [
                 {
                     "name": "Louise Erdrich",
-                    "book_title": "The Night Watchman",
-                    "publisher": "HarperCollins",
+                    "work": {
+                        "title": "The Night Watchman",
+                        "translations": {}
+                    },
                     "year_published": 2020,
                     "genre": [
                         "novel"
@@ -106,8 +118,10 @@
             "laureates": [
                 {
                     "name": "Colson Whitehead",
-                    "book_title": "The Nickel Boys",
-                    "publisher": "Doubleday",
+                    "work": {
+                        "title": "The Nickel Boys",
+                        "translations": {}
+                    },
                     "year_published": 2019,
                     "genre": [
                         "novel"
@@ -122,8 +136,10 @@
             "laureates": [
                 {
                     "name": "Richard Powers",
-                    "book_title": "The Overstory",
-                    "publisher": "W. W. Norton & Company",
+                    "work": {
+                        "title": "The Overstory",
+                        "translations": {}
+                    },
                     "year_published": 2018,
                     "genre": [
                         "novel"
@@ -137,8 +153,10 @@
             "laureates": [
                 {
                     "name": "Andrew Sean Greer",
-                    "book_title": "Less",
-                    "publisher": "Little, Brown and Company",
+                    "work": {
+                        "title": "Less",
+                        "translations": {}
+                    },
                     "year_published": 2017,
                     "genre": [
                         "satirical novel"
@@ -152,8 +170,10 @@
             "laureates": [
                 {
                     "name": "Colson Whitehead",
-                    "book_title": "The Underground Railroad",
-                    "publisher": "Doubleday",
+                    "work": {
+                        "title": "The Underground Railroad",
+                        "translations": {}
+                    },
                     "year_published": 2016,
                     "genre": [
                         "alternate historical novel"
@@ -168,8 +188,10 @@
             "laureates": [
                 {
                     "name": "Viet Thanh Nguyen",
-                    "book_title": "The Sympathizer",
-                    "publisher": "Grove Press",
+                    "work": {
+                        "title": "The Sympathizer",
+                        "translations": {}
+                    },
                     "year_published": 2015,
                     "genre": [
                         "debut novel"
@@ -183,8 +205,10 @@
             "laureates": [
                 {
                     "name": "Anthony Doerr",
-                    "book_title": "All the Light We Cannot See",
-                    "publisher": "Charles Scribner's Sons",
+                    "work": {
+                        "title": "All the Light We Cannot See",
+                        "translations": {}
+                    },
                     "year_published": 2014,
                     "genre": [
                         "war novel"
@@ -198,8 +222,10 @@
             "laureates": [
                 {
                     "name": "Donna Tartt",
-                    "book_title": "The Goldfinch",
-                    "publisher": "Little, Brown and Company",
+                    "work": {
+                        "title": "The Goldfinch",
+                        "translations": {}
+                    },
                     "year_published": 2013,
                     "genre": [
                         "novel"
@@ -213,8 +239,10 @@
             "laureates": [
                 {
                     "name": "Adam Johnson",
-                    "book_title": "The Orphan Master's Son",
-                    "publisher": "Random House",
+                    "work": {
+                        "title": "The Orphan Master's Son",
+                        "translations": {}
+                    },
                     "year_published": 2012,
                     "genre": [
                         "novel"
@@ -232,8 +260,10 @@
             "laureates": [
                 {
                     "name": "Jennifer Egan",
-                    "book_title": "A Visit from the Goon Squad",
-                    "publisher": "Alfred A. Knopf",
+                    "work": {
+                        "title": "A Visit from the Goon Squad",
+                        "translations": {}
+                    },
                     "year_published": 2010,
                     "genre": [
                         "interrelated short stories"
@@ -247,8 +277,10 @@
             "laureates": [
                 {
                     "name": "Paul Harding",
-                    "book_title": "Tinkers",
-                    "publisher": "Bellevue Literary Press",
+                    "work": {
+                        "title": "Tinkers",
+                        "translations": {}
+                    },
                     "year_published": 2009,
                     "genre": [
                         "debut novel"
@@ -262,8 +294,10 @@
             "laureates": [
                 {
                     "name": "Elizabeth Strout",
-                    "book_title": "Olive Kitteridge",
-                    "publisher": "Random House",
+                    "work": {
+                        "title": "Olive Kitteridge",
+                        "translations": {}
+                    },
                     "year_published": 2008,
                     "genre": [
                         "interrelated short stories"
@@ -277,14 +311,15 @@
             "laureates": [
                 {
                     "name": "Junot Díaz",
-                    "book_title": "The Brief Wondrous Life of Oscar Wao",
-                    "publisher": "Riverhead Books",
+                    "work": {
+                        "title": "The Brief Wondrous Life of Oscar Wao",
+                        "translations": {}
+                    },
                     "year_published": 2007,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "New Jersey (born in Santo Domingo, Dominican Republic)",
-                    "citation": null
+                    "birth_state": "New Jersey (born in Santo Domingo, Dominican Republic)"
                 }
             ]
         },
@@ -292,14 +327,15 @@
             "laureates": [
                 {
                     "name": "Cormac McCarthy",
-                    "book_title": "The Road",
-                    "publisher": "Alfred A. Knopf",
+                    "work": {
+                        "title": "The Road",
+                        "translations": {}
+                    },
                     "year_published": 2006,
                     "genre": [
                         "post-apocalyptic fiction"
                     ],
-                    "birth_state": "Rhode Island",
-                    "citation": null
+                    "birth_state": "Rhode Island"
                 }
             ]
         },
@@ -307,14 +343,15 @@
             "laureates": [
                 {
                     "name": "Geraldine Brooks",
-                    "book_title": "March",
-                    "publisher": "Viking Press",
+                    "work": {
+                        "title": "March",
+                        "translations": {}
+                    },
                     "year_published": 2005,
                     "genre": [
                         "historical fiction"
                     ],
-                    "birth_state": "New York (born in Sydney, Australia)",
-                    "citation": null
+                    "birth_state": "New York (born in Sydney, Australia)"
                 }
             ]
         },
@@ -322,14 +359,15 @@
             "laureates": [
                 {
                     "name": "Marilynne Robinson",
-                    "book_title": "Gilead",
-                    "publisher": "Farrar, Straus and Giroux",
+                    "work": {
+                        "title": "Gilead",
+                        "translations": {}
+                    },
                     "year_published": 2004,
                     "genre": [
                         "epistolary novel"
                     ],
-                    "birth_state": "Idaho",
-                    "citation": null
+                    "birth_state": "Idaho"
                 }
             ]
         },
@@ -337,14 +375,15 @@
             "laureates": [
                 {
                     "name": "Edward P. Jones",
-                    "book_title": "The Known World",
-                    "publisher": "Amistad Press",
+                    "work": {
+                        "title": "The Known World",
+                        "translations": {}
+                    },
                     "year_published": 2003,
                     "genre": [
                         "historical fiction"
                     ],
-                    "birth_state": "Washington, D.C.",
-                    "citation": null
+                    "birth_state": "Washington, D.C."
                 }
             ]
         },
@@ -352,14 +391,15 @@
             "laureates": [
                 {
                     "name": "Jeffrey Eugenides",
-                    "book_title": "Middlesex",
-                    "publisher": "Farrar, Straus and Giroux",
+                    "work": {
+                        "title": "Middlesex",
+                        "translations": {}
+                    },
                     "year_published": 2002,
                     "genre": [
                         "family saga"
                     ],
-                    "birth_state": "Michigan",
-                    "citation": null
+                    "birth_state": "Michigan"
                 }
             ]
         },
@@ -367,14 +407,15 @@
             "laureates": [
                 {
                     "name": "Richard Russo",
-                    "book_title": "Empire Falls",
-                    "publisher": "Alfred A. Knopf",
+                    "work": {
+                        "title": "Empire Falls",
+                        "translations": {}
+                    },
                     "year_published": 2001,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "New York",
-                    "citation": null
+                    "birth_state": "New York"
                 }
             ]
         },
@@ -382,14 +423,15 @@
             "laureates": [
                 {
                     "name": "Michael Chabon",
-                    "book_title": "The Amazing Adventures of Kavalier & Clay",
-                    "publisher": "Random House",
+                    "work": {
+                        "title": "The Amazing Adventures of Kavalier & Clay",
+                        "translations": {}
+                    },
                     "year_published": 2000,
                     "genre": [
                         "historical fiction"
                     ],
-                    "birth_state": "Washington, D.C.",
-                    "citation": null
+                    "birth_state": "Washington, D.C."
                 }
             ]
         },
@@ -397,14 +439,15 @@
             "laureates": [
                 {
                     "name": "Jhumpa Lahiri",
-                    "book_title": "Interpreter of Maladies",
-                    "publisher": "Houghton Mifflin",
+                    "work": {
+                        "title": "Interpreter of Maladies",
+                        "translations": {}
+                    },
                     "year_published": 1999,
                     "genre": [
                         "short story collection"
                     ],
-                    "birth_state": "Rhode Island (born in London, United Kingdom)",
-                    "citation": null
+                    "birth_state": "Rhode Island (born in London, United Kingdom)"
                 }
             ]
         },
@@ -412,14 +455,15 @@
             "laureates": [
                 {
                     "name": "Michael Cunningham",
-                    "book_title": "The Hours",
-                    "publisher": "Farrar, Straus and Giroux",
+                    "work": {
+                        "title": "The Hours",
+                        "translations": {}
+                    },
                     "year_published": 1998,
                     "genre": [
                         "historical fiction"
                     ],
-                    "birth_state": "Ohio",
-                    "citation": null
+                    "birth_state": "Ohio"
                 }
             ]
         },
@@ -427,14 +471,15 @@
             "laureates": [
                 {
                     "name": "Philip Roth",
-                    "book_title": "American Pastoral",
-                    "publisher": "Houghton Mifflin",
+                    "work": {
+                        "title": "American Pastoral",
+                        "translations": {}
+                    },
                     "year_published": 1997,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "New Jersey",
-                    "citation": null
+                    "birth_state": "New Jersey"
                 }
             ]
         },
@@ -442,14 +487,15 @@
             "laureates": [
                 {
                     "name": "Steven Millhauser",
-                    "book_title": "Martin Dressler: The Tale of an American Dreamer",
-                    "publisher": "Crown Publishers",
+                    "work": {
+                        "title": "Martin Dressler: The Tale of an American Dreamer",
+                        "translations": {}
+                    },
                     "year_published": 1996,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "New York",
-                    "citation": null
+                    "birth_state": "New York"
                 }
             ]
         },
@@ -457,14 +503,15 @@
             "laureates": [
                 {
                     "name": "Richard Ford",
-                    "book_title": "Independence Day",
-                    "publisher": "Alfred A. Knopf",
+                    "work": {
+                        "title": "Independence Day",
+                        "translations": {}
+                    },
                     "year_published": 1995,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Mississippi",
-                    "citation": null
+                    "birth_state": "Mississippi"
                 }
             ]
         },
@@ -472,14 +519,15 @@
             "laureates": [
                 {
                     "name": "Carol Shields",
-                    "book_title": "The Stone Diaries",
-                    "publisher": "Random House",
+                    "work": {
+                        "title": "The Stone Diaries",
+                        "translations": {}
+                    },
                     "year_published": 1993,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Illinois",
-                    "citation": null
+                    "birth_state": "Illinois"
                 }
             ]
         },
@@ -487,14 +535,15 @@
             "laureates": [
                 {
                     "name": "E. Annie Proulx",
-                    "book_title": "The Shipping News",
-                    "publisher": "Charles Scribner's Sons",
+                    "work": {
+                        "title": "The Shipping News",
+                        "translations": {}
+                    },
                     "year_published": 1993,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Connecticut",
-                    "citation": null
+                    "birth_state": "Connecticut"
                 }
             ]
         },
@@ -502,14 +551,15 @@
             "laureates": [
                 {
                     "name": "Robert Olen Butler",
-                    "book_title": "A Good Scent from a Strange Mountain",
-                    "publisher": "Henry Holt",
+                    "work": {
+                        "title": "A Good Scent from a Strange Mountain",
+                        "translations": {}
+                    },
                     "year_published": 1992,
                     "genre": [
                         "short story collection"
                     ],
-                    "birth_state": "Illinois",
-                    "citation": null
+                    "birth_state": "Illinois"
                 }
             ]
         },
@@ -517,14 +567,15 @@
             "laureates": [
                 {
                     "name": "Jane Smiley",
-                    "book_title": "A Thousand Acres",
-                    "publisher": "Alfred A. Knopf",
+                    "work": {
+                        "title": "A Thousand Acres",
+                        "translations": {}
+                    },
                     "year_published": 1991,
                     "genre": [
                         "domestic realism"
                     ],
-                    "birth_state": "California",
-                    "citation": null
+                    "birth_state": "California"
                 }
             ]
         },
@@ -532,14 +583,15 @@
             "laureates": [
                 {
                     "name": "John Updike",
-                    "book_title": "Rabbit At Rest",
-                    "publisher": "Alfred A. Knopf",
+                    "work": {
+                        "title": "Rabbit At Rest",
+                        "translations": {}
+                    },
                     "year_published": 1990,
                     "genre": [
                         "novel"
                     ],
                     "birth_state": "Pennsylvania",
-                    "citation": null,
                     "notes": "Second Pulitzer Prize for John Updike"
                 }
             ]
@@ -548,14 +600,15 @@
             "laureates": [
                 {
                     "name": "Oscar Hijuelos",
-                    "book_title": "The Mambo Kings Play Songs of Love",
-                    "publisher": "Farrar, Straus and Giroux",
+                    "work": {
+                        "title": "The Mambo Kings Play Songs of Love",
+                        "translations": {}
+                    },
                     "year_published": 1989,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "New York",
-                    "citation": null
+                    "birth_state": "New York"
                 }
             ]
         },
@@ -563,14 +616,15 @@
             "laureates": [
                 {
                     "name": "Anne Tyler",
-                    "book_title": "Breathing Lessons",
-                    "publisher": "Alfred A. Knopf",
+                    "work": {
+                        "title": "Breathing Lessons",
+                        "translations": {}
+                    },
                     "year_published": 1988,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Minnesota",
-                    "citation": null
+                    "birth_state": "Minnesota"
                 }
             ]
         },
@@ -578,14 +632,15 @@
             "laureates": [
                 {
                     "name": "Toni Morrison",
-                    "book_title": "Beloved",
-                    "publisher": "Alfred A. Knopf",
+                    "work": {
+                        "title": "Beloved",
+                        "translations": {}
+                    },
                     "year_published": 1987,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Ohio",
-                    "citation": null
+                    "birth_state": "Ohio"
                 }
             ]
         },
@@ -593,14 +648,15 @@
             "laureates": [
                 {
                     "name": "Peter Taylor",
-                    "book_title": "A Summons to Memphis",
-                    "publisher": "Alfred A. Knopf",
+                    "work": {
+                        "title": "A Summons to Memphis",
+                        "translations": {}
+                    },
                     "year_published": 1986,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Tennessee",
-                    "citation": null
+                    "birth_state": "Tennessee"
                 }
             ]
         },
@@ -608,14 +664,15 @@
             "laureates": [
                 {
                     "name": "Larry McMurtry",
-                    "book_title": "Lonesome Dove",
-                    "publisher": "Simon & Schuster",
+                    "work": {
+                        "title": "Lonesome Dove",
+                        "translations": {}
+                    },
                     "year_published": 1985,
                     "genre": [
                         "western novel"
                     ],
-                    "birth_state": "Texas",
-                    "citation": null
+                    "birth_state": "Texas"
                 }
             ]
         },
@@ -623,14 +680,15 @@
             "laureates": [
                 {
                     "name": "Alison Lurie",
-                    "book_title": "Foreign Affairs",
-                    "publisher": "Random House",
+                    "work": {
+                        "title": "Foreign Affairs",
+                        "translations": {}
+                    },
                     "year_published": 1984,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Illinois",
-                    "citation": null
+                    "birth_state": "Illinois"
                 }
             ]
         },
@@ -638,14 +696,15 @@
             "laureates": [
                 {
                     "name": "William Kennedy",
-                    "book_title": "Ironweed",
-                    "publisher": "Viking Press",
+                    "work": {
+                        "title": "Ironweed",
+                        "translations": {}
+                    },
                     "year_published": 1983,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "New York",
-                    "citation": null
+                    "birth_state": "New York"
                 }
             ]
         },
@@ -653,14 +712,15 @@
             "laureates": [
                 {
                     "name": "Alice Walker",
-                    "book_title": "The Color Purple",
-                    "publisher": "Harcourt Brace Jovanovich",
+                    "work": {
+                        "title": "The Color Purple",
+                        "translations": {}
+                    },
                     "year_published": 1982,
                     "genre": [
                         "epistolary novel"
                     ],
-                    "birth_state": "Georgia",
-                    "citation": null
+                    "birth_state": "Georgia"
                 }
             ]
         },
@@ -668,14 +728,15 @@
             "laureates": [
                 {
                     "name": "John Updike",
-                    "book_title": "Rabbit Is Rich",
-                    "publisher": "Alfred A. Knopf",
+                    "work": {
+                        "title": "Rabbit Is Rich",
+                        "translations": {}
+                    },
                     "year_published": 1981,
                     "genre": [
                         "novel"
                     ],
                     "birth_state": "Pennsylvania",
-                    "citation": null,
                     "notes": "First Pulitzer Prize for John Updike"
                 }
             ]
@@ -684,14 +745,15 @@
             "laureates": [
                 {
                     "name": "John Kennedy Toole",
-                    "book_title": "A Confederacy of Dunces",
-                    "publisher": "Louisiana State University Press",
+                    "work": {
+                        "title": "A Confederacy of Dunces",
+                        "translations": {}
+                    },
                     "year_published": 1980,
                     "genre": [
                         "picaresque novel"
                     ],
                     "birth_state": "Louisiana",
-                    "citation": null,
                     "notes": "Posthumously awarded"
                 }
             ]
@@ -700,14 +762,15 @@
             "laureates": [
                 {
                     "name": "Norman Mailer",
-                    "book_title": "The Executioner's Song",
-                    "publisher": "Little, Brown",
+                    "work": {
+                        "title": "The Executioner's Song",
+                        "translations": {}
+                    },
                     "year_published": 1979,
                     "genre": [
                         "true crime novel"
                     ],
-                    "birth_state": "New Jersey",
-                    "citation": null
+                    "birth_state": "New Jersey"
                 }
             ]
         },
@@ -715,14 +778,15 @@
             "laureates": [
                 {
                     "name": "John Cheever",
-                    "book_title": "The Stories of John Cheever",
-                    "publisher": "Alfred A. Knopf",
+                    "work": {
+                        "title": "The Stories of John Cheever",
+                        "translations": {}
+                    },
                     "year_published": 1978,
                     "genre": [
                         "short story collection"
                     ],
-                    "birth_state": "Massachusetts",
-                    "citation": null
+                    "birth_state": "Massachusetts"
                 }
             ]
         },
@@ -730,14 +794,15 @@
             "laureates": [
                 {
                     "name": "James Alan McPherson",
-                    "book_title": "Elbow Room",
-                    "publisher": "Little, Brown",
+                    "work": {
+                        "title": "Elbow Room",
+                        "translations": {}
+                    },
                     "year_published": 1977,
                     "genre": [
                         "short story collection"
                     ],
-                    "birth_state": "Georgia",
-                    "citation": null
+                    "birth_state": "Georgia"
                 }
             ]
         },
@@ -749,14 +814,15 @@
             "laureates": [
                 {
                     "name": "Saul Bellow",
-                    "book_title": "Humboldt's Gift",
-                    "publisher": "Viking Press",
+                    "work": {
+                        "title": "Humboldt's Gift",
+                        "translations": {}
+                    },
                     "year_published": 1975,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Illinois (born in Quebec, Canada)",
-                    "citation": null
+                    "birth_state": "Illinois (born in Quebec, Canada)"
                 }
             ]
         },
@@ -764,14 +830,15 @@
             "laureates": [
                 {
                     "name": "Michael Shaara",
-                    "book_title": "The Killer Angels",
-                    "publisher": "David McKay Publications",
+                    "work": {
+                        "title": "The Killer Angels",
+                        "translations": {}
+                    },
                     "year_published": 1974,
                     "genre": [
                         "historical fiction"
                     ],
-                    "birth_state": "New Jersey",
-                    "citation": null
+                    "birth_state": "New Jersey"
                 }
             ]
         },
@@ -783,14 +850,15 @@
             "laureates": [
                 {
                     "name": "Eudora Welty",
-                    "book_title": "The Optimist's Daughter",
-                    "publisher": "Random House",
+                    "work": {
+                        "title": "The Optimist's Daughter",
+                        "translations": {}
+                    },
                     "year_published": 1972,
                     "genre": [
                         "short novel"
                     ],
-                    "birth_state": "Mississippi",
-                    "citation": null
+                    "birth_state": "Mississippi"
                 }
             ]
         },
@@ -798,14 +866,15 @@
             "laureates": [
                 {
                     "name": "Wallace Stegner",
-                    "book_title": "Angle of Repose",
-                    "publisher": "Doubleday",
+                    "work": {
+                        "title": "Angle of Repose",
+                        "translations": {}
+                    },
                     "year_published": 1971,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Iowa",
-                    "citation": null
+                    "birth_state": "Iowa"
                 }
             ]
         },
@@ -817,14 +886,15 @@
             "laureates": [
                 {
                     "name": "Jean Stafford",
-                    "book_title": "Collected Stories",
-                    "publisher": "Farrar, Straus & Giroux",
+                    "work": {
+                        "title": "Collected Stories",
+                        "translations": {}
+                    },
                     "year_published": 1969,
                     "genre": [
                         "short story collection"
                     ],
-                    "birth_state": "California",
-                    "citation": null
+                    "birth_state": "California"
                 }
             ]
         },
@@ -832,14 +902,15 @@
             "laureates": [
                 {
                     "name": "N. Scott Momaday",
-                    "book_title": "House Made of Dawn",
-                    "publisher": "Harper & Row",
+                    "work": {
+                        "title": "House Made of Dawn",
+                        "translations": {}
+                    },
                     "year_published": 1968,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Oklahoma",
-                    "citation": null
+                    "birth_state": "Oklahoma"
                 }
             ]
         },
@@ -847,14 +918,15 @@
             "laureates": [
                 {
                     "name": "William Styron",
-                    "book_title": "The Confessions of Nat Turner",
-                    "publisher": "Random House",
+                    "work": {
+                        "title": "The Confessions of Nat Turner",
+                        "translations": {}
+                    },
                     "year_published": 1967,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Virginia",
-                    "citation": null
+                    "birth_state": "Virginia"
                 }
             ]
         },
@@ -862,14 +934,15 @@
             "laureates": [
                 {
                     "name": "Bernard Malamud",
-                    "book_title": "The Fixer",
-                    "publisher": "Farrar, Straus & Giroux",
+                    "work": {
+                        "title": "The Fixer",
+                        "translations": {}
+                    },
                     "year_published": 1966,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "New York",
-                    "citation": null
+                    "birth_state": "New York"
                 }
             ]
         },
@@ -877,14 +950,15 @@
             "laureates": [
                 {
                     "name": "Katherine Anne Porter",
-                    "book_title": "The Collected Stories",
-                    "publisher": "Harcourt Brace",
+                    "work": {
+                        "title": "The Collected Stories",
+                        "translations": {}
+                    },
                     "year_published": 1965,
                     "genre": [
                         "short story collection"
                     ],
-                    "birth_state": "Texas",
-                    "citation": null
+                    "birth_state": "Texas"
                 }
             ]
         },
@@ -892,14 +966,15 @@
             "laureates": [
                 {
                     "name": "Shirley Ann Grau",
-                    "book_title": "The Keepers of the House",
-                    "publisher": "Alfred A. Knopf",
+                    "work": {
+                        "title": "The Keepers of the House",
+                        "translations": {}
+                    },
                     "year_published": 1964,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Louisiana",
-                    "citation": null
+                    "birth_state": "Louisiana"
                 }
             ]
         },
@@ -911,14 +986,15 @@
             "laureates": [
                 {
                     "name": "William Faulkner",
-                    "book_title": "The Reivers",
-                    "publisher": "Random House",
+                    "work": {
+                        "title": "The Reivers",
+                        "translations": {}
+                    },
                     "year_published": 1962,
                     "genre": [
                         "novel"
                     ],
                     "birth_state": "Mississippi",
-                    "citation": null,
                     "notes": "Posthumously awarded. Second Pulitzer Prize for William Faulkner"
                 }
             ]
@@ -927,14 +1003,15 @@
             "laureates": [
                 {
                     "name": "Edwin O'Connor",
-                    "book_title": "The Edge of Sadness",
-                    "publisher": "Little, Brown and Company",
+                    "work": {
+                        "title": "The Edge of Sadness",
+                        "translations": {}
+                    },
                     "year_published": 1961,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Rhode Island",
-                    "citation": null
+                    "birth_state": "Rhode Island"
                 }
             ]
         },
@@ -942,16 +1019,17 @@
             "laureates": [
                 {
                     "name": "Harper Lee",
-                    "book_title": "To Kill a Mockingbird",
-                    "publisher": "J. B. Lippincott & Co.",
+                    "work": {
+                        "title": "To Kill a Mockingbird",
+                        "translations": {}
+                    },
                     "year_published": 1960,
                     "genre": [
                         "southern gothic",
                         "bildungsroman",
                         "debut novel"
                     ],
-                    "birth_state": "Alabama",
-                    "citation": null
+                    "birth_state": "Alabama"
                 }
             ]
         },
@@ -959,15 +1037,16 @@
             "laureates": [
                 {
                     "name": "Allen Drury",
-                    "book_title": "Advise and Consent",
-                    "publisher": "Doubleday",
+                    "work": {
+                        "title": "Advise and Consent",
+                        "translations": {}
+                    },
                     "year_published": 1959,
                     "genre": [
                         "political fiction",
                         "debut novel"
                     ],
-                    "birth_state": "Texas",
-                    "citation": null
+                    "birth_state": "Texas"
                 }
             ]
         },
@@ -975,14 +1054,15 @@
             "laureates": [
                 {
                     "name": "Robert Lewis Taylor",
-                    "book_title": "The Travels of Jaimie McPheeters",
-                    "publisher": "Doubleday",
+                    "work": {
+                        "title": "The Travels of Jaimie McPheeters",
+                        "translations": {}
+                    },
                     "year_published": 1958,
                     "genre": [
                         "historical fiction"
                     ],
-                    "birth_state": "Illinois",
-                    "citation": null
+                    "birth_state": "Illinois"
                 }
             ]
         },
@@ -990,14 +1070,15 @@
             "laureates": [
                 {
                     "name": "James Agee",
-                    "book_title": "A Death in the Family",
-                    "publisher": "McDowell, Obolensky",
+                    "work": {
+                        "title": "A Death in the Family",
+                        "translations": {}
+                    },
                     "year_published": 1957,
                     "genre": [
                         "autobiographical novel"
                     ],
                     "birth_state": "Tennessee",
-                    "citation": null,
                     "notes": "Posthumously awarded"
                 }
             ]
@@ -1010,14 +1091,15 @@
             "laureates": [
                 {
                     "name": "MacKinlay Kantor",
-                    "book_title": "Andersonville",
-                    "publisher": "Penguin Books",
+                    "work": {
+                        "title": "Andersonville",
+                        "translations": {}
+                    },
                     "year_published": 1955,
                     "genre": [
                         "historical fiction"
                     ],
-                    "birth_state": "Iowa",
-                    "citation": null
+                    "birth_state": "Iowa"
                 }
             ]
         },
@@ -1025,14 +1107,15 @@
             "laureates": [
                 {
                     "name": "William Faulkner",
-                    "book_title": "A Fable",
-                    "publisher": "Random House",
+                    "work": {
+                        "title": "A Fable",
+                        "translations": {}
+                    },
                     "year_published": 1954,
                     "genre": [
                         "novel"
                     ],
                     "birth_state": "Mississippi",
-                    "citation": null,
                     "notes": "First Pulitzer Prize for William Faulkner"
                 }
             ]
@@ -1045,14 +1128,15 @@
             "laureates": [
                 {
                     "name": "Ernest Hemingway",
-                    "book_title": "The Old Man and the Sea",
-                    "publisher": "Charles Scribner's Sons",
+                    "work": {
+                        "title": "The Old Man and the Sea",
+                        "translations": {}
+                    },
                     "year_published": 1952,
                     "genre": [
                         "short novel"
                     ],
-                    "birth_state": "Illinois",
-                    "citation": null
+                    "birth_state": "Illinois"
                 }
             ]
         },
@@ -1060,14 +1144,15 @@
             "laureates": [
                 {
                     "name": "Herman Wouk",
-                    "book_title": "The Caine Mutiny",
-                    "publisher": "Doubleday",
+                    "work": {
+                        "title": "The Caine Mutiny",
+                        "translations": {}
+                    },
                     "year_published": 1951,
                     "genre": [
                         "historical fiction"
                     ],
-                    "birth_state": "New York",
-                    "citation": null
+                    "birth_state": "New York"
                 }
             ]
         },
@@ -1075,14 +1160,15 @@
             "laureates": [
                 {
                     "name": "Conrad Richter",
-                    "book_title": "The Town",
-                    "publisher": "Alfred A. Knopf",
+                    "work": {
+                        "title": "The Town",
+                        "translations": {}
+                    },
                     "year_published": 1950,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Pennsylvania",
-                    "citation": null
+                    "birth_state": "Pennsylvania"
                 }
             ]
         },
@@ -1090,14 +1176,15 @@
             "laureates": [
                 {
                     "name": "A. B. Guthrie",
-                    "book_title": "The Way West",
-                    "publisher": "William Sloane Associates",
+                    "work": {
+                        "title": "The Way West",
+                        "translations": {}
+                    },
                     "year_published": 1949,
                     "genre": [
                         "western fiction"
                     ],
-                    "birth_state": "Indiana",
-                    "citation": null
+                    "birth_state": "Indiana"
                 }
             ]
         },
@@ -1105,14 +1192,15 @@
             "laureates": [
                 {
                     "name": "James Gould Cozzens",
-                    "book_title": "Guard of Honor",
-                    "publisher": "Harcourt, Brace & Company",
+                    "work": {
+                        "title": "Guard of Honor",
+                        "translations": {}
+                    },
                     "year_published": 1948,
                     "genre": [
                         "war novel"
                     ],
-                    "birth_state": "Illinois",
-                    "citation": null
+                    "birth_state": "Illinois"
                 }
             ]
         },
@@ -1120,15 +1208,16 @@
             "laureates": [
                 {
                     "name": "James A. Michener",
-                    "book_title": "Tales of the South Pacific",
-                    "publisher": "Macmillan Publishers",
+                    "work": {
+                        "title": "Tales of the South Pacific",
+                        "translations": {}
+                    },
                     "year_published": 1947,
                     "genre": [
                         "interrelated short stories",
                         "book debut"
                     ],
                     "birth_state": "Pennsylvania",
-                    "citation": null,
                     "notes": "First time a short story collection won under the new 'Fiction' category name"
                 }
             ]
@@ -1137,14 +1226,15 @@
             "laureates": [
                 {
                     "name": "Robert Penn Warren",
-                    "book_title": "All the King's Men",
-                    "publisher": "Harcourt, Brace & Company",
+                    "work": {
+                        "title": "All the King's Men",
+                        "translations": {}
+                    },
                     "year_published": 1946,
                     "genre": [
                         "political fiction"
                     ],
-                    "birth_state": "Kentucky",
-                    "citation": null
+                    "birth_state": "Kentucky"
                 }
             ]
         },
@@ -1156,14 +1246,15 @@
             "laureates": [
                 {
                     "name": "John Hersey",
-                    "book_title": "A Bell for Adano",
-                    "publisher": "Alfred A. Knopf",
+                    "work": {
+                        "title": "A Bell for Adano",
+                        "translations": {}
+                    },
                     "year_published": 1944,
                     "genre": [
                         "war novel"
                     ],
-                    "birth_state": "New York (born in Tianjin, China)",
-                    "citation": null
+                    "birth_state": "New York (born in Tianjin, China)"
                 }
             ]
         },
@@ -1171,14 +1262,15 @@
             "laureates": [
                 {
                     "name": "Martin Flavin",
-                    "book_title": "Journey in the Dark",
-                    "publisher": "Harper & Brothers",
+                    "work": {
+                        "title": "Journey in the Dark",
+                        "translations": {}
+                    },
                     "year_published": 1943,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "California",
-                    "citation": null
+                    "birth_state": "California"
                 }
             ]
         },
@@ -1186,14 +1278,15 @@
             "laureates": [
                 {
                     "name": "Upton Sinclair",
-                    "book_title": "Dragon's Teeth",
-                    "publisher": "Viking Press",
+                    "work": {
+                        "title": "Dragon's Teeth",
+                        "translations": {}
+                    },
                     "year_published": 1942,
                     "genre": [
                         "historical fiction"
                     ],
-                    "birth_state": "Maryland",
-                    "citation": null
+                    "birth_state": "Maryland"
                 }
             ]
         },
@@ -1201,14 +1294,15 @@
             "laureates": [
                 {
                     "name": "Ellen Glasgow",
-                    "book_title": "In This Our Life",
-                    "publisher": "Jonathan Cape",
+                    "work": {
+                        "title": "In This Our Life",
+                        "translations": {}
+                    },
                     "year_published": 1941,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Virginia",
-                    "citation": null
+                    "birth_state": "Virginia"
                 }
             ]
         },
@@ -1220,14 +1314,15 @@
             "laureates": [
                 {
                     "name": "John Steinbeck",
-                    "book_title": "The Grapes of Wrath",
-                    "publisher": "Viking Press",
+                    "work": {
+                        "title": "The Grapes of Wrath",
+                        "translations": {}
+                    },
                     "year_published": 1939,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "California",
-                    "citation": null
+                    "birth_state": "California"
                 }
             ]
         },
@@ -1235,14 +1330,15 @@
             "laureates": [
                 {
                     "name": "Marjorie Kinnan Rawlings",
-                    "book_title": "The Yearling",
-                    "publisher": "Charles Scribner's Sons",
+                    "work": {
+                        "title": "The Yearling",
+                        "translations": {}
+                    },
                     "year_published": 1938,
                     "genre": [
                         "young adult novel"
                     ],
-                    "birth_state": "Washington, D.C.",
-                    "citation": null
+                    "birth_state": "Washington, D.C."
                 }
             ]
         },
@@ -1250,14 +1346,15 @@
             "laureates": [
                 {
                     "name": "John Phillips Marquand",
-                    "book_title": "The Late George Apley",
-                    "publisher": "Little, Brown and Company",
+                    "work": {
+                        "title": "The Late George Apley",
+                        "translations": {}
+                    },
                     "year_published": 1937,
                     "genre": [
                         "epistolary novel"
                     ],
-                    "birth_state": "Delaware",
-                    "citation": null
+                    "birth_state": "Delaware"
                 }
             ]
         },
@@ -1265,14 +1362,15 @@
             "laureates": [
                 {
                     "name": "Margaret Mitchell",
-                    "book_title": "Gone with the Wind",
-                    "publisher": "Macmillan Publishers",
+                    "work": {
+                        "title": "Gone with the Wind",
+                        "translations": {}
+                    },
                     "year_published": 1936,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Georgia",
-                    "citation": null
+                    "birth_state": "Georgia"
                 }
             ]
         },
@@ -1280,14 +1378,15 @@
             "laureates": [
                 {
                     "name": "Harold L. Davis",
-                    "book_title": "Honey in the Horn",
-                    "publisher": "Harper & Brothers",
+                    "work": {
+                        "title": "Honey in the Horn",
+                        "translations": {}
+                    },
                     "year_published": 1935,
                     "genre": [
                         "debut novel"
                     ],
-                    "birth_state": "Oregon",
-                    "citation": null
+                    "birth_state": "Oregon"
                 }
             ]
         },
@@ -1295,14 +1394,15 @@
             "laureates": [
                 {
                     "name": "Josephine Winslow Johnson",
-                    "book_title": "Now in November",
-                    "publisher": "Simon & Schuster",
+                    "work": {
+                        "title": "Now in November",
+                        "translations": {}
+                    },
                     "year_published": 1934,
                     "genre": [
                         "debut novel"
                     ],
-                    "birth_state": "Missouri",
-                    "citation": null
+                    "birth_state": "Missouri"
                 }
             ]
         },
@@ -1310,14 +1410,15 @@
             "laureates": [
                 {
                     "name": "Caroline Miller",
-                    "book_title": "Lamb in His Bosom",
-                    "publisher": "Harper & Brothers",
+                    "work": {
+                        "title": "Lamb in His Bosom",
+                        "translations": {}
+                    },
                     "year_published": 1933,
                     "genre": [
                         "debut novel"
                     ],
-                    "birth_state": "Georgia",
-                    "citation": null
+                    "birth_state": "Georgia"
                 }
             ]
         },
@@ -1325,14 +1426,15 @@
             "laureates": [
                 {
                     "name": "T. S. Stribling",
-                    "book_title": "The Store",
-                    "publisher": "Doubleday, Doran",
+                    "work": {
+                        "title": "The Store",
+                        "translations": {}
+                    },
                     "year_published": 1932,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Tennessee",
-                    "citation": null
+                    "birth_state": "Tennessee"
                 }
             ]
         },
@@ -1340,14 +1442,15 @@
             "laureates": [
                 {
                     "name": "Pearl S. Buck",
-                    "book_title": "The Good Earth",
-                    "publisher": "John Day Company",
+                    "work": {
+                        "title": "The Good Earth",
+                        "translations": {}
+                    },
                     "year_published": 1931,
                     "genre": [
                         "historical fiction"
                     ],
-                    "birth_state": "West Virginia",
-                    "citation": null
+                    "birth_state": "West Virginia"
                 }
             ]
         },
@@ -1355,14 +1458,15 @@
             "laureates": [
                 {
                     "name": "Margaret Ayer Barnes",
-                    "book_title": "Years of Grace",
-                    "publisher": "Houghton Mifflin",
+                    "work": {
+                        "title": "Years of Grace",
+                        "translations": {}
+                    },
                     "year_published": 1930,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Illinois",
-                    "citation": null
+                    "birth_state": "Illinois"
                 }
             ]
         },
@@ -1370,14 +1474,15 @@
             "laureates": [
                 {
                     "name": "Oliver La Farge",
-                    "book_title": "Laughing Boy",
-                    "publisher": "Houghton Mifflin",
+                    "work": {
+                        "title": "Laughing Boy",
+                        "translations": {}
+                    },
                     "year_published": 1929,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "New York",
-                    "citation": null
+                    "birth_state": "New York"
                 }
             ]
         },
@@ -1385,14 +1490,15 @@
             "laureates": [
                 {
                     "name": "Julia Peterkin",
-                    "book_title": "Scarlet Sister Mary",
-                    "publisher": "Bobbs-Merrill Company",
+                    "work": {
+                        "title": "Scarlet Sister Mary",
+                        "translations": {}
+                    },
                     "year_published": 1928,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "South Carolina",
-                    "citation": null
+                    "birth_state": "South Carolina"
                 }
             ]
         },
@@ -1400,14 +1506,15 @@
             "laureates": [
                 {
                     "name": "Thornton Wilder",
-                    "book_title": "The Bridge of San Luis Rey",
-                    "publisher": "Albert & Charles Boni",
+                    "work": {
+                        "title": "The Bridge of San Luis Rey",
+                        "translations": {}
+                    },
                     "year_published": 1927,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Wisconsin",
-                    "citation": null
+                    "birth_state": "Wisconsin"
                 }
             ]
         },
@@ -1415,14 +1522,15 @@
             "laureates": [
                 {
                     "name": "Louis Bromfield",
-                    "book_title": "Early Autumn",
-                    "publisher": "Amereon Ltd",
+                    "work": {
+                        "title": "Early Autumn",
+                        "translations": {}
+                    },
                     "year_published": 1926,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Ohio",
-                    "citation": null
+                    "birth_state": "Ohio"
                 }
             ]
         },
@@ -1430,14 +1538,15 @@
             "laureates": [
                 {
                     "name": "Sinclair Lewis",
-                    "book_title": "Arrowsmith",
-                    "publisher": "Harcourt Brace & Co.",
+                    "work": {
+                        "title": "Arrowsmith",
+                        "translations": {}
+                    },
                     "year_published": 1925,
                     "genre": [
                         "novel"
                     ],
                     "birth_state": "Minnesota",
-                    "citation": null,
                     "notes": "Declined the prize"
                 }
             ]
@@ -1446,14 +1555,15 @@
             "laureates": [
                 {
                     "name": "Edna Ferber",
-                    "book_title": "So Big",
-                    "publisher": "Grosset & Dunlap",
+                    "work": {
+                        "title": "So Big",
+                        "translations": {}
+                    },
                     "year_published": 1924,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Michigan",
-                    "citation": null
+                    "birth_state": "Michigan"
                 }
             ]
         },
@@ -1461,14 +1571,15 @@
             "laureates": [
                 {
                     "name": "Margaret Wilson",
-                    "book_title": "The Able McLaughlins",
-                    "publisher": "Harper & Brothers",
+                    "work": {
+                        "title": "The Able McLaughlins",
+                        "translations": {}
+                    },
                     "year_published": 1923,
                     "genre": [
                         "debut novel"
                     ],
-                    "birth_state": "Iowa",
-                    "citation": null
+                    "birth_state": "Iowa"
                 }
             ]
         },
@@ -1476,14 +1587,15 @@
             "laureates": [
                 {
                     "name": "Willa Cather",
-                    "book_title": "One of Ours",
-                    "publisher": "Alfred A. Knopf",
+                    "work": {
+                        "title": "One of Ours",
+                        "translations": {}
+                    },
                     "year_published": 1922,
                     "genre": [
                         "novel"
                     ],
-                    "birth_state": "Virginia",
-                    "citation": null
+                    "birth_state": "Virginia"
                 }
             ]
         },
@@ -1491,14 +1603,15 @@
             "laureates": [
                 {
                     "name": "Booth Tarkington",
-                    "book_title": "Alice Adams",
-                    "publisher": "Doubleday, Page & Co.",
+                    "work": {
+                        "title": "Alice Adams",
+                        "translations": {}
+                    },
                     "year_published": 1921,
                     "genre": [
                         "novel"
                     ],
                     "birth_state": "Indiana",
-                    "citation": null,
                     "notes": "Second Pulitzer Prize for Booth Tarkington"
                 }
             ]
@@ -1507,14 +1620,15 @@
             "laureates": [
                 {
                     "name": "Edith Wharton",
-                    "book_title": "The Age of Innocence",
-                    "publisher": "D. Appleton & Company",
+                    "work": {
+                        "title": "The Age of Innocence",
+                        "translations": {}
+                    },
                     "year_published": 1920,
                     "genre": [
                         "novel"
                     ],
                     "birth_state": "New York",
-                    "citation": null,
                     "notes": "The jury actually preferred 'Main Street' by Sinclair Lewis, but the Pulitzer board overturned their decision"
                 }
             ]
@@ -1527,14 +1641,15 @@
             "laureates": [
                 {
                     "name": "Booth Tarkington",
-                    "book_title": "The Magnificent Ambersons",
-                    "publisher": "Doubleday, Page & Co.",
+                    "work": {
+                        "title": "The Magnificent Ambersons",
+                        "translations": {}
+                    },
                     "year_published": 1918,
                     "genre": [
                         "novel"
                     ],
                     "birth_state": "Indiana",
-                    "citation": null,
                     "notes": "First Pulitzer Prize for Booth Tarkington"
                 }
             ]
@@ -1543,14 +1658,15 @@
             "laureates": [
                 {
                     "name": "Ernest Poole",
-                    "book_title": "His Family",
-                    "publisher": "Macmillan",
+                    "work": {
+                        "title": "His Family",
+                        "translations": {}
+                    },
                     "year_published": 1917,
                     "genre": [
                         "novel"
                     ],
                     "birth_state": "Illinois",
-                    "citation": null,
                     "notes": "First Pulitzer Prize for Fiction ever awarded"
                 }
             ]

@@ -33,10 +33,12 @@
         "1969": {
             "laureates": [
                 {
-                    "author": "P. H. Newby",
-                    "nationality": "England",
-                    "book": "Something to Answer For",
-                    "publisher": "Faber & Faber",
+                    "name": "P. H. Newby",
+                    "work": {
+                        "title": "Something to Answer For",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Literary fiction",
                     "judges_chair": "W. L. Webb",
                     "notes": "First Booker Prize winner"
@@ -46,10 +48,12 @@
         "1970": {
             "laureates": [
                 {
-                    "author": "Bernice Rubens",
-                    "nationality": "Wales",
-                    "book": "The Elected Member",
-                    "publisher": "Eyre & Spottiswoode",
+                    "name": "Bernice Rubens",
+                    "work": {
+                        "title": "The Elected Member",
+                        "translations": {}
+                    },
+                    "country": "Wales",
                     "genre": "Literary fiction",
                     "judges_chair": "David Holloway",
                     "notes": "First woman to win the Booker Prize"
@@ -59,10 +63,12 @@
         "1971": {
             "laureates": [
                 {
-                    "author": "V. S. Naipaul",
-                    "nationality": "Trinidad and Tobago / United Kingdom",
-                    "book": "In a Free State",
-                    "publisher": "Deutsch",
+                    "name": "V. S. Naipaul",
+                    "work": {
+                        "title": "In a Free State",
+                        "translations": {}
+                    },
+                    "country": "Trinidad and Tobago / United Kingdom",
                     "genre": "Literary fiction",
                     "judges_chair": "John Gross"
                 }
@@ -72,10 +78,12 @@
         "1972": {
             "laureates": [
                 {
-                    "author": "John Berger",
-                    "nationality": "England",
-                    "book": "G.",
-                    "publisher": "Weidenfeld & Nicolson",
+                    "name": "John Berger",
+                    "work": {
+                        "title": "G.",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Experimental literature",
                     "judges_chair": "Cyril Connolly",
                     "notes": "Donated half of £5,000 prize to British Black Panther movement in protest against Booker's sugar industry history"
@@ -85,10 +93,12 @@
         "1973": {
             "laureates": [
                 {
-                    "author": "J. G. Farrell",
-                    "nationality": "England / Ireland",
-                    "book": "The Siege of Krishnapur",
-                    "publisher": "Weidenfeld & Nicolson",
+                    "name": "J. G. Farrell",
+                    "work": {
+                        "title": "The Siege of Krishnapur",
+                        "translations": {}
+                    },
+                    "country": "England / Ireland",
                     "genre": "Literary fiction",
                     "judges_chair": "Karl Miller"
                 }
@@ -97,19 +107,23 @@
         "1974": {
             "laureates": [
                 {
-                    "author": "Nadine Gordimer",
-                    "nationality": "South Africa",
-                    "book": "The Conservationist",
-                    "publisher": "Jonathan Cape",
+                    "name": "Nadine Gordimer",
+                    "work": {
+                        "title": "The Conservationist",
+                        "translations": {}
+                    },
+                    "country": "South Africa",
                     "genre": "Literary fiction",
                     "judges_chair": "Ion Trewin",
                     "notes": "Joint winner"
                 },
                 {
-                    "author": "Stanley Middleton",
-                    "nationality": "England",
-                    "book": "Holiday",
-                    "publisher": "Hutchinson",
+                    "name": "Stanley Middleton",
+                    "work": {
+                        "title": "Holiday",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Literary fiction",
                     "judges_chair": "Ion Trewin",
                     "notes": "Joint winner"
@@ -120,10 +134,12 @@
         "1975": {
             "laureates": [
                 {
-                    "author": "Ruth Prawer Jhabvala",
-                    "nationality": "United Kingdom / Germany",
-                    "book": "Heat and Dust",
-                    "publisher": "John Murray",
+                    "name": "Ruth Prawer Jhabvala",
+                    "work": {
+                        "title": "Heat and Dust",
+                        "translations": {}
+                    },
+                    "country": "United Kingdom / Germany",
                     "genre": "Historical fiction",
                     "judges_chair": "Angus Wilson"
                 }
@@ -132,10 +148,12 @@
         "1976": {
             "laureates": [
                 {
-                    "author": "David Storey",
-                    "nationality": "England",
-                    "book": "Saville",
-                    "publisher": "Jonathan Cape",
+                    "name": "David Storey",
+                    "work": {
+                        "title": "Saville",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Literary fiction",
                     "judges_chair": "Walter Allen"
                 }
@@ -144,10 +162,12 @@
         "1977": {
             "laureates": [
                 {
-                    "author": "Paul Scott",
-                    "nationality": "England",
-                    "book": "Staying On",
-                    "publisher": "Heinemann",
+                    "name": "Paul Scott",
+                    "work": {
+                        "title": "Staying On",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Literary fiction",
                     "judges_chair": "Philip Larkin"
                 }
@@ -156,10 +176,12 @@
         "1978": {
             "laureates": [
                 {
-                    "author": "Iris Murdoch",
-                    "nationality": "England / Ireland",
-                    "book": "The Sea, the Sea",
-                    "publisher": "Chatto & Windus",
+                    "name": "Iris Murdoch",
+                    "work": {
+                        "title": "The Sea, the Sea",
+                        "translations": {}
+                    },
+                    "country": "England / Ireland",
                     "genre": "Philosophical novel",
                     "judges_chair": "Sir Alfred Ayer"
                 }
@@ -168,10 +190,12 @@
         "1979": {
             "laureates": [
                 {
-                    "author": "Penelope Fitzgerald",
-                    "nationality": "England",
-                    "book": "Offshore",
-                    "publisher": "Collins",
+                    "name": "Penelope Fitzgerald",
+                    "work": {
+                        "title": "Offshore",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Literary fiction",
                     "judges_chair": "Lord Briggs",
                     "notes": "At 136 pages, shortest winner until 2024"
@@ -181,10 +205,12 @@
         "1980": {
             "laureates": [
                 {
-                    "author": "William Golding",
-                    "nationality": "England",
-                    "book": "Rites of Passage",
-                    "publisher": "Faber & Faber",
+                    "name": "William Golding",
+                    "work": {
+                        "title": "Rites of Passage",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Literary fiction",
                     "judges_chair": "David Daiches",
                     "notes": "Dramatic win over Anthony Burgess's Earthly Powers; judges decided 30 minutes before ceremony"
@@ -194,10 +220,12 @@
         "1981": {
             "laureates": [
                 {
-                    "author": "Salman Rushdie",
-                    "nationality": "England",
-                    "book": "Midnight's Children",
-                    "publisher": "Jonathan Cape",
+                    "name": "Salman Rushdie",
+                    "work": {
+                        "title": "Midnight's Children",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Magic realism",
                     "judges_chair": "Malcolm Bradbury",
                     "notes": "Won 'Booker of Bookers' (1993) and 'Best of the Booker' (2008) as best novel in first 25 and 40 years"
@@ -207,10 +235,12 @@
         "1982": {
             "laureates": [
                 {
-                    "author": "Thomas Keneally",
-                    "nationality": "Australia",
-                    "book": "Schindler's Ark",
-                    "publisher": "Hodder & Stoughton",
+                    "name": "Thomas Keneally",
+                    "work": {
+                        "title": "Schindler's Ark",
+                        "translations": {}
+                    },
+                    "country": "Australia",
                     "genre": "Biographical novel",
                     "judges_chair": "John Carey",
                     "notes": "Later adapted into the film 'Schindler's List'"
@@ -220,10 +250,12 @@
         "1983": {
             "laureates": [
                 {
-                    "author": "J. M. Coetzee",
-                    "nationality": "South Africa",
-                    "book": "Life & Times of Michael K",
-                    "publisher": "Secker & Warburg",
+                    "name": "J. M. Coetzee",
+                    "work": {
+                        "title": "Life & Times of Michael K",
+                        "translations": {}
+                    },
+                    "country": "South Africa",
                     "genre": "Literary fiction",
                     "judges_chair": "Fay Weldon",
                     "notes": "First of Coetzee's two Booker wins. Initially judging resulted in a tie with Rushdie's Shame"
@@ -233,10 +265,12 @@
         "1984": {
             "laureates": [
                 {
-                    "author": "Anita Brookner",
-                    "nationality": "England",
-                    "book": "Hotel du Lac",
-                    "publisher": "Jonathan Cape",
+                    "name": "Anita Brookner",
+                    "work": {
+                        "title": "Hotel du Lac",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Literary fiction",
                     "judges_chair": "Richard Cobb"
                 }
@@ -245,10 +279,12 @@
         "1985": {
             "laureates": [
                 {
-                    "author": "Keri Hulme",
-                    "nationality": "New Zealand",
-                    "book": "The Bone People",
-                    "publisher": "Hodder & Stoughton",
+                    "name": "Keri Hulme",
+                    "work": {
+                        "title": "The Bone People",
+                        "translations": {}
+                    },
+                    "country": "New Zealand",
                     "genre": "Mystery novel",
                     "judges_chair": "Norman St John-Stevas"
                 }
@@ -257,10 +293,12 @@
         "1986": {
             "laureates": [
                 {
-                    "author": "Kingsley Amis",
-                    "nationality": "England",
-                    "book": "The Old Devils",
-                    "publisher": "Hutchinson",
+                    "name": "Kingsley Amis",
+                    "work": {
+                        "title": "The Old Devils",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Comic novel",
                     "judges_chair": "Anthony Thwaite"
                 }
@@ -269,10 +307,12 @@
         "1987": {
             "laureates": [
                 {
-                    "author": "Penelope Lively",
-                    "nationality": "England",
-                    "book": "Moon Tiger",
-                    "publisher": "Deutsch",
+                    "name": "Penelope Lively",
+                    "work": {
+                        "title": "Moon Tiger",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Literary fiction",
                     "judges_chair": "P. D. James"
                 }
@@ -281,10 +321,12 @@
         "1988": {
             "laureates": [
                 {
-                    "author": "Peter Carey",
-                    "nationality": "Australia",
-                    "book": "Oscar and Lucinda",
-                    "publisher": "Faber & Faber",
+                    "name": "Peter Carey",
+                    "work": {
+                        "title": "Oscar and Lucinda",
+                        "translations": {}
+                    },
+                    "country": "Australia",
                     "genre": "Historical fiction",
                     "judges_chair": "Michael Foot",
                     "notes": "First of Carey's two Booker wins"
@@ -294,10 +336,12 @@
         "1989": {
             "laureates": [
                 {
-                    "author": "Kazuo Ishiguro",
-                    "nationality": "England",
-                    "book": "The Remains of the Day",
-                    "publisher": "Faber & Faber",
+                    "name": "Kazuo Ishiguro",
+                    "work": {
+                        "title": "The Remains of the Day",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Historical fiction",
                     "judges_chair": "David Lodge",
                     "notes": "Later adapted into acclaimed film starring Anthony Hopkins"
@@ -307,10 +351,12 @@
         "1990": {
             "laureates": [
                 {
-                    "author": "A. S. Byatt",
-                    "nationality": "England",
-                    "book": "Possession: A Romance",
-                    "publisher": "Chatto & Windus",
+                    "name": "A. S. Byatt",
+                    "work": {
+                        "title": "Possession: A Romance",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Historiographic metafiction",
                     "judges_chair": "Sir Denis Forman"
                 }
@@ -319,10 +365,12 @@
         "1991": {
             "laureates": [
                 {
-                    "author": "Ben Okri",
-                    "nationality": "Nigeria",
-                    "book": "The Famished Road",
-                    "publisher": "Jonathan Cape",
+                    "name": "Ben Okri",
+                    "work": {
+                        "title": "The Famished Road",
+                        "translations": {}
+                    },
+                    "country": "Nigeria",
                     "genre": "Magic realism",
                     "judges_chair": "Jeremy Treglown"
                 }
@@ -331,19 +379,23 @@
         "1992": {
             "laureates": [
                 {
-                    "author": "Michael Ondaatje",
-                    "nationality": "Canada / Sri Lanka",
-                    "book": "The English Patient",
-                    "publisher": "Bloomsbury",
+                    "name": "Michael Ondaatje",
+                    "work": {
+                        "title": "The English Patient",
+                        "translations": {}
+                    },
+                    "country": "Canada / Sri Lanka",
                     "genre": "Historiographic metafiction",
                     "judges_chair": "Victoria Glendinning",
                     "notes": "Joint winner. Later made into Academy Award-winning film. Won 'Golden Man Booker' (2018) for 50th anniversary"
                 },
                 {
-                    "author": "Barry Unsworth",
-                    "nationality": "England",
-                    "book": "Sacred Hunger",
-                    "publisher": "Hamish Hamilton",
+                    "name": "Barry Unsworth",
+                    "work": {
+                        "title": "Sacred Hunger",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Historical fiction",
                     "judges_chair": "Victoria Glendinning",
                     "notes": "Joint winner. Split prompted rule change: future awards must go to single winner"
@@ -354,10 +406,12 @@
         "1993": {
             "laureates": [
                 {
-                    "author": "Roddy Doyle",
-                    "nationality": "Ireland",
-                    "book": "Paddy Clarke Ha Ha Ha",
-                    "publisher": "Secker & Warburg",
+                    "name": "Roddy Doyle",
+                    "work": {
+                        "title": "Paddy Clarke Ha Ha Ha",
+                        "translations": {}
+                    },
+                    "country": "Ireland",
                     "genre": "Literary fiction",
                     "judges_chair": "Lord Gowrie"
                 }
@@ -366,10 +420,12 @@
         "1994": {
             "laureates": [
                 {
-                    "author": "James Kelman",
-                    "nationality": "Scotland",
-                    "book": "How Late It Was, How Late",
-                    "publisher": "Secker & Warburg",
+                    "name": "James Kelman",
+                    "work": {
+                        "title": "How Late It Was, How Late",
+                        "translations": {}
+                    },
+                    "country": "Scotland",
                     "genre": "Stream of consciousness",
                     "judges_chair": "John Bayley",
                     "notes": "Highly controversial win; judge Julia Neuberger called it 'a disgrace' and left ceremony. Written in Glasgow dialect"
@@ -379,10 +435,12 @@
         "1995": {
             "laureates": [
                 {
-                    "author": "Pat Barker",
-                    "nationality": "England",
-                    "book": "The Ghost Road",
-                    "publisher": "Viking",
+                    "name": "Pat Barker",
+                    "work": {
+                        "title": "The Ghost Road",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "War novel",
                     "judges_chair": "George Walden"
                 }
@@ -391,10 +449,12 @@
         "1996": {
             "laureates": [
                 {
-                    "author": "Graham Swift",
-                    "nationality": "England",
-                    "book": "Last Orders",
-                    "publisher": "Picador",
+                    "name": "Graham Swift",
+                    "work": {
+                        "title": "Last Orders",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Literary fiction",
                     "judges_chair": "Carmen Callil"
                 }
@@ -403,10 +463,12 @@
         "1997": {
             "laureates": [
                 {
-                    "author": "Arundhati Roy",
-                    "nationality": "India",
-                    "book": "The God of Small Things",
-                    "publisher": "Flamingo",
+                    "name": "Arundhati Roy",
+                    "work": {
+                        "title": "The God of Small Things",
+                        "translations": {}
+                    },
+                    "country": "India",
                     "genre": "Literary fiction",
                     "judges_chair": "Gillian Beer",
                     "notes": "Controversial win; previous year's judge Carmen Callil called it 'execrable'"
@@ -416,10 +478,12 @@
         "1998": {
             "laureates": [
                 {
-                    "author": "Ian McEwan",
-                    "nationality": "England",
-                    "book": "Amsterdam",
-                    "publisher": "Jonathan Cape",
+                    "name": "Ian McEwan",
+                    "work": {
+                        "title": "Amsterdam",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Literary fiction",
                     "judges_chair": "Douglas Hurd"
                 }
@@ -428,10 +492,12 @@
         "1999": {
             "laureates": [
                 {
-                    "author": "J. M. Coetzee",
-                    "nationality": "South Africa",
-                    "book": "Disgrace",
-                    "publisher": "Secker & Warburg",
+                    "name": "J. M. Coetzee",
+                    "work": {
+                        "title": "Disgrace",
+                        "translations": {}
+                    },
+                    "country": "South Africa",
                     "genre": "Literary fiction",
                     "judges_chair": "Gerald Kaufman",
                     "notes": "Second Booker win for Coetzee. Later won Nobel Prize in Literature (2003)"
@@ -441,10 +507,12 @@
         "2000": {
             "laureates": [
                 {
-                    "author": "Margaret Atwood",
-                    "nationality": "Canada",
-                    "book": "The Blind Assassin",
-                    "publisher": "Bloomsbury",
+                    "name": "Margaret Atwood",
+                    "work": {
+                        "title": "The Blind Assassin",
+                        "translations": {}
+                    },
+                    "country": "Canada",
                     "genre": "Historical fiction",
                     "judges_chair": "Simon Jenkins",
                     "notes": "First of Atwood's two Booker wins"
@@ -454,10 +522,12 @@
         "2001": {
             "laureates": [
                 {
-                    "author": "Peter Carey",
-                    "nationality": "Australia",
-                    "book": "True History of the Kelly Gang",
-                    "publisher": "Faber & Faber",
+                    "name": "Peter Carey",
+                    "work": {
+                        "title": "True History of the Kelly Gang",
+                        "translations": {}
+                    },
+                    "country": "Australia",
                     "genre": "Historical fiction",
                     "judges_chair": "Kenneth Baker",
                     "notes": "Second Booker win for Carey; first author to win twice. Longlists began to be published from this year"
@@ -467,10 +537,12 @@
         "2002": {
             "laureates": [
                 {
-                    "author": "Yann Martel",
-                    "nationality": "Canada",
-                    "book": "Life of Pi",
-                    "publisher": "Canongate",
+                    "name": "Yann Martel",
+                    "work": {
+                        "title": "Life of Pi",
+                        "translations": {}
+                    },
+                    "country": "Canada",
                     "genre": "Fantasy and adventure fiction",
                     "judges_chair": "Lisa Jardine",
                     "notes": "Man Group became sponsor; prize renamed 'Man Booker Prize'. Prize money increased to £50,000"
@@ -480,10 +552,12 @@
         "2003": {
             "laureates": [
                 {
-                    "author": "DBC Pierre",
-                    "nationality": "Australia",
-                    "book": "Vernon God Little",
-                    "publisher": "Faber & Faber",
+                    "name": "DBC Pierre",
+                    "work": {
+                        "title": "Vernon God Little",
+                        "translations": {}
+                    },
+                    "country": "Australia",
                     "genre": "Black comedy",
                     "judges_chair": "John Carey"
                 }
@@ -492,10 +566,12 @@
         "2004": {
             "laureates": [
                 {
-                    "author": "Alan Hollinghurst",
-                    "nationality": "England",
-                    "book": "The Line of Beauty",
-                    "publisher": "Picador",
+                    "name": "Alan Hollinghurst",
+                    "work": {
+                        "title": "The Line of Beauty",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Historical fiction",
                     "judges_chair": "Chris Smith"
                 }
@@ -504,10 +580,12 @@
         "2005": {
             "laureates": [
                 {
-                    "author": "John Banville",
-                    "nationality": "Ireland",
-                    "book": "The Sea",
-                    "publisher": "Picador",
+                    "name": "John Banville",
+                    "work": {
+                        "title": "The Sea",
+                        "translations": {}
+                    },
+                    "country": "Ireland",
                     "genre": "Literary fiction",
                     "judges_chair": "John Sutherland",
                     "notes": "Controversial surprise winner; called 'most perverse decision in award history' by some critics"
@@ -517,10 +595,12 @@
         "2006": {
             "laureates": [
                 {
-                    "author": "Kiran Desai",
-                    "nationality": "India",
-                    "book": "The Inheritance of Loss",
-                    "publisher": "Hamish Hamilton",
+                    "name": "Kiran Desai",
+                    "work": {
+                        "title": "The Inheritance of Loss",
+                        "translations": {}
+                    },
+                    "country": "India",
                     "genre": "Literary fiction",
                     "judges_chair": "Hermione Lee",
                     "notes": "Daughter of Anita Desai (shortlisted 3 times). Youngest woman to win at age 35"
@@ -530,10 +610,12 @@
         "2007": {
             "laureates": [
                 {
-                    "author": "Anne Enright",
-                    "nationality": "Ireland",
-                    "book": "The Gathering",
-                    "publisher": "Jonathan Cape",
+                    "name": "Anne Enright",
+                    "work": {
+                        "title": "The Gathering",
+                        "translations": {}
+                    },
+                    "country": "Ireland",
                     "genre": "Literary fiction",
                     "judges_chair": "Howard Davies",
                     "notes": "Longlist capped at 12-13 titles from this year. Win came from jury split over Ian McEwan's On Chesil Beach"
@@ -543,10 +625,12 @@
         "2008": {
             "laureates": [
                 {
-                    "author": "Aravind Adiga",
-                    "nationality": "India",
-                    "book": "The White Tiger",
-                    "publisher": "Atlantic",
+                    "name": "Aravind Adiga",
+                    "work": {
+                        "title": "The White Tiger",
+                        "translations": {}
+                    },
+                    "country": "India",
                     "genre": "Literary fiction",
                     "judges_chair": "Michael Portillo"
                 }
@@ -555,10 +639,12 @@
         "2009": {
             "laureates": [
                 {
-                    "author": "Hilary Mantel",
-                    "nationality": "England",
-                    "book": "Wolf Hall",
-                    "publisher": "4th Estate",
+                    "name": "Hilary Mantel",
+                    "work": {
+                        "title": "Wolf Hall",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Historical fiction",
                     "judges_chair": "James Naughtie",
                     "notes": "First of Mantel's two consecutive Booker wins. Won Golden Man Booker as one of 5 decade champions (2018)"
@@ -568,10 +654,12 @@
         "2010": {
             "laureates": [
                 {
-                    "author": "Howard Jacobson",
-                    "nationality": "England",
-                    "book": "The Finkler Question",
-                    "publisher": "Bloomsbury",
+                    "name": "Howard Jacobson",
+                    "work": {
+                        "title": "The Finkler Question",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Comic novel",
                     "judges_chair": "Andrew Motion"
                 }
@@ -590,10 +678,12 @@
         "2011": {
             "laureates": [
                 {
-                    "author": "Julian Barnes",
-                    "nationality": "England",
-                    "book": "The Sense of an Ending",
-                    "publisher": "Jonathan Cape",
+                    "name": "Julian Barnes",
+                    "work": {
+                        "title": "The Sense of an Ending",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Literary fiction",
                     "judges_chair": "Dame Stella Rimington",
                     "notes": "Barnes previously called the prize 'posh bingo'; joked on winning that he'd revised his opinion"
@@ -603,10 +693,12 @@
         "2012": {
             "laureates": [
                 {
-                    "author": "Hilary Mantel",
-                    "nationality": "England",
-                    "book": "Bring Up the Bodies",
-                    "publisher": "4th Estate",
+                    "name": "Hilary Mantel",
+                    "work": {
+                        "title": "Bring Up the Bodies",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Historical fiction",
                     "judges_chair": "Sir Peter Stothard",
                     "notes": "Second consecutive Booker win for Mantel. Sequel to Wolf Hall"
@@ -616,10 +708,12 @@
         "2013": {
             "laureates": [
                 {
-                    "author": "Eleanor Catton",
-                    "nationality": "New Zealand",
-                    "book": "The Luminaries",
-                    "publisher": "Granta",
+                    "name": "Eleanor Catton",
+                    "work": {
+                        "title": "The Luminaries",
+                        "translations": {}
+                    },
+                    "country": "New Zealand",
                     "genre": "Historical fiction",
                     "judges_chair": "Robert Macfarlane",
                     "notes": "At age 28, youngest ever Booker winner. Eligibility opened to all English-language authors worldwide (announced)"
@@ -629,10 +723,12 @@
         "2014": {
             "laureates": [
                 {
-                    "author": "Richard Flanagan",
-                    "nationality": "Australia",
-                    "book": "The Narrow Road to the Deep North",
-                    "publisher": "Chatto & Windus",
+                    "name": "Richard Flanagan",
+                    "work": {
+                        "title": "The Narrow Road to the Deep North",
+                        "translations": {}
+                    },
+                    "country": "Australia",
                     "genre": "Historical fiction",
                     "judges_chair": "A. C. Grayling",
                     "notes": "First year open to all English-language authors worldwide (not just Commonwealth)"
@@ -642,10 +738,12 @@
         "2015": {
             "laureates": [
                 {
-                    "author": "Marlon James",
-                    "nationality": "Jamaica",
-                    "book": "A Brief History of Seven Killings",
-                    "publisher": "Oneworld Publications",
+                    "name": "Marlon James",
+                    "work": {
+                        "title": "A Brief History of Seven Killings",
+                        "translations": {}
+                    },
+                    "country": "Jamaica",
                     "genre": "Historical/experimental novel",
                     "judges_chair": "Michael Wood"
                 }
@@ -654,10 +752,12 @@
         "2016": {
             "laureates": [
                 {
-                    "author": "Paul Beatty",
-                    "nationality": "USA",
-                    "book": "The Sellout",
-                    "publisher": "Oneworld",
+                    "name": "Paul Beatty",
+                    "work": {
+                        "title": "The Sellout",
+                        "translations": {}
+                    },
+                    "country": "USA",
                     "genre": "Satire",
                     "judges_chair": "Amanda Foreman",
                     "notes": "First American winner following 2014 eligibility expansion"
@@ -667,10 +767,12 @@
         "2017": {
             "laureates": [
                 {
-                    "author": "George Saunders",
-                    "nationality": "USA",
-                    "book": "Lincoln in the Bardo",
-                    "publisher": "Bloomsbury",
+                    "name": "George Saunders",
+                    "work": {
+                        "title": "Lincoln in the Bardo",
+                        "translations": {}
+                    },
+                    "country": "USA",
                     "genre": "Historical/experimental novel",
                     "judges_chair": "Baroness Lola Young",
                     "notes": "Second consecutive American winner. Won Golden Man Booker as one of 5 decade champions (2018)"
@@ -680,10 +782,12 @@
         "2018": {
             "laureates": [
                 {
-                    "author": "Anna Burns",
-                    "nationality": "Northern Ireland",
-                    "book": "Milkman",
-                    "publisher": "Faber & Faber",
+                    "name": "Anna Burns",
+                    "work": {
+                        "title": "Milkman",
+                        "translations": {}
+                    },
+                    "country": "Northern Ireland",
                     "genre": "Literary fiction",
                     "judges_chair": "Kwame Anthony Appiah",
                     "notes": "First Northern Irish winner. Written without character names"
@@ -702,19 +806,23 @@
         "2019": {
             "laureates": [
                 {
-                    "author": "Margaret Atwood",
-                    "nationality": "Canada",
-                    "book": "The Testaments",
-                    "publisher": "Chatto & Windus",
+                    "name": "Margaret Atwood",
+                    "work": {
+                        "title": "The Testaments",
+                        "translations": {}
+                    },
+                    "country": "Canada",
                     "genre": "Literary fiction",
                     "judges_chair": "Peter Florence",
                     "notes": "Joint winner. Second Booker for Atwood. Sequel to The Handmaid's Tale. At 79, oldest winner. Judges flouted rules requiring single winner"
                 },
                 {
-                    "author": "Bernardine Evaristo",
-                    "nationality": "England",
-                    "book": "Girl, Woman, Other",
-                    "publisher": "Hamish Hamilton",
+                    "name": "Bernardine Evaristo",
+                    "work": {
+                        "title": "Girl, Woman, Other",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Experimental literature",
                     "judges_chair": "Peter Florence",
                     "notes": "Joint winner. First Black woman to win Booker Prize. Judges defied instructions and split prize"
@@ -725,10 +833,12 @@
         "2020": {
             "laureates": [
                 {
-                    "author": "Douglas Stuart",
-                    "nationality": "Scotland / USA",
-                    "book": "Shuggie Bain",
-                    "publisher": "Picador",
+                    "name": "Douglas Stuart",
+                    "work": {
+                        "title": "Shuggie Bain",
+                        "translations": {}
+                    },
+                    "country": "Scotland / USA",
                     "genre": "Literary fiction",
                     "judges_chair": "Margaret Busby",
                     "notes": "Debut novel rejected by 30+ publishers. COVID-19 pandemic: ceremony livestreamed from Roundhouse instead of traditional Guildhall dinner"
@@ -738,10 +848,12 @@
         "2021": {
             "laureates": [
                 {
-                    "author": "Damon Galgut",
-                    "nationality": "South Africa",
-                    "book": "The Promise",
-                    "publisher": "Chatto & Windus",
+                    "name": "Damon Galgut",
+                    "work": {
+                        "title": "The Promise",
+                        "translations": {}
+                    },
+                    "country": "South Africa",
                     "genre": "Literary fiction",
                     "judges_chair": "Maya Jasanoff",
                     "notes": "Won on third shortlisting (also shortlisted 2003, 2010)"
@@ -751,10 +863,12 @@
         "2022": {
             "laureates": [
                 {
-                    "author": "Shehan Karunatilaka",
-                    "nationality": "Sri Lanka",
-                    "book": "The Seven Moons of Maali Almeida",
-                    "publisher": "Sort of Books",
+                    "name": "Shehan Karunatilaka",
+                    "work": {
+                        "title": "The Seven Moons of Maali Almeida",
+                        "translations": {}
+                    },
+                    "country": "Sri Lanka",
                     "genre": "Fantasy / History / Political Satire",
                     "judges_chair": "Neil MacGregor",
                     "notes": "Re-imagined ceremony at Roundhouse with keynote by Dua Lipa"
@@ -764,10 +878,12 @@
         "2023": {
             "laureates": [
                 {
-                    "author": "Paul Lynch",
-                    "nationality": "Ireland",
-                    "book": "Prophet Song",
-                    "publisher": "Oneworld Publications",
+                    "name": "Paul Lynch",
+                    "work": {
+                        "title": "Prophet Song",
+                        "translations": {}
+                    },
+                    "country": "Ireland",
                     "genre": "Dystopian novel",
                     "judges_chair": "Esi Edugyan",
                     "notes": "Shortlist featured three writers named Paul (Lynch, Murray, Harding). Mixed critical reception"
@@ -777,10 +893,12 @@
         "2024": {
             "laureates": [
                 {
-                    "author": "Samantha Harvey",
-                    "nationality": "England",
-                    "book": "Orbital",
-                    "publisher": "Jonathan Cape",
+                    "name": "Samantha Harvey",
+                    "work": {
+                        "title": "Orbital",
+                        "translations": {}
+                    },
+                    "country": "England",
                     "genre": "Literary fiction",
                     "judges_chair": "Edmund de Waal",
                     "notes": "First book set in space to win. At 136 pages, joint-shortest winner (with Offshore, 1979). First woman winner since 2019. Became UK bestseller: fastest-selling Booker winner with 20,000+ copies in first week"
@@ -790,10 +908,12 @@
         "2025": {
             "laureates": [
                 {
-                    "author": "David Szalay",
-                    "nationality": "Hungary / United Kingdom",
-                    "book": "Flesh",
-                    "publisher": "Jonathan Cape",
+                    "name": "David Szalay",
+                    "work": {
+                        "title": "Flesh",
+                        "translations": {}
+                    },
+                    "country": "Hungary / United Kingdom",
                     "genre": "Literary fiction",
                     "judges_chair": "Roddy Doyle"
                 }

@@ -21,1845 +21,2460 @@
     },
     "laureates_by_year": {
         "2024": {
-            "categories": {
-                "fiction": {
-                    "author": "Alison Espach",
-                    "book": "The Wedding People",
-                    "publisher": null,
-                    "notes": null
+            "laureates": [
+                {
+                    "name": "Alison Espach",
+                    "work": {
+                        "title": "The Wedding People",
+                        "translations": {}
+                    },
+                    "category": "fiction"
                 },
-                "fantasy": {
-                    "author": "T.J. Klune",
-                    "book": "Somewhere Beyond the Sea",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "T.J. Klune",
+                    "work": {
+                        "title": "Somewhere Beyond the Sea",
+                        "translations": {}
+                    },
+                    "category": "fantasy"
                 },
-                "mystery_thriller": {
-                    "author": "Liz Moore",
-                    "book": "The God of the Woods",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Liz Moore",
+                    "work": {
+                        "title": "The God of the Woods",
+                        "translations": {}
+                    },
+                    "category": "mystery_thriller"
                 },
-                "romance": {
-                    "author": "Emily Henry",
-                    "book": "Funny Story",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Emily Henry",
+                    "work": {
+                        "title": "Funny Story",
+                        "translations": {}
+                    },
+                    "category": "romance"
                 },
-                "romantasy": {
-                    "author": "Sarah J. Maas",
-                    "book": "House of Flame and Shadow",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Sarah J. Maas",
+                    "work": {
+                        "title": "House of Flame and Shadow",
+                        "translations": {}
+                    },
+                    "category": "romantasy"
                 },
-                "historical_fiction": {
-                    "author": "Kristin Hannah",
-                    "book": "The Women",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Kristin Hannah",
+                    "work": {
+                        "title": "The Women",
+                        "translations": {}
+                    },
+                    "category": "historical_fiction"
                 },
-                "science_fiction": {
-                    "author": "Kaliane Bradley",
-                    "book": "The Ministry of Time",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Kaliane Bradley",
+                    "work": {
+                        "title": "The Ministry of Time",
+                        "translations": {}
+                    },
+                    "category": "science_fiction"
                 },
-                "horror": {
-                    "author": "Stephen King",
-                    "book": "You Like It Darker",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Stephen King",
+                    "work": {
+                        "title": "You Like It Darker",
+                        "translations": {}
+                    },
+                    "category": "horror"
                 },
-                "young_adult_fantasy": {
-                    "author": "Rebecca Ross",
-                    "book": "Ruthless Vows",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Rebecca Ross",
+                    "work": {
+                        "title": "Ruthless Vows",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fantasy"
                 },
-                "young_adult_fiction": {
-                    "author": "Alice Oseman",
-                    "book": "Heartstopper: Volume Five",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Alice Oseman",
+                    "work": {
+                        "title": "Heartstopper: Volume Five",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fiction"
                 },
-                "debut_novel": {
-                    "author": "Yulin Kuang",
-                    "book": "How to End a Love Story",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Yulin Kuang",
+                    "work": {
+                        "title": "How to End a Love Story",
+                        "translations": {}
+                    },
+                    "category": "debut_novel"
                 },
-                "memoir": {
-                    "author": "Kelly Bishop",
-                    "book": "The Third Gilmore Girl: A Memoir",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Kelly Bishop",
+                    "work": {
+                        "title": "The Third Gilmore Girl: A Memoir",
+                        "translations": {}
+                    },
+                    "category": "memoir"
                 },
-                "nonfiction": {
-                    "author": "Jonathon Haidt",
-                    "book": "The Anxious Generation: How the Great Rewiring of Childhood Caused an Epidemic of Mental Illness",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Jonathon Haidt",
+                    "work": {
+                        "title": "The Anxious Generation: How the Great Rewiring of Childhood Caused an Epidemic of Mental Illness",
+                        "translations": {}
+                    },
+                    "category": "nonfiction"
                 },
-                "history_biography": {
-                    "author": "Evan Friss",
-                    "book": "The Bookshop: A History of the American Bookstore",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Evan Friss",
+                    "work": {
+                        "title": "The Bookshop: A History of the American Bookstore",
+                        "translations": {}
+                    },
+                    "category": "history_biography"
                 },
-                "audiobook": {
-                    "author": "Emily Henry",
-                    "narrator": "Julia Whelan",
-                    "book": "Funny Story",
-                    "publisher": null,
-                    "notes": "First year with Audiobook category"
+                {
+                    "name": "Emily Henry",
+                    "work": {
+                        "title": "Funny Story",
+                        "translations": {}
+                    },
+                    "category": "audiobook",
+                    "notes": "First year with Audiobook category",
+                    "narrator": "Julia Whelan"
                 }
-            }
+            ]
         },
         "2023": {
-            "categories": {
-                "fiction": {
-                    "author": "R. F. Kuang",
-                    "book": "Yellowface",
-                    "publisher": null,
-                    "notes": null
+            "laureates": [
+                {
+                    "name": "R. F. Kuang",
+                    "work": {
+                        "title": "Yellowface",
+                        "translations": {}
+                    },
+                    "category": "fiction"
                 },
-                "fantasy": {
-                    "author": "Leigh Bardugo",
-                    "book": "Hell Bent",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Leigh Bardugo",
+                    "work": {
+                        "title": "Hell Bent",
+                        "translations": {}
+                    },
+                    "category": "fantasy"
                 },
-                "mystery_thriller": {
-                    "author": "Freida McFadden",
-                    "book": "The Housemaid's Secret",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Freida McFadden",
+                    "work": {
+                        "title": "The Housemaid's Secret",
+                        "translations": {}
+                    },
+                    "category": "mystery_thriller"
                 },
-                "romance": {
-                    "author": "Emily Henry",
-                    "book": "Happy Place",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Emily Henry",
+                    "work": {
+                        "title": "Happy Place",
+                        "translations": {}
+                    },
+                    "category": "romance"
                 },
-                "romantasy": {
-                    "author": "Rebecca Yarros",
-                    "book": "Fourth Wing",
-                    "publisher": null,
+                {
+                    "name": "Rebecca Yarros",
+                    "work": {
+                        "title": "Fourth Wing",
+                        "translations": {}
+                    },
+                    "category": "romantasy",
                     "notes": "First year with Romantasy category"
                 },
-                "historical_fiction": {
-                    "author": "Emilia Hart",
-                    "book": "Weyward",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Emilia Hart",
+                    "work": {
+                        "title": "Weyward",
+                        "translations": {}
+                    },
+                    "category": "historical_fiction"
                 },
-                "science_fiction": {
-                    "author": "TJ Klune",
-                    "book": "In the Lives of Puppets",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "TJ Klune",
+                    "work": {
+                        "title": "In the Lives of Puppets",
+                        "translations": {}
+                    },
+                    "category": "science_fiction"
                 },
-                "horror": {
-                    "author": "Stephen King",
-                    "book": "Holly",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Stephen King",
+                    "work": {
+                        "title": "Holly",
+                        "translations": {}
+                    },
+                    "category": "horror"
                 },
-                "young_adult_fantasy": {
-                    "author": "Rebecca Ross",
-                    "book": "Divine Rivals",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Rebecca Ross",
+                    "work": {
+                        "title": "Divine Rivals",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fantasy"
                 },
-                "young_adult_fiction": {
-                    "author": "Ali Hazelwood",
-                    "book": "Check & Mate",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Ali Hazelwood",
+                    "work": {
+                        "title": "Check & Mate",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fiction"
                 },
-                "debut_novel": {
-                    "author": "Emilia Hart",
-                    "book": "Weyward",
-                    "publisher": null,
+                {
+                    "name": "Emilia Hart",
+                    "work": {
+                        "title": "Weyward",
+                        "translations": {}
+                    },
+                    "category": "debut_novel",
                     "notes": "Also won Historical Fiction"
                 },
-                "memoir_autobiography": {
-                    "author": "Britney Spears",
-                    "book": "The Woman in Me",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Britney Spears",
+                    "work": {
+                        "title": "The Woman in Me",
+                        "translations": {}
+                    },
+                    "category": "memoir_autobiography"
                 },
-                "nonfiction": {
-                    "author": "Matthew Desmond",
-                    "book": "Poverty, by America",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Matthew Desmond",
+                    "work": {
+                        "title": "Poverty, by America",
+                        "translations": {}
+                    },
+                    "category": "nonfiction"
                 },
-                "history_biography": {
-                    "author": "David Grann",
-                    "book": "The Wager: A Tale of Shipwreck, Mutiny and Murder",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "David Grann",
+                    "work": {
+                        "title": "The Wager: A Tale of Shipwreck, Mutiny and Murder",
+                        "translations": {}
+                    },
+                    "category": "history_biography"
                 },
-                "humor": {
-                    "author": "Henry Winkler",
-                    "book": "Being Henry: The Fonz . . . and Beyond",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Henry Winkler",
+                    "work": {
+                        "title": "Being Henry: The Fonz . . . and Beyond",
+                        "translations": {}
+                    },
+                    "category": "humor"
                 }
-            }
+            ]
         },
         "2022": {
-            "categories": {
-                "fiction": {
-                    "author": "Gabrielle Zevin",
-                    "book": "Tomorrow, and Tomorrow, and Tomorrow",
-                    "publisher": null,
-                    "notes": null
+            "laureates": [
+                {
+                    "name": "Gabrielle Zevin",
+                    "work": {
+                        "title": "Tomorrow, and Tomorrow, and Tomorrow",
+                        "translations": {}
+                    },
+                    "category": "fiction"
                 },
-                "fantasy": {
-                    "author": "Sarah J. Maas",
-                    "book": "House of Sky and Breath",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Sarah J. Maas",
+                    "work": {
+                        "title": "House of Sky and Breath",
+                        "translations": {}
+                    },
+                    "category": "fantasy"
                 },
-                "mystery_thriller": {
-                    "author": "Nita Prose",
-                    "book": "The Maid",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Nita Prose",
+                    "work": {
+                        "title": "The Maid",
+                        "translations": {}
+                    },
+                    "category": "mystery_thriller"
                 },
-                "romance": {
-                    "author": "Emily Henry",
-                    "book": "Book Lovers",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Emily Henry",
+                    "work": {
+                        "title": "Book Lovers",
+                        "translations": {}
+                    },
+                    "category": "romance"
                 },
-                "historical_fiction": {
-                    "author": "Taylor Jenkins Reid",
-                    "book": "Carrie Soto Is Back",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Taylor Jenkins Reid",
+                    "work": {
+                        "title": "Carrie Soto Is Back",
+                        "translations": {}
+                    },
+                    "category": "historical_fiction"
                 },
-                "science_fiction": {
-                    "author": "Emily St. John Mandel",
-                    "book": "Sea of Tranquility",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Emily St. John Mandel",
+                    "work": {
+                        "title": "Sea of Tranquility",
+                        "translations": {}
+                    },
+                    "category": "science_fiction"
                 },
-                "horror": {
-                    "author": "Jason Rekulak",
-                    "book": "Hidden Pictures",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Jason Rekulak",
+                    "work": {
+                        "title": "Hidden Pictures",
+                        "translations": {}
+                    },
+                    "category": "horror"
                 },
-                "young_adult_fantasy": {
-                    "author": "V. E. Schwab",
-                    "book": "Gallant",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "V. E. Schwab",
+                    "work": {
+                        "title": "Gallant",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fantasy"
                 },
-                "young_adult_fiction": {
-                    "author": "Jennifer Lynn Barnes",
-                    "book": "The Final Gambit",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Jennifer Lynn Barnes",
+                    "work": {
+                        "title": "The Final Gambit",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fiction"
                 },
-                "debut_novel": {
-                    "author": "Bonnie Garmus",
-                    "book": "Lessons in Chemistry",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Bonnie Garmus",
+                    "work": {
+                        "title": "Lessons in Chemistry",
+                        "translations": {}
+                    },
+                    "category": "debut_novel"
                 },
-                "memoir_autobiography": {
-                    "author": "Jennette McCurdy",
-                    "book": "I'm Glad My Mom Died",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Jennette McCurdy",
+                    "work": {
+                        "title": "I'm Glad My Mom Died",
+                        "translations": {}
+                    },
+                    "category": "memoir_autobiography"
                 },
-                "nonfiction": {
-                    "author": "Brené Brown",
-                    "book": "Atlas of the Heart",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Brené Brown",
+                    "work": {
+                        "title": "Atlas of the Heart",
+                        "translations": {}
+                    },
+                    "category": "nonfiction"
                 },
-                "poetry": {
-                    "author": "Amanda Gorman",
-                    "book": "Call Us What We Carry",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Amanda Gorman",
+                    "work": {
+                        "title": "Call Us What We Carry",
+                        "translations": {}
+                    },
+                    "category": "poetry"
                 },
-                "history_biography": {
-                    "author": "Huw Lemmey",
-                    "book": "Bad Gays: A Homosexual History",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Huw Lemmey",
+                    "work": {
+                        "title": "Bad Gays: A Homosexual History",
+                        "translations": {}
+                    },
+                    "category": "history_biography"
                 },
-                "humor": {
-                    "author": "Jenna Fischer and Angela Kinsey",
-                    "book": "The Office BFFs",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Jenna Fischer and Angela Kinsey",
+                    "work": {
+                        "title": "The Office BFFs",
+                        "translations": {}
+                    },
+                    "category": "humor"
                 },
-                "graphic_novel_comics": {
-                    "author": "Alice Oseman",
-                    "book": "Heartstopper, Volume Four",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Alice Oseman",
+                    "work": {
+                        "title": "Heartstopper, Volume Four",
+                        "translations": {}
+                    },
+                    "category": "graphic_novel_comics"
                 },
-                "children_middle_grade": {
-                    "author": "Andie Powers",
-                    "book": "I Am Quiet",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Andie Powers",
+                    "work": {
+                        "title": "I Am Quiet",
+                        "translations": {}
+                    },
+                    "category": "children_middle_grade"
                 }
-            }
+            ]
         },
         "2021": {
-            "categories": {
-                "fiction": {
-                    "author": "Sally Rooney",
-                    "book": "Beautiful World, Where Are You",
-                    "publisher": null,
-                    "notes": null
+            "laureates": [
+                {
+                    "name": "Sally Rooney",
+                    "work": {
+                        "title": "Beautiful World, Where Are You",
+                        "translations": {}
+                    },
+                    "category": "fiction"
                 },
-                "fantasy": {
-                    "author": "Sarah J. Maas",
-                    "book": "A Court of Silver Flames",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Sarah J. Maas",
+                    "work": {
+                        "title": "A Court of Silver Flames",
+                        "translations": {}
+                    },
+                    "category": "fantasy"
                 },
-                "mystery_thriller": {
-                    "author": "Laura Dave",
-                    "book": "The Last Thing He Told Me",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Laura Dave",
+                    "work": {
+                        "title": "The Last Thing He Told Me",
+                        "translations": {}
+                    },
+                    "category": "mystery_thriller"
                 },
-                "romance": {
-                    "author": "Emily Henry",
-                    "book": "People We Meet on Vacation",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Emily Henry",
+                    "work": {
+                        "title": "People We Meet on Vacation",
+                        "translations": {}
+                    },
+                    "category": "romance"
                 },
-                "historical_fiction": {
-                    "author": "Taylor Jenkins Reid",
-                    "book": "Malibu Rising",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Taylor Jenkins Reid",
+                    "work": {
+                        "title": "Malibu Rising",
+                        "translations": {}
+                    },
+                    "category": "historical_fiction"
                 },
-                "science_fiction": {
-                    "author": "Andy Weir",
-                    "book": "Project Hail Mary",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Andy Weir",
+                    "work": {
+                        "title": "Project Hail Mary",
+                        "translations": {}
+                    },
+                    "category": "science_fiction"
                 },
-                "horror": {
-                    "author": "Grady Hendrix",
-                    "book": "The Final Girl Support Group",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Grady Hendrix",
+                    "work": {
+                        "title": "The Final Girl Support Group",
+                        "translations": {}
+                    },
+                    "category": "horror"
                 },
-                "young_adult_fantasy": {
-                    "author": "Leigh Bardugo",
-                    "book": "Rule of Wolves",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Leigh Bardugo",
+                    "work": {
+                        "title": "Rule of Wolves",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fantasy"
                 },
-                "young_adult_fiction": {
-                    "author": "Angeline Boulley",
-                    "book": "Firekeeper's Daughter",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Angeline Boulley",
+                    "work": {
+                        "title": "Firekeeper's Daughter",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fiction"
                 },
-                "debut_novel": {
-                    "author": "Elena Armas",
-                    "book": "The Spanish Love Deception",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Elena Armas",
+                    "work": {
+                        "title": "The Spanish Love Deception",
+                        "translations": {}
+                    },
+                    "category": "debut_novel"
                 },
-                "memoir_autobiography": {
-                    "author": "Michelle Zauner",
-                    "book": "Crying in H Mart",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Michelle Zauner",
+                    "work": {
+                        "title": "Crying in H Mart",
+                        "translations": {}
+                    },
+                    "category": "memoir_autobiography"
                 },
-                "nonfiction": {
-                    "author": "John Green",
-                    "book": "The Anthropocene Reviewed: Essays on a Human-Centered Planet",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "John Green",
+                    "work": {
+                        "title": "The Anthropocene Reviewed: Essays on a Human-Centered Planet",
+                        "translations": {}
+                    },
+                    "category": "nonfiction"
                 },
-                "poetry": {
-                    "author": "Amanda Gorman",
-                    "book": "The Hill We Climb",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Amanda Gorman",
+                    "work": {
+                        "title": "The Hill We Climb",
+                        "translations": {}
+                    },
+                    "category": "poetry"
                 },
-                "history_biography": {
-                    "author": "Patrick Radden Keefe",
-                    "book": "Empire of Pain: The Secret History of the Sackler Dynasty",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Patrick Radden Keefe",
+                    "work": {
+                        "title": "Empire of Pain: The Secret History of the Sackler Dynasty",
+                        "translations": {}
+                    },
+                    "category": "history_biography"
                 },
-                "humor": {
-                    "author": "Jenny Lawson",
-                    "book": "Broken (in the Best Possible Way)",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Jenny Lawson",
+                    "work": {
+                        "title": "Broken (in the Best Possible Way)",
+                        "translations": {}
+                    },
+                    "category": "humor"
                 },
-                "graphic_novel_comics": {
-                    "author": "Rachel Smythe",
-                    "book": "Lore Olympus",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Rachel Smythe",
+                    "work": {
+                        "title": "Lore Olympus",
+                        "translations": {}
+                    },
+                    "category": "graphic_novel_comics"
                 },
-                "children_middle_grade": {
-                    "author": "Rick Riordan",
-                    "book": "Daughter of the Deep",
-                    "publisher": null,
+                {
+                    "name": "Rick Riordan",
+                    "work": {
+                        "title": "Daughter of the Deep",
+                        "translations": {}
+                    },
+                    "category": "children_middle_grade",
                     "notes": "Rick Riordan's 11th consecutive win in this category"
                 }
-            }
+            ]
         },
         "2020": {
-            "categories": {
-                "fiction": {
-                    "author": "Matt Haig",
-                    "book": "The Midnight Library",
-                    "publisher": null,
-                    "notes": null
+            "laureates": [
+                {
+                    "name": "Matt Haig",
+                    "work": {
+                        "title": "The Midnight Library",
+                        "translations": {}
+                    },
+                    "category": "fiction"
                 },
-                "fantasy": {
-                    "author": "Sarah J. Maas",
-                    "book": "House of Earth and Blood",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Sarah J. Maas",
+                    "work": {
+                        "title": "House of Earth and Blood",
+                        "translations": {}
+                    },
+                    "category": "fantasy"
                 },
-                "mystery_thriller": {
-                    "author": "Lucy Foley",
-                    "book": "The Guest List",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Lucy Foley",
+                    "work": {
+                        "title": "The Guest List",
+                        "translations": {}
+                    },
+                    "category": "mystery_thriller"
                 },
-                "romance": {
-                    "author": "Jennifer L. Armentrout",
-                    "book": "From Blood & Ash",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Jennifer L. Armentrout",
+                    "work": {
+                        "title": "From Blood & Ash",
+                        "translations": {}
+                    },
+                    "category": "romance"
                 },
-                "historical_fiction": {
-                    "author": "Brit Bennett",
-                    "book": "The Vanishing Half",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Brit Bennett",
+                    "work": {
+                        "title": "The Vanishing Half",
+                        "translations": {}
+                    },
+                    "category": "historical_fiction"
                 },
-                "science_fiction": {
-                    "author": "Christopher Paolini",
-                    "book": "To Sleep in a Sea of Stars",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Christopher Paolini",
+                    "work": {
+                        "title": "To Sleep in a Sea of Stars",
+                        "translations": {}
+                    },
+                    "category": "science_fiction"
                 },
-                "horror": {
-                    "author": "Silvia Moreno-Garcia",
-                    "book": "Mexican Gothic",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Silvia Moreno-Garcia",
+                    "work": {
+                        "title": "Mexican Gothic",
+                        "translations": {}
+                    },
+                    "category": "horror"
                 },
-                "young_adult_fantasy": {
-                    "author": "Holly Black",
-                    "book": "The Queen of Nothing",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Holly Black",
+                    "work": {
+                        "title": "The Queen of Nothing",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fantasy"
                 },
-                "young_adult_fiction": {
-                    "author": "Elizabeth Acevedo",
-                    "book": "Clap When You Land",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Elizabeth Acevedo",
+                    "work": {
+                        "title": "Clap When You Land",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fiction"
                 },
-                "debut_novel": {
-                    "author": "Kiley Reid",
-                    "book": "Such a Fun Age",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Kiley Reid",
+                    "work": {
+                        "title": "Such a Fun Age",
+                        "translations": {}
+                    },
+                    "category": "debut_novel"
                 },
-                "memoir_autobiography": {
-                    "author": "Barack Obama",
-                    "book": "A Promised Land",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Barack Obama",
+                    "work": {
+                        "title": "A Promised Land",
+                        "translations": {}
+                    },
+                    "category": "memoir_autobiography"
                 },
-                "nonfiction": {
-                    "author": "Jason Reynolds and Ibram X. Kendi",
-                    "book": "Stamped: Racism, Antiracism, & You",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Jason Reynolds and Ibram X. Kendi",
+                    "work": {
+                        "title": "Stamped: Racism, Antiracism, & You",
+                        "translations": {}
+                    },
+                    "category": "nonfiction"
                 },
-                "poetry": {
-                    "author": "Margaret Atwood",
-                    "book": "Dearly: New Poems",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Margaret Atwood",
+                    "work": {
+                        "title": "Dearly: New Poems",
+                        "translations": {}
+                    },
+                    "category": "poetry"
                 },
-                "history_biography": {
-                    "author": "Isabel Wilkerson",
-                    "book": "Caste: The Origins of Our Discontents",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Isabel Wilkerson",
+                    "work": {
+                        "title": "Caste: The Origins of Our Discontents",
+                        "translations": {}
+                    },
+                    "category": "history_biography"
                 },
-                "humor": {
-                    "author": "Nathan W. Pyle",
-                    "book": "Strange Planet",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Nathan W. Pyle",
+                    "work": {
+                        "title": "Strange Planet",
+                        "translations": {}
+                    },
+                    "category": "humor"
                 },
-                "graphic_novel_comics": {
-                    "author": "Alice Oseman",
-                    "book": "Heartstopper, Volume Three",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Alice Oseman",
+                    "work": {
+                        "title": "Heartstopper, Volume Three",
+                        "translations": {}
+                    },
+                    "category": "graphic_novel_comics"
                 },
-                "children_middle_grade": {
-                    "author": "Rick Riordan",
-                    "book": "The Tower of Nero",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Rick Riordan",
+                    "work": {
+                        "title": "The Tower of Nero",
+                        "translations": {}
+                    },
+                    "category": "children_middle_grade"
                 },
-                "picture_book": {
-                    "author": "Ibram X. Kendi and Ashley Lukashevsky",
-                    "book": "Antiracist Baby",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Ibram X. Kendi and Ashley Lukashevsky",
+                    "work": {
+                        "title": "Antiracist Baby",
+                        "translations": {}
+                    },
+                    "category": "picture_book"
                 },
-                "food_cooking": {
-                    "author": "Ina Garten",
-                    "book": "Modern Comfort Food: A Barefoot Contessa Cookbook",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Ina Garten",
+                    "work": {
+                        "title": "Modern Comfort Food: A Barefoot Contessa Cookbook",
+                        "translations": {}
+                    },
+                    "category": "food_cooking"
                 },
-                "science_technology": {
-                    "author": "David Attenborough and Jonnie Hughes",
-                    "book": "A Life on Our Planet: My Witness Statement and a Vision for the Future",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "David Attenborough and Jonnie Hughes",
+                    "work": {
+                        "title": "A Life on Our Planet: My Witness Statement and a Vision for the Future",
+                        "translations": {}
+                    },
+                    "category": "science_technology"
                 }
-            }
+            ]
         },
         "2019": {
-            "categories": {
-                "fiction": {
-                    "author": "Margaret Atwood",
-                    "book": "The Testaments",
-                    "publisher": null,
+            "laureates": [
+                {
+                    "name": "Margaret Atwood",
+                    "work": {
+                        "title": "The Testaments",
+                        "translations": {}
+                    },
+                    "category": "fiction",
                     "notes": "Sequel to The Handmaid's Tale, also won Booker Prize"
                 },
-                "fantasy": {
-                    "author": "Leigh Bardugo",
-                    "book": "Ninth House",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Leigh Bardugo",
+                    "work": {
+                        "title": "Ninth House",
+                        "translations": {}
+                    },
+                    "category": "fantasy"
                 },
-                "mystery_thriller": {
-                    "author": "Alex Michaelides",
-                    "book": "The Silent Patient",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Alex Michaelides",
+                    "work": {
+                        "title": "The Silent Patient",
+                        "translations": {}
+                    },
+                    "category": "mystery_thriller"
                 },
-                "romance": {
-                    "author": "Casey McQuiston",
-                    "book": "Red, White & Royal Blue",
-                    "publisher": null,
+                {
+                    "name": "Casey McQuiston",
+                    "work": {
+                        "title": "Red, White & Royal Blue",
+                        "translations": {}
+                    },
+                    "category": "romance",
                     "notes": "Also won Debut Novel"
                 },
-                "historical_fiction": {
-                    "author": "Taylor Jenkins Reid",
-                    "book": "Daisy Jones & The Six",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Taylor Jenkins Reid",
+                    "work": {
+                        "title": "Daisy Jones & The Six",
+                        "translations": {}
+                    },
+                    "category": "historical_fiction"
                 },
-                "science_fiction": {
-                    "author": "Blake Crouch",
-                    "book": "Recursion",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Blake Crouch",
+                    "work": {
+                        "title": "Recursion",
+                        "translations": {}
+                    },
+                    "category": "science_fiction"
                 },
-                "horror": {
-                    "author": "Stephen King",
-                    "book": "The Institute",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Stephen King",
+                    "work": {
+                        "title": "The Institute",
+                        "translations": {}
+                    },
+                    "category": "horror"
                 },
-                "young_adult_fantasy": {
-                    "author": "Holly Black",
-                    "book": "The Wicked King",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Holly Black",
+                    "work": {
+                        "title": "The Wicked King",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fantasy"
                 },
-                "young_adult_fiction": {
-                    "author": "Rachael Lippincott",
-                    "book": "Five Feet Apart",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Rachael Lippincott",
+                    "work": {
+                        "title": "Five Feet Apart",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fiction"
                 },
-                "debut_novel": {
-                    "author": "Casey McQuiston",
-                    "book": "Red, White & Royal Blue",
-                    "publisher": null,
+                {
+                    "name": "Casey McQuiston",
+                    "work": {
+                        "title": "Red, White & Royal Blue",
+                        "translations": {}
+                    },
+                    "category": "debut_novel",
                     "notes": "Also won Romance"
                 },
-                "memoir_autobiography": {
-                    "author": "Jonathan Van Ness",
-                    "book": "Over the Top",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Jonathan Van Ness",
+                    "work": {
+                        "title": "Over the Top",
+                        "translations": {}
+                    },
+                    "category": "memoir_autobiography"
                 },
-                "nonfiction": {
-                    "author": "Rachel Hollis",
-                    "book": "Girl, Stop Apologizing",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Rachel Hollis",
+                    "work": {
+                        "title": "Girl, Stop Apologizing",
+                        "translations": {}
+                    },
+                    "category": "nonfiction"
                 },
-                "poetry": {
-                    "author": "Laurie Halse Anderson",
-                    "book": "Shout",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Laurie Halse Anderson",
+                    "work": {
+                        "title": "Shout",
+                        "translations": {}
+                    },
+                    "category": "poetry"
                 },
-                "history_biography": {
-                    "author": "Hallie Rubenhold",
-                    "book": "The Five",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Hallie Rubenhold",
+                    "work": {
+                        "title": "The Five",
+                        "translations": {}
+                    },
+                    "category": "history_biography"
                 },
-                "humor": {
-                    "author": "Ali Wong",
-                    "book": "Dear Girls",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Ali Wong",
+                    "work": {
+                        "title": "Dear Girls",
+                        "translations": {}
+                    },
+                    "category": "humor"
                 },
-                "graphic_novel_comics": {
-                    "author": "Rainbow Rowell and Faith Erin Hicks",
-                    "book": "Pumpkin Heads",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Rainbow Rowell and Faith Erin Hicks",
+                    "work": {
+                        "title": "Pumpkin Heads",
+                        "translations": {}
+                    },
+                    "category": "graphic_novel_comics"
                 },
-                "children_middle_grade": {
-                    "author": "Rick Riordan",
-                    "book": "The Tyrant's Tomb",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Rick Riordan",
+                    "work": {
+                        "title": "The Tyrant's Tomb",
+                        "translations": {}
+                    },
+                    "category": "children_middle_grade"
                 },
-                "picture_book": {
-                    "author": "Fred Rogers and Luke Flowers",
-                    "book": "A Beautiful Day in the Neighborhood",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Fred Rogers and Luke Flowers",
+                    "work": {
+                        "title": "A Beautiful Day in the Neighborhood",
+                        "translations": {}
+                    },
+                    "category": "picture_book"
                 },
-                "food_cooking": {
-                    "author": "Antoni Porowski",
-                    "book": "Antoni in the Kitchen",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Antoni Porowski",
+                    "work": {
+                        "title": "Antoni in the Kitchen",
+                        "translations": {}
+                    },
+                    "category": "food_cooking"
                 },
-                "science_technology": {
-                    "author": "Caitlin Doughty",
-                    "book": "Will My Cats Eat My Eyeballs?",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Caitlin Doughty",
+                    "work": {
+                        "title": "Will My Cats Eat My Eyeballs?",
+                        "translations": {}
+                    },
+                    "category": "science_technology"
                 }
-            }
+            ]
         },
         "2018": {
-            "categories": {
-                "fiction": {
-                    "author": "Jojo Moyes",
-                    "book": "Still Me",
-                    "publisher": null,
-                    "notes": null
+            "laureates": [
+                {
+                    "name": "Jojo Moyes",
+                    "work": {
+                        "title": "Still Me",
+                        "translations": {}
+                    },
+                    "category": "fiction"
                 },
-                "fantasy": {
-                    "author": "Madeline Miller",
-                    "book": "Circe",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Madeline Miller",
+                    "work": {
+                        "title": "Circe",
+                        "translations": {}
+                    },
+                    "category": "fantasy"
                 },
-                "mystery_thriller": {
-                    "author": "Stephen King",
-                    "book": "The Outsider",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Stephen King",
+                    "work": {
+                        "title": "The Outsider",
+                        "translations": {}
+                    },
+                    "category": "mystery_thriller"
                 },
-                "romance": {
-                    "author": "Helen Hoang",
-                    "book": "The Kiss Quotient",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Helen Hoang",
+                    "work": {
+                        "title": "The Kiss Quotient",
+                        "translations": {}
+                    },
+                    "category": "romance"
                 },
-                "historical_fiction": {
-                    "author": "Kristin Hannah",
-                    "book": "The Great Alone",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Kristin Hannah",
+                    "work": {
+                        "title": "The Great Alone",
+                        "translations": {}
+                    },
+                    "category": "historical_fiction"
                 },
-                "science_fiction": {
-                    "author": "VE Schwab",
-                    "book": "Vengeful",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "VE Schwab",
+                    "work": {
+                        "title": "Vengeful",
+                        "translations": {}
+                    },
+                    "category": "science_fiction"
                 },
-                "horror": {
-                    "author": "Stephen King",
-                    "book": "Elevation",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Stephen King",
+                    "work": {
+                        "title": "Elevation",
+                        "translations": {}
+                    },
+                    "category": "horror"
                 },
-                "young_adult_fantasy": {
-                    "author": "Sarah J. Maas",
-                    "book": "Kingdom of Ash",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Sarah J. Maas",
+                    "work": {
+                        "title": "Kingdom of Ash",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fantasy"
                 },
-                "young_adult_fiction": {
-                    "author": "Becky Albertalli",
-                    "book": "Leah on the Offbeat",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Becky Albertalli",
+                    "work": {
+                        "title": "Leah on the Offbeat",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fiction"
                 },
-                "debut_author": {
-                    "author": "Tomi Adeyemi",
-                    "book": "Children of Blood and Bone",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Tomi Adeyemi",
+                    "work": {
+                        "title": "Children of Blood and Bone",
+                        "translations": {}
+                    },
+                    "category": "debut_author"
                 },
-                "memoir_autobiography": {
-                    "author": "Tara Westover",
-                    "book": "Educated",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Tara Westover",
+                    "work": {
+                        "title": "Educated",
+                        "translations": {}
+                    },
+                    "category": "memoir_autobiography"
                 },
-                "nonfiction": {
-                    "author": "Michelle McNamara",
-                    "book": "I'll Be Gone in the Dark",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Michelle McNamara",
+                    "work": {
+                        "title": "I'll Be Gone in the Dark",
+                        "translations": {}
+                    },
+                    "category": "nonfiction"
                 },
-                "poetry": {
-                    "author": "Amanda Lovelace",
-                    "book": "The Witch Doesn't Burn in This One",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Amanda Lovelace",
+                    "work": {
+                        "title": "The Witch Doesn't Burn in This One",
+                        "translations": {}
+                    },
+                    "category": "poetry"
                 },
-                "history_biography": {
-                    "author": "Maxwell King",
-                    "book": "The Good Neighbor: The Life and Work of Fred Rogers",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Maxwell King",
+                    "work": {
+                        "title": "The Good Neighbor: The Life and Work of Fred Rogers",
+                        "translations": {}
+                    },
+                    "category": "history_biography"
                 },
-                "humor": {
-                    "author": "Tiffany Haddish",
-                    "book": "The Last Black Unicorn",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Tiffany Haddish",
+                    "work": {
+                        "title": "The Last Black Unicorn",
+                        "translations": {}
+                    },
+                    "category": "humor"
                 },
-                "graphic_novel_comics": {
-                    "author": "Sarah Andersen",
-                    "book": "Herding Cats",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Sarah Andersen",
+                    "work": {
+                        "title": "Herding Cats",
+                        "translations": {}
+                    },
+                    "category": "graphic_novel_comics"
                 },
-                "children_middle_grade": {
-                    "author": "Rick Riordan",
-                    "book": "The Burning Maze",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Rick Riordan",
+                    "work": {
+                        "title": "The Burning Maze",
+                        "translations": {}
+                    },
+                    "category": "children_middle_grade"
                 },
-                "picture_book": {
-                    "author": "Grace Byers",
-                    "book": "I Am Enough",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Grace Byers",
+                    "work": {
+                        "title": "I Am Enough",
+                        "translations": {}
+                    },
+                    "category": "picture_book"
                 },
-                "food_cooking": {
-                    "author": "Chrissy Teigen and Adeena Sussman",
-                    "book": "Cravings: Hungry for More",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Chrissy Teigen and Adeena Sussman",
+                    "work": {
+                        "title": "Cravings: Hungry for More",
+                        "translations": {}
+                    },
+                    "category": "food_cooking"
                 },
-                "science_technology": {
-                    "author": "Steve Brusatte",
-                    "book": "The Rise and Fall of the Dinosaurs",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Steve Brusatte",
+                    "work": {
+                        "title": "The Rise and Fall of the Dinosaurs",
+                        "translations": {}
+                    },
+                    "category": "science_technology"
                 },
-                "best_of_the_best": {
-                    "author": "Angie Thomas",
-                    "book": "The Hate U Give",
-                    "publisher": null,
+                {
+                    "name": "Angie Thomas",
+                    "work": {
+                        "title": "The Hate U Give",
+                        "translations": {}
+                    },
+                    "category": "best_of_the_best",
                     "notes": "Special 10th anniversary award"
                 }
-            }
+            ]
         },
         "2017": {
-            "categories": {
-                "fiction": {
-                    "author": "Celeste Ng",
-                    "book": "Little Fires Everywhere",
-                    "publisher": null,
-                    "notes": null
+            "laureates": [
+                {
+                    "name": "Celeste Ng",
+                    "work": {
+                        "title": "Little Fires Everywhere",
+                        "translations": {}
+                    },
+                    "category": "fiction"
                 },
-                "fantasy": {
-                    "author": "J. K. Rowling",
-                    "book": "Fantastic Beasts and Where to Find Them: The Original Screenplay",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "J. K. Rowling",
+                    "work": {
+                        "title": "Fantastic Beasts and Where to Find Them: The Original Screenplay",
+                        "translations": {}
+                    },
+                    "category": "fantasy"
                 },
-                "mystery_thriller": {
-                    "author": "Paula Hawkins",
-                    "book": "Into the Water",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Paula Hawkins",
+                    "work": {
+                        "title": "Into the Water",
+                        "translations": {}
+                    },
+                    "category": "mystery_thriller"
                 },
-                "romance": {
-                    "author": "Colleen Hoover",
-                    "book": "Without Merit",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Colleen Hoover",
+                    "work": {
+                        "title": "Without Merit",
+                        "translations": {}
+                    },
+                    "category": "romance"
                 },
-                "historical_fiction": {
-                    "author": "Lisa Wingate",
-                    "book": "Before We Were Yours",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Lisa Wingate",
+                    "work": {
+                        "title": "Before We Were Yours",
+                        "translations": {}
+                    },
+                    "category": "historical_fiction"
                 },
-                "science_fiction": {
-                    "author": "Andy Weir",
-                    "book": "Artemis",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Andy Weir",
+                    "work": {
+                        "title": "Artemis",
+                        "translations": {}
+                    },
+                    "category": "science_fiction"
                 },
-                "horror": {
-                    "author": "Stephen King and Owen King",
-                    "book": "Sleeping Beauties",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Stephen King and Owen King",
+                    "work": {
+                        "title": "Sleeping Beauties",
+                        "translations": {}
+                    },
+                    "category": "horror"
                 },
-                "young_adult_fantasy": {
-                    "author": "Sarah J. Maas",
-                    "book": "A Court of Wings and Ruin",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Sarah J. Maas",
+                    "work": {
+                        "title": "A Court of Wings and Ruin",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fantasy"
                 },
-                "young_adult_fiction": {
-                    "author": "Angie Thomas",
-                    "book": "The Hate U Give",
-                    "publisher": null,
+                {
+                    "name": "Angie Thomas",
+                    "work": {
+                        "title": "The Hate U Give",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fiction",
                     "notes": "Also won Debut Author"
                 },
-                "debut_author": {
-                    "author": "Angie Thomas",
-                    "book": "The Hate U Give",
-                    "publisher": null,
+                {
+                    "name": "Angie Thomas",
+                    "work": {
+                        "title": "The Hate U Give",
+                        "translations": {}
+                    },
+                    "category": "debut_author",
                     "notes": "Also won Young Adult Fiction"
                 },
-                "memoir_autobiography": {
-                    "author": "Hillary Rodham Clinton",
-                    "book": "What Happened",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Hillary Rodham Clinton",
+                    "work": {
+                        "title": "What Happened",
+                        "translations": {}
+                    },
+                    "category": "memoir_autobiography"
                 },
-                "nonfiction": {
-                    "author": "Lilly Singh",
-                    "book": "How to Be a Bawse: A Guide to Conquering Life",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Lilly Singh",
+                    "work": {
+                        "title": "How to Be a Bawse: A Guide to Conquering Life",
+                        "translations": {}
+                    },
+                    "category": "nonfiction"
                 },
-                "poetry": {
-                    "author": "Rupi Kaur",
-                    "book": "The Sun and Her Flowers",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Rupi Kaur",
+                    "work": {
+                        "title": "The Sun and Her Flowers",
+                        "translations": {}
+                    },
+                    "category": "poetry"
                 },
-                "history_biography": {
-                    "author": "Kate Moore",
-                    "book": "The Radium Girls: The Dark Story of America's Shining Women",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Kate Moore",
+                    "work": {
+                        "title": "The Radium Girls: The Dark Story of America's Shining Women",
+                        "translations": {}
+                    },
+                    "category": "history_biography"
                 },
-                "humor": {
-                    "author": "Lauren Graham",
-                    "book": "Talking as Fast as I Can: From Gilmore Girls to Gilmore Girls (and Everything in Between)",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Lauren Graham",
+                    "work": {
+                        "title": "Talking as Fast as I Can: From Gilmore Girls to Gilmore Girls (and Everything in Between)",
+                        "translations": {}
+                    },
+                    "category": "humor"
                 },
-                "graphic_novel_comics": {
-                    "author": "Sarah Andersen",
-                    "book": "Big Mushy Happy Lump",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Sarah Andersen",
+                    "work": {
+                        "title": "Big Mushy Happy Lump",
+                        "translations": {}
+                    },
+                    "category": "graphic_novel_comics"
                 },
-                "children_middle_grade": {
-                    "author": "Rick Riordan",
-                    "book": "The Ship of the Dead",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Rick Riordan",
+                    "work": {
+                        "title": "The Ship of the Dead",
+                        "translations": {}
+                    },
+                    "category": "children_middle_grade"
                 },
-                "picture_book": {
-                    "author": "R. J. Palacio",
-                    "book": "We're All Wonders",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "R. J. Palacio",
+                    "work": {
+                        "title": "We're All Wonders",
+                        "translations": {}
+                    },
+                    "category": "picture_book"
                 },
-                "food_cooking": {
-                    "author": "Ree Drummond",
-                    "book": "The Pioneer Woman Cooks: Come and Get It!",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Ree Drummond",
+                    "work": {
+                        "title": "The Pioneer Woman Cooks: Come and Get It!",
+                        "translations": {}
+                    },
+                    "category": "food_cooking"
                 },
-                "science_technology": {
-                    "author": "Neil deGrasse Tyson",
-                    "book": "Astrophysics for People in a Hurry",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Neil deGrasse Tyson",
+                    "work": {
+                        "title": "Astrophysics for People in a Hurry",
+                        "translations": {}
+                    },
+                    "category": "science_technology"
                 }
-            }
+            ]
         },
         "2016": {
-            "categories": {
-                "fiction": {
-                    "author": "Liane Moriarty",
-                    "book": "Truly Madly Guilty",
-                    "publisher": null,
-                    "notes": null
+            "laureates": [
+                {
+                    "name": "Liane Moriarty",
+                    "work": {
+                        "title": "Truly Madly Guilty",
+                        "translations": {}
+                    },
+                    "category": "fiction"
                 },
-                "fantasy": {
-                    "author": "J. K. Rowling",
-                    "book": "Harry Potter and the Cursed Child",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "J. K. Rowling",
+                    "work": {
+                        "title": "Harry Potter and the Cursed Child",
+                        "translations": {}
+                    },
+                    "category": "fantasy"
                 },
-                "mystery_thriller": {
-                    "author": "Stephen King",
-                    "book": "End of Watch",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Stephen King",
+                    "work": {
+                        "title": "End of Watch",
+                        "translations": {}
+                    },
+                    "category": "mystery_thriller"
                 },
-                "romance": {
-                    "author": "Colleen Hoover",
-                    "book": "It Ends with Us",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Colleen Hoover",
+                    "work": {
+                        "title": "It Ends with Us",
+                        "translations": {}
+                    },
+                    "category": "romance"
                 },
-                "historical_fiction": {
-                    "author": "Colson Whitehead",
-                    "book": "The Underground Railroad",
-                    "publisher": null,
+                {
+                    "name": "Colson Whitehead",
+                    "work": {
+                        "title": "The Underground Railroad",
+                        "translations": {}
+                    },
+                    "category": "historical_fiction",
                     "notes": "Also won Pulitzer Prize"
                 },
-                "science_fiction": {
-                    "author": "Pierce Brown",
-                    "book": "Morning Star",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Pierce Brown",
+                    "work": {
+                        "title": "Morning Star",
+                        "translations": {}
+                    },
+                    "category": "science_fiction"
                 },
-                "horror": {
-                    "author": "Joe Hill",
-                    "book": "The Fireman",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Joe Hill",
+                    "work": {
+                        "title": "The Fireman",
+                        "translations": {}
+                    },
+                    "category": "horror"
                 },
-                "young_adult_fantasy": {
-                    "author": "Sarah J. Maas",
-                    "book": "A Court of Mist and Fury",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Sarah J. Maas",
+                    "work": {
+                        "title": "A Court of Mist and Fury",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fantasy"
                 },
-                "young_adult_fiction": {
-                    "author": "Ruta Sepetys",
-                    "book": "Salt to the Sea",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Ruta Sepetys",
+                    "work": {
+                        "title": "Salt to the Sea",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fiction"
                 },
-                "debut_author": {
-                    "author": "Alwyn Hamilton",
-                    "book": "Rebel of the Sands",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Alwyn Hamilton",
+                    "work": {
+                        "title": "Rebel of the Sands",
+                        "translations": {}
+                    },
+                    "category": "debut_author"
                 },
-                "memoir_autobiography": {
-                    "author": "Paul Kalanithi",
-                    "book": "When Breath Becomes Air",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Paul Kalanithi",
+                    "work": {
+                        "title": "When Breath Becomes Air",
+                        "translations": {}
+                    },
+                    "category": "memoir_autobiography"
                 },
-                "nonfiction": {
-                    "author": "Lin-Manuel Miranda and Jeremy McCarter",
-                    "book": "Hamilton: The Revolution",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Lin-Manuel Miranda and Jeremy McCarter",
+                    "work": {
+                        "title": "Hamilton: The Revolution",
+                        "translations": {}
+                    },
+                    "category": "nonfiction"
                 },
-                "poetry": {
-                    "author": "Amanda Lovelace",
-                    "book": "The Princess Saves Herself in This One",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Amanda Lovelace",
+                    "work": {
+                        "title": "The Princess Saves Herself in This One",
+                        "translations": {}
+                    },
+                    "category": "poetry"
                 },
-                "history_biography": {
-                    "author": "William Shatner",
-                    "book": "Leonard: My Fifty-Year Friendship with a Remarkable Man",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "William Shatner",
+                    "work": {
+                        "title": "Leonard: My Fifty-Year Friendship with a Remarkable Man",
+                        "translations": {}
+                    },
+                    "category": "history_biography"
                 },
-                "humor": {
-                    "author": "Amy Schumer",
-                    "book": "The Girl with the Lower Back Tattoo",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Amy Schumer",
+                    "work": {
+                        "title": "The Girl with the Lower Back Tattoo",
+                        "translations": {}
+                    },
+                    "category": "humor"
                 },
-                "graphic_novel_comics": {
-                    "author": "Sarah Andersen",
-                    "book": "Adulthood is a Myth",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Sarah Andersen",
+                    "work": {
+                        "title": "Adulthood is a Myth",
+                        "translations": {}
+                    },
+                    "category": "graphic_novel_comics"
                 },
-                "children_middle_grade": {
-                    "author": "Rick Riordan",
-                    "book": "The Hidden Oracle",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Rick Riordan",
+                    "work": {
+                        "title": "The Hidden Oracle",
+                        "translations": {}
+                    },
+                    "category": "children_middle_grade"
                 },
-                "picture_book": {
-                    "author": "Mo Willems",
-                    "book": "The Thank You Book",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Mo Willems",
+                    "work": {
+                        "title": "The Thank You Book",
+                        "translations": {}
+                    },
+                    "category": "picture_book"
                 },
-                "food_cooking": {
-                    "author": "Chrissy Teigen",
-                    "book": "Cravings",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Chrissy Teigen",
+                    "work": {
+                        "title": "Cravings",
+                        "translations": {}
+                    },
+                    "category": "food_cooking"
                 },
-                "science_technology": {
-                    "author": "Frans De Waal",
-                    "book": "Are We Smart Enough to Know How Smart Animals Are?",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Frans De Waal",
+                    "work": {
+                        "title": "Are We Smart Enough to Know How Smart Animals Are?",
+                        "translations": {}
+                    },
+                    "category": "science_technology"
                 }
-            }
+            ]
         },
         "2015": {
-            "categories": {
-                "fiction": {
-                    "author": "Harper Lee",
-                    "book": "Go Set a Watchman",
-                    "publisher": null,
+            "laureates": [
+                {
+                    "name": "Harper Lee",
+                    "work": {
+                        "title": "Go Set a Watchman",
+                        "translations": {}
+                    },
+                    "category": "fiction",
                     "notes": "Controversial sequel to To Kill a Mockingbird"
                 },
-                "fantasy": {
-                    "author": "Neil Gaiman",
-                    "book": "Trigger Warning: Short Fictions & Disturbances",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Neil Gaiman",
+                    "work": {
+                        "title": "Trigger Warning: Short Fictions & Disturbances",
+                        "translations": {}
+                    },
+                    "category": "fantasy"
                 },
-                "mystery_thriller": {
-                    "author": "Paula Hawkins",
-                    "book": "The Girl on the Train",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Paula Hawkins",
+                    "work": {
+                        "title": "The Girl on the Train",
+                        "translations": {}
+                    },
+                    "category": "mystery_thriller"
                 },
-                "romance": {
-                    "author": "Colleen Hoover",
-                    "book": "Confess",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Colleen Hoover",
+                    "work": {
+                        "title": "Confess",
+                        "translations": {}
+                    },
+                    "category": "romance"
                 },
-                "historical_fiction": {
-                    "author": "Kristin Hannah",
-                    "book": "The Nightingale",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Kristin Hannah",
+                    "work": {
+                        "title": "The Nightingale",
+                        "translations": {}
+                    },
+                    "category": "historical_fiction"
                 },
-                "science_fiction": {
-                    "author": "Pierce Brown",
-                    "book": "Golden Son",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Pierce Brown",
+                    "work": {
+                        "title": "Golden Son",
+                        "translations": {}
+                    },
+                    "category": "science_fiction"
                 },
-                "horror": {
-                    "author": "Dean Koontz",
-                    "book": "Saint Odd",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Dean Koontz",
+                    "work": {
+                        "title": "Saint Odd",
+                        "translations": {}
+                    },
+                    "category": "horror"
                 },
-                "young_adult_fantasy": {
-                    "author": "Sarah J. Maas",
-                    "book": "Queen of Shadows",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Sarah J. Maas",
+                    "work": {
+                        "title": "Queen of Shadows",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fantasy"
                 },
-                "young_adult_fiction": {
-                    "author": "Jennifer Niven",
-                    "book": "All the Bright Places",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Jennifer Niven",
+                    "work": {
+                        "title": "All the Bright Places",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fiction"
                 },
-                "debut_author": {
-                    "author": "Victoria Aveyard",
-                    "book": "Red Queen",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Victoria Aveyard",
+                    "work": {
+                        "title": "Red Queen",
+                        "translations": {}
+                    },
+                    "category": "debut_author"
                 },
-                "memoir_autobiography": {
-                    "author": "Connor Franta",
-                    "book": "A Work in Progress",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Connor Franta",
+                    "work": {
+                        "title": "A Work in Progress",
+                        "translations": {}
+                    },
+                    "category": "memoir_autobiography"
                 },
-                "nonfiction": {
-                    "author": "Aziz Ansari and Eric Klinenberg",
-                    "book": "Modern Romance: An Investigation",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Aziz Ansari and Eric Klinenberg",
+                    "work": {
+                        "title": "Modern Romance: An Investigation",
+                        "translations": {}
+                    },
+                    "category": "nonfiction"
                 },
-                "poetry": {
-                    "author": "Trista Mateer",
-                    "book": "The Dogs I Have Kissed",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Trista Mateer",
+                    "work": {
+                        "title": "The Dogs I Have Kissed",
+                        "translations": {}
+                    },
+                    "category": "poetry"
                 },
-                "history_biography": {
-                    "author": "Erik Larson",
-                    "book": "Dead Wake: The Last Crossing of the Lusitania",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Erik Larson",
+                    "work": {
+                        "title": "Dead Wake: The Last Crossing of the Lusitania",
+                        "translations": {}
+                    },
+                    "category": "history_biography"
                 },
-                "humor": {
-                    "author": "Mindy Kaling",
-                    "book": "Why Not Me?",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Mindy Kaling",
+                    "work": {
+                        "title": "Why Not Me?",
+                        "translations": {}
+                    },
+                    "category": "humor"
                 },
-                "graphic_novel_comics": {
-                    "author": "Brian K. Vaughan and Fiona Staples",
-                    "book": "Saga, Volume 4",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Brian K. Vaughan and Fiona Staples",
+                    "work": {
+                        "title": "Saga, Volume 4",
+                        "translations": {}
+                    },
+                    "category": "graphic_novel_comics"
                 },
-                "children_middle_grade": {
-                    "author": "Rick Riordan",
-                    "book": "The Sword of Summer",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Rick Riordan",
+                    "work": {
+                        "title": "The Sword of Summer",
+                        "translations": {}
+                    },
+                    "category": "children_middle_grade"
                 },
-                "picture_book": {
-                    "author": "Drew Daywalt and Oliver Jeffers",
-                    "book": "The Day the Crayons Came Home",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Drew Daywalt and Oliver Jeffers",
+                    "work": {
+                        "title": "The Day the Crayons Came Home",
+                        "translations": {}
+                    },
+                    "category": "picture_book"
                 },
-                "food_cooking": {
-                    "author": "Ree Drummond",
-                    "book": "The Pioneer Woman Cooks: Dinnertime",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Ree Drummond",
+                    "work": {
+                        "title": "The Pioneer Woman Cooks: Dinnertime",
+                        "translations": {}
+                    },
+                    "category": "food_cooking"
                 },
-                "science_technology": {
-                    "author": "John Hargrove",
-                    "book": "Beneath the Surface: Killer Whales, SeaWorld, and the Truth Beyond Blackfish",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "John Hargrove",
+                    "work": {
+                        "title": "Beneath the Surface: Killer Whales, SeaWorld, and the Truth Beyond Blackfish",
+                        "translations": {}
+                    },
+                    "category": "science_technology"
                 }
-            }
+            ]
         },
         "2014": {
-            "categories": {
-                "fiction": {
-                    "author": "Rainbow Rowell",
-                    "book": "Landline",
-                    "publisher": null,
-                    "notes": null
+            "laureates": [
+                {
+                    "name": "Rainbow Rowell",
+                    "work": {
+                        "title": "Landline",
+                        "translations": {}
+                    },
+                    "category": "fiction"
                 },
-                "fantasy": {
-                    "author": "Deborah Harkness",
-                    "book": "The Book of Life",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Deborah Harkness",
+                    "work": {
+                        "title": "The Book of Life",
+                        "translations": {}
+                    },
+                    "category": "fantasy"
                 },
-                "mystery_thriller": {
-                    "author": "Stephen King",
-                    "book": "Mr. Mercedes",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Stephen King",
+                    "work": {
+                        "title": "Mr. Mercedes",
+                        "translations": {}
+                    },
+                    "category": "mystery_thriller"
                 },
-                "romance": {
-                    "author": "Diana Gabaldon",
-                    "book": "Written in My Own Heart's Blood",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Diana Gabaldon",
+                    "work": {
+                        "title": "Written in My Own Heart's Blood",
+                        "translations": {}
+                    },
+                    "category": "romance"
                 },
-                "historical_fiction": {
-                    "author": "Anthony Doerr",
-                    "book": "All the Light We Cannot See",
-                    "publisher": null,
+                {
+                    "name": "Anthony Doerr",
+                    "work": {
+                        "title": "All the Light We Cannot See",
+                        "translations": {}
+                    },
+                    "category": "historical_fiction",
                     "notes": "Also won Pulitzer Prize"
                 },
-                "science_fiction": {
-                    "author": "Andy Weir",
-                    "book": "The Martian",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Andy Weir",
+                    "work": {
+                        "title": "The Martian",
+                        "translations": {}
+                    },
+                    "category": "science_fiction"
                 },
-                "horror": {
-                    "author": "Anne Rice",
-                    "book": "Prince Lestat",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Anne Rice",
+                    "work": {
+                        "title": "Prince Lestat",
+                        "translations": {}
+                    },
+                    "category": "horror"
                 },
-                "young_adult_fantasy": {
-                    "author": "Cassandra Clare",
-                    "book": "City of Heavenly Fire",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Cassandra Clare",
+                    "work": {
+                        "title": "City of Heavenly Fire",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fantasy"
                 },
-                "young_adult_fiction": {
-                    "author": "E. Lockhart",
-                    "book": "We Were Liars",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "E. Lockhart",
+                    "work": {
+                        "title": "We Were Liars",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fiction"
                 },
-                "debut_author": {
-                    "author": "Pierce Brown",
-                    "book": "Red Rising",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Pierce Brown",
+                    "work": {
+                        "title": "Red Rising",
+                        "translations": {}
+                    },
+                    "category": "debut_author"
                 },
-                "memoir_autobiography": {
-                    "author": "Esther Earl",
-                    "book": "This Star Won't Go Out",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Esther Earl",
+                    "work": {
+                        "title": "This Star Won't Go Out",
+                        "translations": {}
+                    },
+                    "category": "memoir_autobiography"
                 },
-                "nonfiction": {
-                    "author": "Marina Keegan",
-                    "book": "The Opposite of Loneliness",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Marina Keegan",
+                    "work": {
+                        "title": "The Opposite of Loneliness",
+                        "translations": {}
+                    },
+                    "category": "nonfiction"
                 },
-                "poetry": {
-                    "author": "Lang Leav",
-                    "book": "Lullabies",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Lang Leav",
+                    "work": {
+                        "title": "Lullabies",
+                        "translations": {}
+                    },
+                    "category": "poetry"
                 },
-                "history_biography": {
-                    "author": "Helen Rappaport",
-                    "book": "The Romanov Sisters",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Helen Rappaport",
+                    "work": {
+                        "title": "The Romanov Sisters",
+                        "translations": {}
+                    },
+                    "category": "history_biography"
                 },
-                "humor": {
-                    "author": "Amy Poehler",
-                    "book": "Yes Please",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Amy Poehler",
+                    "work": {
+                        "title": "Yes Please",
+                        "translations": {}
+                    },
+                    "category": "humor"
                 },
-                "graphic_novel_comics": {
-                    "author": "Zack Whedon, Fábio Moon, and Daniel Dos Santos",
-                    "book": "Serenity: Leaves on the Wind",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Zack Whedon, Fábio Moon, and Daniel Dos Santos",
+                    "work": {
+                        "title": "Serenity: Leaves on the Wind",
+                        "translations": {}
+                    },
+                    "category": "graphic_novel_comics"
                 },
-                "children_middle_grade": {
-                    "author": "Rick Riordan",
-                    "book": "The Blood of Olympus",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Rick Riordan",
+                    "work": {
+                        "title": "The Blood of Olympus",
+                        "translations": {}
+                    },
+                    "category": "children_middle_grade"
                 },
-                "picture_book": {
-                    "author": "Mo Willems",
-                    "book": "The Pigeon Needs a Bath! (I Do Not!)",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Mo Willems",
+                    "work": {
+                        "title": "The Pigeon Needs a Bath! (I Do Not!)",
+                        "translations": {}
+                    },
+                    "category": "picture_book"
                 },
-                "business": {
-                    "author": "Sophia Amoruso",
-                    "book": "#GIRLBOSS",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Sophia Amoruso",
+                    "work": {
+                        "title": "#GIRLBOSS",
+                        "translations": {}
+                    },
+                    "category": "business"
                 },
-                "food_cooking": {
-                    "author": "Ina Garten",
-                    "book": "Make It Ahead: A Barefoot Contessa Cookbook",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Ina Garten",
+                    "work": {
+                        "title": "Make It Ahead: A Barefoot Contessa Cookbook",
+                        "translations": {}
+                    },
+                    "category": "food_cooking"
                 }
-            }
+            ]
         },
         "2013": {
-            "categories": {
-                "fiction": {
-                    "author": "Khaled Hosseini",
-                    "book": "And the Mountains Echoed",
-                    "publisher": null,
-                    "notes": null
+            "laureates": [
+                {
+                    "name": "Khaled Hosseini",
+                    "work": {
+                        "title": "And the Mountains Echoed",
+                        "translations": {}
+                    },
+                    "category": "fiction"
                 },
-                "fantasy": {
-                    "author": "Neil Gaiman",
-                    "book": "The Ocean at the End of the Lane",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Neil Gaiman",
+                    "work": {
+                        "title": "The Ocean at the End of the Lane",
+                        "translations": {}
+                    },
+                    "category": "fantasy"
                 },
-                "mystery_thriller": {
-                    "author": "Dan Brown",
-                    "book": "Inferno",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Dan Brown",
+                    "work": {
+                        "title": "Inferno",
+                        "translations": {}
+                    },
+                    "category": "mystery_thriller"
                 },
-                "romance": {
-                    "author": "J. R. Ward",
-                    "book": "Lover at Last",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "J. R. Ward",
+                    "work": {
+                        "title": "Lover at Last",
+                        "translations": {}
+                    },
+                    "category": "romance"
                 },
-                "historical_fiction": {
-                    "author": "Kate Atkinson",
-                    "book": "Life After Life",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Kate Atkinson",
+                    "work": {
+                        "title": "Life After Life",
+                        "translations": {}
+                    },
+                    "category": "historical_fiction"
                 },
-                "science_fiction": {
-                    "author": "Margaret Atwood",
-                    "book": "MaddAddam",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Margaret Atwood",
+                    "work": {
+                        "title": "MaddAddam",
+                        "translations": {}
+                    },
+                    "category": "science_fiction"
                 },
-                "horror": {
-                    "author": "Stephen King",
-                    "book": "Doctor Sleep",
-                    "publisher": null,
+                {
+                    "name": "Stephen King",
+                    "work": {
+                        "title": "Doctor Sleep",
+                        "translations": {}
+                    },
+                    "category": "horror",
                     "notes": "Sequel to The Shining"
                 },
-                "young_adult_fantasy": {
-                    "author": "Veronica Roth",
-                    "book": "Allegiant",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Veronica Roth",
+                    "work": {
+                        "title": "Allegiant",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fantasy"
                 },
-                "young_adult_fiction": {
-                    "author": "Rainbow Rowell",
-                    "book": "Eleanor & Park",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Rainbow Rowell",
+                    "work": {
+                        "title": "Eleanor & Park",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fiction"
                 },
-                "debut_author": {
-                    "author": "Emma Chase",
-                    "book": "Tangled",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Emma Chase",
+                    "work": {
+                        "title": "Tangled",
+                        "translations": {}
+                    },
+                    "category": "debut_author"
                 },
-                "memoir_autobiography": {
-                    "author": "Malala Yousafzai",
-                    "book": "I am Malala",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Malala Yousafzai",
+                    "work": {
+                        "title": "I am Malala",
+                        "translations": {}
+                    },
+                    "category": "memoir_autobiography"
                 },
-                "nonfiction": {
-                    "author": "Temple Grandin and Richard Panek",
-                    "book": "The Autistic Brain: Thinking Across the Spectrum",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Temple Grandin and Richard Panek",
+                    "work": {
+                        "title": "The Autistic Brain: Thinking Across the Spectrum",
+                        "translations": {}
+                    },
+                    "category": "nonfiction"
                 },
-                "poetry": {
-                    "author": "J. R. R. Tolkien",
-                    "book": "The Fall of Arthur",
-                    "publisher": null,
+                {
+                    "name": "J. R. R. Tolkien",
+                    "work": {
+                        "title": "The Fall of Arthur",
+                        "translations": {}
+                    },
+                    "category": "poetry",
                     "notes": "Published posthumously"
                 },
-                "history_biography": {
-                    "author": "Brian Jay Jones",
-                    "book": "Jim Henson: The Biography",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Brian Jay Jones",
+                    "work": {
+                        "title": "Jim Henson: The Biography",
+                        "translations": {}
+                    },
+                    "category": "history_biography"
                 },
-                "humor": {
-                    "author": "Allie Brosh",
-                    "book": "Hyperbole & a Half",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Allie Brosh",
+                    "work": {
+                        "title": "Hyperbole & a Half",
+                        "translations": {}
+                    },
+                    "category": "humor"
                 },
-                "graphic_novel_comics": {
-                    "author": "Kami Garcia, Margaret Stohl, and artist Cassandra Jean",
-                    "book": "Beautiful Creatures",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Kami Garcia, Margaret Stohl, and artist Cassandra Jean",
+                    "work": {
+                        "title": "Beautiful Creatures",
+                        "translations": {}
+                    },
+                    "category": "graphic_novel_comics"
                 },
-                "children_middle_grade": {
-                    "author": "Rick Riordan",
-                    "book": "The House of Hades",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Rick Riordan",
+                    "work": {
+                        "title": "The House of Hades",
+                        "translations": {}
+                    },
+                    "category": "children_middle_grade"
                 },
-                "picture_book": {
-                    "author": "Drew Daywalt and Oliver Jeffers",
-                    "book": "The Day the Crayons Quit",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Drew Daywalt and Oliver Jeffers",
+                    "work": {
+                        "title": "The Day the Crayons Quit",
+                        "translations": {}
+                    },
+                    "category": "picture_book"
                 },
-                "food_cooking": {
-                    "author": "Tim Federle",
-                    "book": "Tequila Mockingbird: Cocktails with a Literary Twist",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Tim Federle",
+                    "work": {
+                        "title": "Tequila Mockingbird: Cocktails with a Literary Twist",
+                        "translations": {}
+                    },
+                    "category": "food_cooking"
                 },
-                "paranormal_fantasy": {
-                    "author": "Jim Butcher",
-                    "book": "Cold Days",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Jim Butcher",
+                    "work": {
+                        "title": "Cold Days",
+                        "translations": {}
+                    },
+                    "category": "paranormal_fantasy"
                 }
-            }
+            ]
         },
         "2012": {
-            "categories": {
-                "fiction": {
-                    "author": "J. K. Rowling",
-                    "book": "The Casual Vacancy",
-                    "publisher": null,
+            "laureates": [
+                {
+                    "name": "J. K. Rowling",
+                    "work": {
+                        "title": "The Casual Vacancy",
+                        "translations": {}
+                    },
+                    "category": "fiction",
                     "notes": "First adult novel by J.K. Rowling"
                 },
-                "fantasy": {
-                    "author": "Stephen King",
-                    "book": "The Dark Tower: The Wind Through the Keyhole",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Stephen King",
+                    "work": {
+                        "title": "The Dark Tower: The Wind Through the Keyhole",
+                        "translations": {}
+                    },
+                    "category": "fantasy"
                 },
-                "mystery_thriller": {
-                    "author": "Gillian Flynn",
-                    "book": "Gone Girl",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Gillian Flynn",
+                    "work": {
+                        "title": "Gone Girl",
+                        "translations": {}
+                    },
+                    "category": "mystery_thriller"
                 },
-                "romance": {
-                    "author": "E. L. James",
-                    "book": "Fifty Shades Freed",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "E. L. James",
+                    "work": {
+                        "title": "Fifty Shades Freed",
+                        "translations": {}
+                    },
+                    "category": "romance"
                 },
-                "historical_fiction": {
-                    "author": "M. L. Stedman",
-                    "book": "The Light Between Oceans",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "M. L. Stedman",
+                    "work": {
+                        "title": "The Light Between Oceans",
+                        "translations": {}
+                    },
+                    "category": "historical_fiction"
                 },
-                "science_fiction": {
-                    "author": "Terry Pratchett and Stephen Baxter",
-                    "book": "The Long Earth",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Terry Pratchett and Stephen Baxter",
+                    "work": {
+                        "title": "The Long Earth",
+                        "translations": {}
+                    },
+                    "category": "science_fiction"
                 },
-                "horror": {
-                    "author": "Justin Cronin",
-                    "book": "The Twelve",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Justin Cronin",
+                    "work": {
+                        "title": "The Twelve",
+                        "translations": {}
+                    },
+                    "category": "horror"
                 },
-                "young_adult_fantasy": {
-                    "author": "Veronica Roth",
-                    "book": "Insurgent",
-                    "publisher": null,
+                {
+                    "name": "Veronica Roth",
+                    "work": {
+                        "title": "Insurgent",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fantasy",
                     "notes": "Also won Goodreads Author award"
                 },
-                "young_adult_fiction": {
-                    "author": "John Green",
-                    "book": "The Fault in Our Stars",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "John Green",
+                    "work": {
+                        "title": "The Fault in Our Stars",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fiction"
                 },
-                "memoir_autobiography": {
-                    "author": "Cheryl Strayed",
-                    "book": "Wild: From Lost to Found on the Pacific Crest Trail",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Cheryl Strayed",
+                    "work": {
+                        "title": "Wild: From Lost to Found on the Pacific Crest Trail",
+                        "translations": {}
+                    },
+                    "category": "memoir_autobiography"
                 },
-                "nonfiction": {
-                    "author": "Susan Cain",
-                    "book": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Susan Cain",
+                    "work": {
+                        "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+                        "translations": {}
+                    },
+                    "category": "nonfiction"
                 },
-                "poetry": {
-                    "author": "Mary Oliver",
-                    "book": "A Thousand Mornings",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Mary Oliver",
+                    "work": {
+                        "title": "A Thousand Mornings",
+                        "translations": {}
+                    },
+                    "category": "poetry"
                 },
-                "humor": {
-                    "author": "Jenny Lawson",
-                    "book": "Let's Pretend This Never Happened",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Jenny Lawson",
+                    "work": {
+                        "title": "Let's Pretend This Never Happened",
+                        "translations": {}
+                    },
+                    "category": "humor"
                 },
-                "graphic_novel_comics": {
-                    "author": "Robert Kirkman",
-                    "book": "The Walking Dead, Vol. 16: A Larger World",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Robert Kirkman",
+                    "work": {
+                        "title": "The Walking Dead, Vol. 16: A Larger World",
+                        "translations": {}
+                    },
+                    "category": "graphic_novel_comics"
                 },
-                "children_middle_grade": {
-                    "author": "Rick Riordan",
-                    "book": "The Mark of Athena",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Rick Riordan",
+                    "work": {
+                        "title": "The Mark of Athena",
+                        "translations": {}
+                    },
+                    "category": "children_middle_grade"
                 },
-                "picture_book": {
-                    "author": "Ian Falconer",
-                    "book": "Olivia and the Fairy Princesses",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Ian Falconer",
+                    "work": {
+                        "title": "Olivia and the Fairy Princesses",
+                        "translations": {}
+                    },
+                    "category": "picture_book"
                 },
-                "food_cooking": {
-                    "author": "Ree Drummond",
-                    "book": "The Pioneer Woman Cooks: Recipes from an Accidental Country Girl",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Ree Drummond",
+                    "work": {
+                        "title": "The Pioneer Woman Cooks: Recipes from an Accidental Country Girl",
+                        "translations": {}
+                    },
+                    "category": "food_cooking"
                 },
-                "goodreads_author": {
-                    "author": "Veronica Roth",
-                    "book": "Insurgent",
-                    "publisher": null,
+                {
+                    "name": "Veronica Roth",
+                    "work": {
+                        "title": "Insurgent",
+                        "translations": {}
+                    },
+                    "category": "goodreads_author",
                     "notes": "Special category"
                 },
-                "paranormal_fantasy": {
-                    "author": "Deborah Harkness",
-                    "book": "Shadow of Night",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Deborah Harkness",
+                    "work": {
+                        "title": "Shadow of Night",
+                        "translations": {}
+                    },
+                    "category": "paranormal_fantasy"
                 }
-            }
+            ]
         },
         "2011": {
-            "categories": {
-                "fiction": {
-                    "author": "Haruki Murakami",
-                    "book": "1Q84",
-                    "publisher": null,
-                    "notes": null
+            "laureates": [
+                {
+                    "name": "Haruki Murakami",
+                    "work": {
+                        "title": "1Q84",
+                        "translations": {}
+                    },
+                    "category": "fiction"
                 },
-                "fantasy": {
-                    "author": "George R. R. Martin",
-                    "book": "A Dance with Dragons",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "George R. R. Martin",
+                    "work": {
+                        "title": "A Dance with Dragons",
+                        "translations": {}
+                    },
+                    "category": "fantasy"
                 },
-                "mystery_thriller": {
-                    "author": "Janet Evanovich",
-                    "book": "Smokin' Seventeen",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Janet Evanovich",
+                    "work": {
+                        "title": "Smokin' Seventeen",
+                        "translations": {}
+                    },
+                    "category": "mystery_thriller"
                 },
-                "romance": {
-                    "author": "J. R. Ward",
-                    "book": "Lover Unleashed",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "J. R. Ward",
+                    "work": {
+                        "title": "Lover Unleashed",
+                        "translations": {}
+                    },
+                    "category": "romance"
                 },
-                "historical_fiction": {
-                    "author": "Paula McLain",
-                    "book": "The Paris Wife",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Paula McLain",
+                    "work": {
+                        "title": "The Paris Wife",
+                        "translations": {}
+                    },
+                    "category": "historical_fiction"
                 },
-                "science_fiction": {
-                    "author": "Stephen King",
-                    "book": "11/22/63",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Stephen King",
+                    "work": {
+                        "title": "11/22/63",
+                        "translations": {}
+                    },
+                    "category": "science_fiction"
                 },
-                "horror": {
-                    "author": "Melissa Marr",
-                    "book": "Graveminder",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Melissa Marr",
+                    "work": {
+                        "title": "Graveminder",
+                        "translations": {}
+                    },
+                    "category": "horror"
                 },
-                "young_adult_fantasy": {
-                    "author": "Veronica Roth",
-                    "book": "Divergent",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Veronica Roth",
+                    "work": {
+                        "title": "Divergent",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fantasy"
                 },
-                "young_adult_fiction": {
-                    "author": "Gayle Forman",
-                    "book": "Where She Went",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Gayle Forman",
+                    "work": {
+                        "title": "Where She Went",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fiction"
                 },
-                "memoir_autobiography": {
-                    "author": "Matthew Logelin",
-                    "book": "Two Kisses for Maddy: A Memoir of Loss & Love",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Matthew Logelin",
+                    "work": {
+                        "title": "Two Kisses for Maddy: A Memoir of Loss & Love",
+                        "translations": {}
+                    },
+                    "category": "memoir_autobiography"
                 },
-                "nonfiction": {
-                    "author": "Alexandra Robbins",
-                    "book": "The Geeks Shall Inherit the Earth",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Alexandra Robbins",
+                    "work": {
+                        "title": "The Geeks Shall Inherit the Earth",
+                        "translations": {}
+                    },
+                    "category": "nonfiction"
                 },
-                "poetry": {
-                    "author": "Billy Collins",
-                    "book": "Horoscopes for the Dead",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Billy Collins",
+                    "work": {
+                        "title": "Horoscopes for the Dead",
+                        "translations": {}
+                    },
+                    "category": "poetry"
                 },
-                "history_biography": {
-                    "author": "Walter Isaacson",
-                    "book": "Steve Jobs",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Walter Isaacson",
+                    "work": {
+                        "title": "Steve Jobs",
+                        "translations": {}
+                    },
+                    "category": "history_biography"
                 },
-                "humor": {
-                    "author": "Tina Fey",
-                    "book": "Bossypants",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Tina Fey",
+                    "work": {
+                        "title": "Bossypants",
+                        "translations": {}
+                    },
+                    "category": "humor"
                 },
-                "graphic_novel_comics": {
-                    "author": "Richelle Mead",
-                    "book": "Vampire Academy: The Graphic Novel",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Richelle Mead",
+                    "work": {
+                        "title": "Vampire Academy: The Graphic Novel",
+                        "translations": {}
+                    },
+                    "category": "graphic_novel_comics"
                 },
-                "children_middle_grade": {
-                    "author": "Rick Riordan",
-                    "book": "The Son of Neptune",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Rick Riordan",
+                    "work": {
+                        "title": "The Son of Neptune",
+                        "translations": {}
+                    },
+                    "category": "children_middle_grade"
                 },
-                "picture_book": {
-                    "author": "Weird Al Yankovic",
-                    "book": "When I Grow Up",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Weird Al Yankovic",
+                    "work": {
+                        "title": "When I Grow Up",
+                        "translations": {}
+                    },
+                    "category": "picture_book"
                 },
-                "food_cooking": {
-                    "author": "Gwyneth Paltrow",
-                    "book": "My Father's Daughter",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Gwyneth Paltrow",
+                    "work": {
+                        "title": "My Father's Daughter",
+                        "translations": {}
+                    },
+                    "category": "food_cooking"
                 },
-                "goodreads_author": {
-                    "author": "Cassandra Clare",
-                    "book": "City of Fallen Angels",
-                    "publisher": null,
+                {
+                    "name": "Cassandra Clare",
+                    "work": {
+                        "title": "City of Fallen Angels",
+                        "translations": {}
+                    },
+                    "category": "goodreads_author",
                     "notes": "Special category"
                 },
-                "paranormal_fantasy": {
-                    "author": "Karen Marie Moning",
-                    "book": "Shadowfever",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Karen Marie Moning",
+                    "work": {
+                        "title": "Shadowfever",
+                        "translations": {}
+                    },
+                    "category": "paranormal_fantasy"
                 },
-                "travel_outdoors": {
-                    "author": "Conor Grennan",
-                    "book": "Little Princes: One Man's Promise to Bring Home the Lost Children of Nepal",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Conor Grennan",
+                    "work": {
+                        "title": "Little Princes: One Man's Promise to Bring Home the Lost Children of Nepal",
+                        "translations": {}
+                    },
+                    "category": "travel_outdoors"
                 }
-            }
+            ]
         },
         "2010": {
-            "categories": {
-                "fiction": {
-                    "author": "Emma Donoghue",
-                    "book": "Room",
-                    "publisher": null,
-                    "notes": null
+            "laureates": [
+                {
+                    "name": "Emma Donoghue",
+                    "work": {
+                        "title": "Room",
+                        "translations": {}
+                    },
+                    "category": "fiction"
                 },
-                "fantasy": {
-                    "author": "Robert Jordan and Brandon Sanderson",
-                    "book": "Towers of Midnight",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Robert Jordan and Brandon Sanderson",
+                    "work": {
+                        "title": "Towers of Midnight",
+                        "translations": {}
+                    },
+                    "category": "fantasy"
                 },
-                "mystery_thriller": {
-                    "author": "Stieg Larsson",
-                    "book": "The Girl Who Kicked the Hornets' Nest",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Stieg Larsson",
+                    "work": {
+                        "title": "The Girl Who Kicked the Hornets' Nest",
+                        "translations": {}
+                    },
+                    "category": "mystery_thriller"
                 },
-                "romance": {
-                    "author": "J. R. Ward",
-                    "book": "Lover Mine",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "J. R. Ward",
+                    "work": {
+                        "title": "Lover Mine",
+                        "translations": {}
+                    },
+                    "category": "romance"
                 },
-                "historical_fiction": {
-                    "author": "Ken Follett",
-                    "book": "Fall of Giants",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Ken Follett",
+                    "work": {
+                        "title": "Fall of Giants",
+                        "translations": {}
+                    },
+                    "category": "historical_fiction"
                 },
-                "science_fiction": {
-                    "author": "Mira Grant",
-                    "book": "Feed",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Mira Grant",
+                    "work": {
+                        "title": "Feed",
+                        "translations": {}
+                    },
+                    "category": "science_fiction"
                 },
-                "young_adult_fantasy": {
-                    "author": "Suzanne Collins",
-                    "book": "Mockingjay",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Suzanne Collins",
+                    "work": {
+                        "title": "Mockingjay",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fantasy"
                 },
-                "young_adult_fiction": {
-                    "author": "Lauren Oliver",
-                    "book": "Before I Fall",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Lauren Oliver",
+                    "work": {
+                        "title": "Before I Fall",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fiction"
                 },
-                "debut_author": {
-                    "author": "Rebecca Skloot",
-                    "book": "The Immortal Life of Henrietta Lacks",
-                    "publisher": null,
+                {
+                    "name": "Rebecca Skloot",
+                    "work": {
+                        "title": "The Immortal Life of Henrietta Lacks",
+                        "translations": {}
+                    },
+                    "category": "debut_author",
                     "notes": "Also won Nonfiction"
                 },
-                "memoir_autobiography": {
-                    "author": "Portia de Rossi",
-                    "book": "Unbearable Lightness",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Portia de Rossi",
+                    "work": {
+                        "title": "Unbearable Lightness",
+                        "translations": {}
+                    },
+                    "category": "memoir_autobiography"
                 },
-                "nonfiction": {
-                    "author": "Rebecca Skloot",
-                    "book": "The Immortal Life of Henrietta Lacks",
-                    "publisher": null,
+                {
+                    "name": "Rebecca Skloot",
+                    "work": {
+                        "title": "The Immortal Life of Henrietta Lacks",
+                        "translations": {}
+                    },
+                    "category": "nonfiction",
                     "notes": "Also won Debut Author"
                 },
-                "poetry": {
-                    "author": "Matthew Zapruder",
-                    "book": "Come On All You Ghosts",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Matthew Zapruder",
+                    "work": {
+                        "title": "Come On All You Ghosts",
+                        "translations": {}
+                    },
+                    "category": "poetry"
                 },
-                "history_biography": {
-                    "author": "G. J. Meyer",
-                    "book": "The Tudors",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "G. J. Meyer",
+                    "work": {
+                        "title": "The Tudors",
+                        "translations": {}
+                    },
+                    "category": "history_biography"
                 },
-                "humor": {
-                    "author": "Christopher Moore",
-                    "book": "Bite Me: A Love Story",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Christopher Moore",
+                    "work": {
+                        "title": "Bite Me: A Love Story",
+                        "translations": {}
+                    },
+                    "category": "humor"
                 },
-                "graphic_novel": {
-                    "author": "Stephenie Meyer",
-                    "book": "Twilight: The Graphic Novel",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Stephenie Meyer",
+                    "work": {
+                        "title": "Twilight: The Graphic Novel",
+                        "translations": {}
+                    },
+                    "category": "graphic_novel"
                 },
-                "children_middle_grade": {
-                    "author": "Jeff Kinney",
-                    "book": "Diary of a Wimpy Kid: The Ugly Truth",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Jeff Kinney",
+                    "work": {
+                        "title": "Diary of a Wimpy Kid: The Ugly Truth",
+                        "translations": {}
+                    },
+                    "category": "children_middle_grade"
                 },
-                "picture_book": {
-                    "author": "Lane Smith",
-                    "book": "It's a Book",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Lane Smith",
+                    "work": {
+                        "title": "It's a Book",
+                        "translations": {}
+                    },
+                    "category": "picture_book"
                 },
-                "cover_art": {
-                    "author": "Lauren Kate",
-                    "book": "Torment",
-                    "publisher": null,
+                {
+                    "name": "Lauren Kate",
+                    "work": {
+                        "title": "Torment",
+                        "translations": {}
+                    },
+                    "category": "cover_art",
                     "notes": "Special category for cover design"
                 },
-                "paranormal_fantasy": {
-                    "author": "Charlaine Harris",
-                    "book": "Dead in the Family",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Charlaine Harris",
+                    "work": {
+                        "title": "Dead in the Family",
+                        "translations": {}
+                    },
+                    "category": "paranormal_fantasy"
                 }
-            }
+            ]
         },
         "2009": {
-            "categories": {
-                "fiction": {
-                    "author": "Kathryn Stockett",
-                    "book": "The Help",
-                    "publisher": null,
-                    "notes": null
+            "laureates": [
+                {
+                    "name": "Kathryn Stockett",
+                    "work": {
+                        "title": "The Help",
+                        "translations": {}
+                    },
+                    "category": "fiction"
                 },
-                "fantasy": {
-                    "author": "Charlaine Harris",
-                    "book": "Dead and Gone",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Charlaine Harris",
+                    "work": {
+                        "title": "Dead and Gone",
+                        "translations": {}
+                    },
+                    "category": "fantasy"
                 },
-                "mystery_thriller": {
-                    "author": "Stieg Larsson",
-                    "book": "The Girl Who Played with Fire",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Stieg Larsson",
+                    "work": {
+                        "title": "The Girl Who Played with Fire",
+                        "translations": {}
+                    },
+                    "category": "mystery_thriller"
                 },
-                "romance": {
-                    "author": "Diana Gabaldon",
-                    "book": "An Echo in the Bone",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Diana Gabaldon",
+                    "work": {
+                        "title": "An Echo in the Bone",
+                        "translations": {}
+                    },
+                    "category": "romance"
                 },
-                "science_fiction": {
-                    "author": "Scott Westerfeld",
-                    "book": "Leviathan",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Scott Westerfeld",
+                    "work": {
+                        "title": "Leviathan",
+                        "translations": {}
+                    },
+                    "category": "science_fiction"
                 },
-                "young_adult_fiction": {
-                    "author": "Sarah Dessen",
-                    "book": "Along for the Ride",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Sarah Dessen",
+                    "work": {
+                        "title": "Along for the Ride",
+                        "translations": {}
+                    },
+                    "category": "young_adult_fiction"
                 },
-                "young_adult_series": {
-                    "author": "Suzanne Collins",
-                    "book": "Catching Fire",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Suzanne Collins",
+                    "work": {
+                        "title": "Catching Fire",
+                        "translations": {}
+                    },
+                    "category": "young_adult_series"
                 },
-                "nonfiction": {
-                    "author": "Dave Cullen",
-                    "book": "Columbine",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Dave Cullen",
+                    "work": {
+                        "title": "Columbine",
+                        "translations": {}
+                    },
+                    "category": "nonfiction"
                 },
-                "graphic_novel": {
-                    "author": "Neil Gaiman",
-                    "book": "Batman: Whatever Happened to the Caped Crusader?",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Neil Gaiman",
+                    "work": {
+                        "title": "Batman: Whatever Happened to the Caped Crusader?",
+                        "translations": {}
+                    },
+                    "category": "graphic_novel"
                 },
-                "children": {
-                    "author": "Jeff Kinney",
-                    "book": "Diary of a Wimpy Kid: Dog Days",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Jeff Kinney",
+                    "work": {
+                        "title": "Diary of a Wimpy Kid: Dog Days",
+                        "translations": {}
+                    },
+                    "category": "children"
                 },
-                "picture_book": {
-                    "author": "Neil Gaiman",
-                    "book": "Blueberry Girl",
-                    "publisher": null,
-                    "notes": null
+                {
+                    "name": "Neil Gaiman",
+                    "work": {
+                        "title": "Blueberry Girl",
+                        "translations": {}
+                    },
+                    "category": "picture_book"
                 },
-                "chick_lit": {
-                    "author": "Nicholas Sparks",
-                    "book": "The Last Song",
-                    "publisher": null,
+                {
+                    "name": "Nicholas Sparks",
+                    "work": {
+                        "title": "The Last Song",
+                        "translations": {}
+                    },
+                    "category": "chick_lit",
                     "notes": "Category discontinued after 2009"
                 }
-            }
+            ]
         }
     },
     "metadata": {

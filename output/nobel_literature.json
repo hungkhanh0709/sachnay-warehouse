@@ -1,1808 +1,1808 @@
 {
-    "award_info": {
-        "id": "intl_nobel_literature",
-        "name": "Giải Nobel Văn chương",
-        "name_en": "Nobel Prize in Literature",
-        "established_year": 1901,
-        "awarding_body": "Swedish Academy",
-        "country": "Sweden",
-        "total_times_awarded": 118,
-        "total_laureates": 122,
-        "years_not_awarded": 7,
-        "description": "Giải thưởng văn học danh giá nhất thế giới, được trao hàng năm cho tác giả có đóng góp xuất sắc cho văn học thế giới",
-        "website": "https://www.nobelprize.org/prizes/literature/"
-    },
-    "statistics": {
-        "years_awarded": 118,
-        "not_awarded_years": [
-            1914,
-            1918,
-            1935,
-            1940,
-            1941,
-            1942,
-            1943
-        ],
-        "total_laureates": 122,
-        "female_laureates": 18,
-        "male_laureates": 104,
-        "shared_prizes": 4,
-        "declined_prizes": 2,
-        "posthumous_awards": 1
-    },
-    "laureates_by_year": {
-        "2025": {
-            "laureates": [
-                {
-                    "name": "László Krasznahorkai",
-                    "country": "Hungary",
-                    "language": "Hungarian",
-                    "motivation": "for his compelling and visionary oeuvre that, in the midst of apocalyptic terror, reaffirms the power of art",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "essay",
-                        "screenplay"
-                    ]
-                }
-            ]
-        },
-        "2024": {
-            "laureates": [
-                {
-                    "name": "Han Kang",
-                    "country": "South Korea",
-                    "language": "Korean",
-                    "motivation": "for her intense poetic prose that confronts historical traumas and exposes the fragility of human life",
-                    "genre": [
-                        "novel",
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "2023": {
-            "laureates": [
-                {
-                    "name": "Jon Fosse",
-                    "country": "Norway",
-                    "language": "Norwegian",
-                    "motivation": "for his innovative plays and prose which give voice to the unsayable",
-                    "genre": [
-                        "drama",
-                        "novel",
-                        "poetry",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "2022": {
-            "laureates": [
-                {
-                    "name": "Annie Ernaux",
-                    "country": "France",
-                    "language": "French",
-                    "motivation": "for the courage and clinical acuity with which she uncovers the roots, estrangements and collective restraints of personal memory",
-                    "genre": [
-                        "memoir",
-                        "novel"
-                    ]
-                }
-            ]
-        },
-        "2021": {
-            "laureates": [
-                {
-                    "name": "Abdulrazak Gurnah",
-                    "country": "Tanzania/United Kingdom",
-                    "language": "English",
-                    "motivation": "for his uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "2020": {
-            "laureates": [
-                {
-                    "name": "Louise Glück",
-                    "country": "United States",
-                    "language": "English",
-                    "motivation": "for her unmistakable poetic voice that with austere beauty makes individual existence universal",
-                    "genre": [
-                        "poetry",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "2019": {
-            "laureates": [
-                {
-                    "name": "Peter Handke",
-                    "country": "Austria",
-                    "language": "German",
-                    "motivation": "for an influential work that with linguistic ingenuity has explored the periphery and the specificity of human experience",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "drama",
-                        "essay",
-                        "translation",
-                        "screenplay"
-                    ]
-                }
-            ]
-        },
-        "2018": {
-            "laureates": [
-                {
-                    "name": "Olga Tokarczuk",
-                    "country": "Poland",
-                    "language": "Polish",
-                    "motivation": "for a narrative imagination that with encyclopedic passion represents the crossing of boundaries as a form of life",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "poetry",
-                        "essay",
-                        "screenplay"
-                    ]
-                }
-            ]
-        },
-        "2017": {
-            "laureates": [
-                {
-                    "name": "Kazuo Ishiguro",
-                    "country": "United Kingdom (born in Japan)",
-                    "language": "English",
-                    "motivation": "who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world",
-                    "genre": [
-                        "novel",
-                        "screenplay",
-                        "short story"
-                    ]
-                }
-            ]
-        },
-        "2016": {
-            "laureates": [
-                {
-                    "name": "Bob Dylan",
-                    "country": "United States",
-                    "language": "English",
-                    "motivation": "for having created new poetic expressions within the great American song tradition",
-                    "genre": [
-                        "poetry",
-                        "song lyrics"
-                    ]
-                }
-            ]
-        },
-        "2015": {
-            "laureates": [
-                {
-                    "name": "Svetlana Alexievich",
-                    "country": "Belarus (born in Soviet Ukraine)",
-                    "language": "Russian",
-                    "motivation": "for her polyphonic writings, a monument to suffering and courage in our time",
-                    "genre": [
-                        "history",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "2014": {
-            "laureates": [
-                {
-                    "name": "Patrick Modiano",
-                    "country": "France",
-                    "language": "French",
-                    "motivation": "for the art of memory with which he has evoked the most ungraspable human destinies and uncovered the life-world of the Occupation",
-                    "genre": [
-                        "novel",
-                        "screenplay"
-                    ]
-                }
-            ]
-        },
-        "2013": {
-            "laureates": [
-                {
-                    "name": "Alice Munro",
-                    "country": "Canada",
-                    "language": "English",
-                    "motivation": "master of the contemporary short story",
-                    "genre": [
-                        "short story"
-                    ]
-                }
-            ]
-        },
-        "2012": {
-            "laureates": [
-                {
-                    "name": "Mo Yan",
-                    "country": "China",
-                    "language": "Chinese",
-                    "motivation": "who with hallucinatory realism merges folk tales, history and the contemporary",
-                    "genre": [
-                        "novel",
-                        "short story"
-                    ]
-                }
-            ],
-            "2011": [
-                {
-                    "name": "Tomas Tranströmer",
-                    "country": "Sweden",
-                    "language": "Swedish",
-                    "motivation": "because, through his condensed, translucent images, he gives us fresh access to reality",
-                    "genre": [
-                        "poetry",
-                        "translation"
-                    ]
-                }
-            ]
-        },
-        "2010": {
-            "laureates": [
-                {
-                    "name": "Mario Vargas Llosa",
-                    "country": "Peru/Spain",
-                    "language": "Spanish",
-                    "motivation": "for his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "essay",
-                        "drama",
-                        "memoir"
-                    ]
-                }
-            ],
-            "2009": [
-                {
-                    "name": "Herta Müller",
-                    "country": "Germany/Romania",
-                    "language": "German",
-                    "motivation": "who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "poetry",
-                        "essay"
-                    ]
-                }
-            ],
-            "2008": [
-                {
-                    "name": "Jean-Marie Gustave Le Clézio",
-                    "country": "France/Mauritius",
-                    "language": "French",
-                    "motivation": "author of new departures, poetic adventure and sensual ecstasy, explorer of a humanity beyond and below the reigning civilization",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "essay",
-                        "translation"
-                    ]
-                }
-            ]
-        },
-        "2007": [
-            {
-                "name": "Doris Lessing",
-                "country": "United Kingdom (born in Iran)",
-                "language": "English",
-                "motivation": "that epicist of the female experience, who with scepticism, fire and visionary power has subjected a divided civilisation to scrutiny",
-                "genre": [
-                    "novel",
-                    "short story",
-                    "memoir/autobiography",
-                    "drama",
-                    "poetry",
-                    "essay"
-                ]
-            }
-        ],
-        "2006": {
-            "laureates": [
-                {
-                    "name": "Orhan Pamuk",
-                    "country": "Turkey",
-                    "language": "Turkish",
-                    "motivation": "who in the quest for the melancholic soul of his native city has discovered new symbols for the clash and interlacing of cultures",
-                    "genre": [
-                        "novel",
-                        "screenplay",
-                        "autobiography",
-                        "essay"
-                    ]
-                }
-            ],
-            "2005": [
-                {
-                    "name": "Harold Pinter",
-                    "country": "United Kingdom",
-                    "language": "English",
-                    "motivation": "who in his plays uncovers the precipice under everyday prattle and forces entry into oppression's closed rooms",
-                    "genre": [
-                        "drama",
-                        "screenplay",
-                        "poetry"
-                    ]
-                }
-            ],
-            "2004": [
-                {
-                    "name": "Elfriede Jelinek",
-                    "country": "Austria",
-                    "language": "German",
-                    "motivation": "for her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of society's clichés and their subjugating power",
-                    "genre": [
-                        "novel",
-                        "drama"
-                    ]
-                }
-            ]
-        },
-        "2003": [
-            {
-                "name": "J. M. Coetzee",
-                "country": "South Africa",
-                "language": "English",
-                "motivation": "who in innumerable guises portrays the surprising involvement of the outsider",
-                "genre": [
-                    "novel",
-                    "essay",
-                    "translation"
-                ]
-            }
-        ],
-        "2002": {
-            "laureates": [
-                {
-                    "name": "Imre Kertész",
-                    "country": "Hungary",
-                    "language": "Hungarian",
-                    "motivation": "for writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history",
-                    "genre": [
-                        "novel"
-                    ]
-                }
-            ]
-        },
-        "2001": {
-            "laureates": [
-                {
-                    "name": "V. S. Naipaul",
-                    "country": "United Kingdom/Trinidad and Tobago",
-                    "language": "English",
-                    "motivation": "for having united perceptive narrative and incorruptible scrutiny in works that compel us to see the presence of suppressed histories",
-                    "genre": [
-                        "novel",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "2000": {
-            "laureates": [
-                {
-                    "name": "Gao Xingjian",
-                    "country": "France/Taiwan/China",
-                    "language": "Chinese and French",
-                    "motivation": "for an oeuvre of universal validity, bitter insights and linguistic ingenuity, which has opened new paths for the Chinese novel and drama",
-                    "genre": [
-                        "novel",
-                        "drama",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "1999": {
-            "laureates": [
-                {
-                    "name": "Günter Grass",
-                    "country": "Germany",
-                    "language": "German",
-                    "motivation": "whose frolicsome black fables portray the forgotten face of history",
-                    "genre": [
-                        "novel",
-                        "drama",
-                        "poetry",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "1998": {
-            "laureates": [
-                {
-                    "name": "José Saramago",
-                    "country": "Portugal",
-                    "language": "Portuguese",
-                    "motivation": "who with parables sustained by imagination, compassion and irony continually enables us once again to apprehend an elusory reality",
-                    "genre": [
-                        "novel",
-                        "drama",
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "1997": {
-            "laureates": [
-                {
-                    "name": "Dario Fo",
-                    "country": "Italy",
-                    "language": "Italian",
-                    "motivation": "who emulates the jesters of the Middle Ages in scourging authority and upholding the dignity of the downtrodden",
-                    "genre": [
-                        "drama",
-                        "song lyrics"
-                    ]
-                }
-            ]
-        },
-        "1996": {
-            "laureates": [
-                {
-                    "name": "Wisława Szymborska",
-                    "country": "Poland",
-                    "language": "Polish",
-                    "motivation": "for poetry that with ironic precision allows the historical and biological context to come to light in fragments of human reality",
-                    "genre": [
-                        "poetry",
-                        "essay",
-                        "translation"
-                    ]
-                }
-            ]
-        },
-        "1995": {
-            "laureates": [
-                {
-                    "name": "Seamus Heaney",
-                    "country": "Ireland",
-                    "language": "English",
-                    "motivation": "for works of lyrical beauty and ethical depth, which exalt everyday miracles and the living past",
-                    "genre": [
-                        "poetry",
-                        "drama",
-                        "translation",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "1994": {
-            "laureates": [
-                {
-                    "name": "Kenzaburō Ōe",
-                    "country": "Japan",
-                    "language": "Japanese",
-                    "motivation": "who with poetic force creates an imagined world, where life and myth condense to form a disconcerting picture of the human predicament today",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "1993": {
-            "laureates": [
-                {
-                    "name": "Toni Morrison",
-                    "country": "United States",
-                    "language": "English",
-                    "motivation": "who in novels characterized by visionary force and poetic import, gives life to an essential aspect of American reality",
-                    "genre": [
-                        "novel",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "1992": {
-            "laureates": [
-                {
-                    "name": "Derek Walcott",
-                    "country": "Saint Lucia",
-                    "language": "English",
-                    "motivation": "for a poetic oeuvre of great luminosity, sustained by a historical vision, the outcome of a multicultural commitment",
-                    "genre": [
-                        "poetry",
-                        "drama"
-                    ]
-                }
-            ]
-        },
-        "1991": {
-            "laureates": [
-                {
-                    "name": "Nadine Gordimer",
-                    "country": "South Africa",
-                    "language": "English",
-                    "motivation": "who through her magnificent epic writing has – in the words of Alfred Nobel – been of very great benefit to humanity",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "essay",
-                        "drama"
-                    ]
-                }
-            ]
-        },
-        "1990": {
-            "laureates": [
-                {
-                    "name": "Octavio Paz",
-                    "country": "Mexico",
-                    "language": "Spanish",
-                    "motivation": "for impassioned writing with wide horizons, characterized by sensuous intelligence and humanistic integrity",
-                    "genre": [
-                        "poetry",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "1989": {
-            "laureates": [
-                {
-                    "name": "Camilo José Cela",
-                    "country": "Spain",
-                    "language": "Spanish",
-                    "motivation": "for a rich and intensive prose, which with restrained compassion forms a challenging vision of man's vulnerability",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "essay",
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "1988": {
-            "laureates": [
-                {
-                    "name": "Naguib Mahfouz",
-                    "country": "Egypt",
-                    "language": "Arabic",
-                    "motivation": "who, through works rich in nuance – now clear-sightedly realistic, now evocatively ambiguous – has formed an Arabian narrative art that applies to all mankind",
-                    "genre": [
-                        "novel",
-                        "short story"
-                    ]
-                }
-            ]
-        },
-        "1987": {
-            "laureates": [
-                {
-                    "name": "Joseph Brodsky",
-                    "country": "United States/Soviet Union",
-                    "language": "Russian and English",
-                    "motivation": "for an all-embracing authorship, imbued with clarity of thought and poetic intensity",
-                    "genre": [
-                        "poetry",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "1986": {
-            "laureates": [
-                {
-                    "name": "Wole Soyinka",
-                    "country": "Nigeria",
-                    "language": "English",
-                    "motivation": "who in a wide cultural perspective and with poetic overtones fashions the drama of existence",
-                    "genre": [
-                        "drama",
-                        "novel",
-                        "poetry",
-                        "screenplay"
-                    ]
-                }
-            ]
-        },
-        "1985": {
-            "laureates": [
-                {
-                    "name": "Claude Simon",
-                    "country": "France",
-                    "language": "French",
-                    "motivation": "who in his novel combines the poet's and the painter's creativeness with a deepened awareness of time in the depiction of the human condition",
-                    "genre": [
-                        "novel",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "1984": {
-            "laureates": [
-                {
-                    "name": "Jaroslav Seifert",
-                    "country": "Czechoslovakia",
-                    "language": "Czech",
-                    "motivation": "for his poetry, which endowed with freshness, and rich inventiveness provides a liberating image of the indomitable spirit and versatility of man",
-                    "genre": [
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "1983": {
-            "laureates": [
-                {
-                    "name": "William Golding",
-                    "country": "United Kingdom",
-                    "language": "English",
-                    "motivation": "for his novels, which with the perspicuity of realistic narrative art and the diversity and universality of myth, illuminate the human condition in the world of today",
-                    "genre": [
-                        "novel",
-                        "poetry",
-                        "drama"
-                    ]
-                }
-            ]
-        },
-        "1982": {
-            "laureates": [
-                {
-                    "name": "Gabriel García Márquez",
-                    "country": "Colombia",
-                    "language": "Spanish",
-                    "motivation": "for his novels and short stories, in which the fantastic and the realistic are combined in a richly composed world of imagination, reflecting a continent's life and conflicts",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "screenplay"
-                    ]
-                }
-            ]
-        },
-        "1981": {
-            "laureates": [
-                {
-                    "name": "Elias Canetti",
-                    "country": "United Kingdom/Bulgaria",
-                    "language": "German",
-                    "motivation": "for writings marked by a broad outlook, a wealth of ideas and artistic power",
-                    "genre": [
-                        "novel",
-                        "drama",
-                        "memoirs",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "1980": {
-            "laureates": [
-                {
-                    "name": "Czesław Miłosz",
-                    "country": "Poland",
-                    "language": "Polish",
-                    "motivation": "who with uncompromising clear-sightedness voices man's exposed condition in a world of severe conflicts",
-                    "genre": [
-                        "poetry",
-                        "novel",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "1979": {
-            "laureates": [
-                {
-                    "name": "Odysseas Elytis",
-                    "country": "Greece",
-                    "language": "Greek",
-                    "motivation": "for his poetry, which, against the background of Greek tradition, depicts with sensuous strength and intellectual clear-sightedness modern man's struggle for freedom and creativeness",
-                    "genre": [
-                        "poetry",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "1978": {
-            "laureates": [
-                {
-                    "name": "Isaac Bashevis Singer",
-                    "country": "Poland/United States",
-                    "language": "Yiddish",
-                    "motivation": "for his impassioned narrative art which, with roots in a Polish-Jewish cultural tradition, brings universal human conditions to life",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "memoir"
-                    ]
-                }
-            ]
-        },
-        "1977": {
-            "laureates": [
-                {
-                    "name": "Vicente Aleixandre",
-                    "country": "Spain",
-                    "language": "Spanish",
-                    "motivation": "for a creative poetic writing, which illuminates man's condition in the cosmos and in present-day society, at the same time representing the great renewal of the traditions of Spanish poetry between the wars",
-                    "genre": [
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "1976": {
-            "laureates": [
-                {
-                    "name": "Saul Bellow",
-                    "country": "United States/Canada",
-                    "language": "English",
-                    "motivation": "for the human understanding and subtle analysis of contemporary culture that are combined in his work",
-                    "genre": [
-                        "novel",
-                        "short story"
-                    ]
-                }
-            ]
-        },
-        "1975": {
-            "laureates": [
-                {
-                    "name": "Eugenio Montale",
-                    "country": "Italy",
-                    "language": "Italian",
-                    "motivation": "for his distinctive poetry, which, with great artistic sensitivity, has interpreted human values under the sign of an outlook on life with no illusions",
-                    "genre": [
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "1974": {
-            "laureates": [
-                {
-                    "name": "Eyvind Johnson",
-                    "country": "Sweden",
-                    "language": "Swedish",
-                    "motivation": "for a narrative art, farseeing in lands and ages, in the service of freedom",
-                    "genre": [
-                        "novel"
-                    ]
-                },
-                {
-                    "name": "Harry Martinson",
-                    "country": "Sweden",
-                    "language": "Swedish",
-                    "motivation": "for writings that catch the dewdrop and reflect the cosmos",
-                    "genre": [
-                        "poetry",
-                        "novel",
-                        "drama"
-                    ]
-                }
-            ]
-        },
-        "1973": {
-            "laureates": [
-                {
-                    "name": "Patrick White",
-                    "country": "Australia (born in the United Kingdom)",
-                    "language": "English",
-                    "motivation": "for an epic and psychological narrative art, which has introduced a new continent into literature",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "drama"
-                    ]
-                }
-            ]
-        },
-        "1972": {
-            "laureates": [
-                {
-                    "name": "Heinrich Böll",
-                    "country": "West Germany",
-                    "language": "German",
-                    "motivation": "for his writing, which through its combination of a broad perspective on his time and a sensitive skill in characterization has contributed to a renewal of German literature",
-                    "genre": [
-                        "novel",
-                        "short story"
-                    ]
-                }
-            ]
-        },
-        "1971": {
-            "laureates": [
-                {
-                    "name": "Pablo Neruda",
-                    "country": "Chile",
-                    "language": "Spanish",
-                    "motivation": "for a poetry that with the action of an elemental force brings alive a continent's destiny and dreams",
-                    "genre": [
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "1970": {
-            "laureates": [
-                {
-                    "name": "Aleksandr Solzhenitsyn",
-                    "country": "Soviet Union",
-                    "language": "Russian",
-                    "motivation": "for the ethical force with which he has pursued the indispensable traditions of Russian literature",
-                    "genre": [
-                        "novel",
-                        "essay",
-                        "short story"
-                    ]
-                }
-            ]
-        },
-        "1969": {
-            "laureates": [
-                {
-                    "name": "Samuel Beckett",
-                    "country": "Ireland",
-                    "language": "French and English",
-                    "motivation": "for his writing, which – in new forms for the novel and drama – in the destitution of modern man acquires its elevation",
-                    "genre": [
-                        "novel",
-                        "drama",
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "1968": {
-            "laureates": [
-                {
-                    "name": "Yasunari Kawabata",
-                    "country": "Japan",
-                    "language": "Japanese",
-                    "motivation": "for his narrative mastery, which with great sensibility expresses the essence of the Japanese mind",
-                    "genre": [
-                        "novel",
-                        "short story"
-                    ]
-                }
-            ]
-        },
-        "1967": {
-            "laureates": [
-                {
-                    "name": "Miguel Ángel Asturias",
-                    "country": "Guatemala",
-                    "language": "Spanish",
-                    "motivation": "for his vivid literary achievement, deep-rooted in the national traits and traditions of Indian peoples of Latin America",
-                    "genre": [
-                        "novel",
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "1966": {
-            "laureates": [
-                {
-                    "name": "Shmuel Yosef Agnon",
-                    "country": "Israel",
-                    "language": "Hebrew",
-                    "motivation": "for his profoundly characteristic narrative art with motifs from the life of the Jewish people",
-                    "genre": [
-                        "novel",
-                        "short story"
-                    ]
-                },
-                {
-                    "name": "Nelly Sachs",
-                    "country": "West Germany/Sweden",
-                    "language": "German",
-                    "motivation": "for her outstanding lyrical and dramatic writing, which interprets Israel's destiny with touching strength",
-                    "genre": [
-                        "poetry",
-                        "drama"
-                    ]
-                }
-            ]
-        },
-        "1965": {
-            "laureates": [
-                {
-                    "name": "Mikhail Sholokhov",
-                    "country": "Soviet Union",
-                    "language": "Russian",
-                    "motivation": "for the artistic power and integrity with which, in his epic of the Don, he has given expression to a historic phase in the life of the Russian people",
-                    "genre": [
-                        "novel"
-                    ]
-                }
-            ]
-        },
-        "1964": {
-            "laureates": [
-                {
-                    "name": "Jean-Paul Sartre",
-                    "country": "France",
-                    "language": "French",
-                    "motivation": "for his work, which rich in ideas and filled with the spirit of freedom and the quest for truth, has exerted a far-reaching influence on our age",
-                    "genre": [
-                        "philosophy",
-                        "novel",
-                        "drama",
-                        "essay",
-                        "short story",
-                        "screenplay"
-                    ],
-                    "notes": "Declined the prize"
-                }
-            ],
-            "notes": "Declined the prize"
-        },
-        "1963": {
-            "laureates": [
-                {
-                    "name": "Giorgos Seferis",
-                    "country": "Greece",
-                    "language": "Greek",
-                    "motivation": "for his eminent lyrical writing, inspired by a deep feeling for the Hellenic world of culture",
-                    "genre": [
-                        "poetry",
-                        "essay",
-                        "memoir"
-                    ]
-                }
-            ]
-        },
-        "1962": {
-            "laureates": [
-                {
-                    "name": "John Steinbeck",
-                    "country": "United States",
-                    "language": "English",
-                    "motivation": "for his realistic and imaginative writings, combining as they do sympathetic humour and keen social perception",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "screenplay"
-                    ]
-                }
-            ]
-        },
-        "1961": {
-            "laureates": [
-                {
-                    "name": "Ivo Andrić",
-                    "country": "Yugoslavia",
-                    "language": "Serbo-Croatian",
-                    "motivation": "for the epic force with which he has traced themes and depicted human destinies drawn from the history of his country",
-                    "genre": [
-                        "novel",
-                        "short story"
-                    ]
-                }
-            ]
-        },
-        "1960": {
-            "laureates": [
-                {
-                    "name": "Saint-John Perse",
-                    "country": "France",
-                    "language": "French",
-                    "motivation": "for the soaring flight and the evocative imagery of his poetry, which in a visionary fashion reflects the conditions of our time",
-                    "genre": [
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "1959": {
-            "laureates": [
-                {
-                    "name": "Salvatore Quasimodo",
-                    "country": "Italy",
-                    "language": "Italian",
-                    "motivation": "for his lyrical poetry, which with classical fire expresses the tragic experience of life in our own times",
-                    "genre": [
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "1958": {
-            "laureates": [
-                {
-                    "name": "Boris Pasternak",
-                    "country": "Soviet Union",
-                    "language": "Russian",
-                    "motivation": "for his important achievement both in contemporary lyrical poetry and in the field of the great Russian epic tradition",
-                    "genre": [
-                        "novel",
-                        "poetry",
-                        "translation"
-                    ],
-                    "notes": "Forced to decline by Soviet authorities"
-                }
-            ],
-            "notes": "Forced to decline by Soviet authorities"
-        },
-        "1957": {
-            "laureates": [
-                {
-                    "name": "Albert Camus",
-                    "country": "France (born in French Algeria)",
-                    "language": "French",
-                    "motivation": "for his important literary production, which with clear-sighted earnestness illuminates the problems of the human conscience in our times",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "drama",
-                        "philosophy",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "1956": {
-            "laureates": [
-                {
-                    "name": "Juan Ramón Jiménez",
-                    "country": "Spain",
-                    "language": "Spanish",
-                    "motivation": "for his lyrical poetry, which in Spanish language constitutes an example of high spirit and artistical purity",
-                    "genre": [
-                        "poetry",
-                        "novel"
-                    ]
-                }
-            ]
-        },
-        "1955": {
-            "laureates": [
-                {
-                    "name": "Halldór Laxness",
-                    "country": "Iceland",
-                    "language": "Icelandic",
-                    "motivation": "for his vivid epic power, which has renewed the great narrative art of Iceland",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "drama",
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "1954": {
-            "laureates": [
-                {
-                    "name": "Ernest Hemingway",
-                    "country": "United States",
-                    "language": "English",
-                    "motivation": "for his mastery of the art of narrative, most recently demonstrated in The Old Man and the Sea, and for the influence that he has exerted on contemporary style",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "screenplay"
-                    ]
-                }
-            ]
-        },
-        "1953": {
-            "laureates": [
-                {
-                    "name": "Winston Churchill",
-                    "country": "United Kingdom",
-                    "language": "English",
-                    "motivation": "for his mastery of historical and biographical description as well as for brilliant oratory in defending exalted human values",
-                    "genre": [
-                        "history",
-                        "essay",
-                        "memoir"
-                    ]
-                }
-            ]
-        },
-        "1952": {
-            "laureates": [
-                {
-                    "name": "François Mauriac",
-                    "country": "France",
-                    "language": "French",
-                    "motivation": "for the deep spiritual insight and the artistic intensity with which he has in his novels penetrated the drama of human life",
-                    "genre": [
-                        "novel",
-                        "short story"
-                    ]
-                }
-            ]
-        },
-        "1951": {
-            "laureates": [
-                {
-                    "name": "Pär Lagerkvist",
-                    "country": "Sweden",
-                    "language": "Swedish",
-                    "motivation": "for the artistic vigour and true independence of mind with which he endeavours in his poetry to find answers to the eternal questions confronting mankind",
-                    "genre": [
-                        "poetry",
-                        "novel",
-                        "short story",
-                        "drama"
-                    ]
-                }
-            ]
-        },
-        "1950": {
-            "laureates": [
-                {
-                    "name": "Bertrand Russell",
-                    "country": "United Kingdom",
-                    "language": "English",
-                    "motivation": "in recognition of his varied and significant writings in which he champions humanitarian ideals and freedom of thought",
-                    "genre": [
-                        "philosophy",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "1949": {
-            "laureates": [
-                {
-                    "name": "William Faulkner",
-                    "country": "United States",
-                    "language": "English",
-                    "motivation": "for his powerful and artistically unique contribution to the modern American novel",
-                    "genre": [
-                        "novel",
-                        "short story"
-                    ]
-                }
-            ]
-        },
-        "1948": {
-            "laureates": [
-                {
-                    "name": "T. S. Eliot",
-                    "country": "United Kingdom (born in the United States)",
-                    "language": "English",
-                    "motivation": "for his outstanding, pioneer contribution to present-day poetry",
-                    "genre": [
-                        "poetry",
-                        "essay",
-                        "drama"
-                    ]
-                }
-            ]
-        },
-        "1947": {
-            "laureates": [
-                {
-                    "name": "André Gide",
-                    "country": "France",
-                    "language": "French",
-                    "motivation": "for his comprehensive and artistically significant writings, in which human problems and conditions have been presented with a fearless love of truth and keen psychological insight",
-                    "genre": [
-                        "novel",
-                        "essay",
-                        "drama",
-                        "memoir"
-                    ]
-                }
-            ]
-        },
-        "1946": {
-            "laureates": [
-                {
-                    "name": "Hermann Hesse",
-                    "country": "Germany/Switzerland",
-                    "language": "German",
-                    "motivation": "for his inspired writings, which while growing in boldness and penetration, exemplify the classical humanitarian ideals and high qualities of style",
-                    "genre": [
-                        "novel",
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "1945": {
-            "laureates": [
-                {
-                    "name": "Gabriela Mistral",
-                    "country": "Chile",
-                    "language": "Spanish",
-                    "motivation": "for her lyric poetry, which inspired by powerful emotions, has made her name a symbol of the idealistic aspirations of the entire Latin American world",
-                    "genre": [
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "1944": {
-            "laureates": [
-                {
-                    "name": "Johannes V. Jensen",
-                    "country": "Denmark",
-                    "language": "Danish",
-                    "motivation": "for the rare strength and fertility of his poetic imagination with which is combined an intellectual curiosity of wide scope and a bold, freshly creative style",
-                    "genre": [
-                        "novel",
-                        "short story"
-                    ]
-                }
-            ]
-        },
-        "1943": {
-            "laureates": [],
-            "notes": "No Nobel Prize in Literature was awarded this year due to World War II"
-        },
-        "1942": {
-            "laureates": [],
-            "notes": "No Nobel Prize in Literature was awarded this year due to World War II"
-        },
-        "1941": {
-            "laureates": [],
-            "notes": "No Nobel Prize in Literature was awarded this year due to World War II"
-        },
-        "1940": {
-            "laureates": [],
-            "notes": "No Nobel Prize in Literature was awarded this year due to World War II and the German occupation of Norway"
-        },
-        "1939": {
-            "laureates": [
-                {
-                    "name": "Frans Eemil Sillanpää",
-                    "country": "Finland",
-                    "language": "Finnish",
-                    "motivation": "for his deep understanding of his country's peasantry and the exquisite art with which he has portrayed their way of life and their relationship with Nature",
-                    "genre": [
-                        "novel"
-                    ]
-                }
-            ]
-        },
-        "1938": {
-            "laureates": [
-                {
-                    "name": "Pearl S. Buck",
-                    "country": "United States",
-                    "language": "English",
-                    "motivation": "for her rich and truly epic descriptions of peasant life in China and for her biographical masterpieces",
-                    "genre": [
-                        "novel",
-                        "biography"
-                    ]
-                }
-            ]
-        },
-        "1937": {
-            "laureates": [
-                {
-                    "name": "Roger Martin du Gard",
-                    "country": "France",
-                    "language": "French",
-                    "motivation": "for the artistic power and truth with which he has depicted human conflict as well as some fundamental aspects of contemporary life in his novel cycle Les Thibault",
-                    "genre": [
-                        "novel"
-                    ]
-                }
-            ]
-        },
-        "1936": {
-            "laureates": [
-                {
-                    "name": "Eugene O'Neill",
-                    "country": "United States",
-                    "language": "English",
-                    "motivation": "for the power, honesty and deep-felt emotions of his dramatic works, which embody an original concept of tragedy",
-                    "genre": [
-                        "drama"
-                    ]
-                }
-            ]
-        },
-        "1935": {
-            "laureates": [],
-            "notes": "No Nobel Prize in Literature was awarded this year as no candidate was deemed suitable by the Swedish Academy"
-        },
-        "1934": {
-            "laureates": [
-                {
-                    "name": "Luigi Pirandello",
-                    "country": "Italy",
-                    "language": "Italian",
-                    "motivation": "for his bold and ingenious revival of dramatic and scenic art",
-                    "genre": [
-                        "drama",
-                        "novel",
-                        "short story"
-                    ]
-                }
-            ]
-        },
-        "1933": {
-            "laureates": [
-                {
-                    "name": "Ivan Bunin",
-                    "country": "Stateless (born in Russian Empire)",
-                    "language": "Russian",
-                    "motivation": "for the strict artistry with which he has carried on the classical Russian traditions in prose writing",
-                    "genre": [
-                        "short story",
-                        "poetry",
-                        "novel"
-                    ]
-                }
-            ]
-        },
-        "1932": {
-            "laureates": [
-                {
-                    "name": "John Galsworthy",
-                    "country": "United Kingdom",
-                    "language": "English",
-                    "motivation": "for his distinguished art of narration, which takes its highest form in The Forsyte Saga",
-                    "genre": [
-                        "novel"
-                    ]
-                }
-            ]
-        },
-        "1931": {
-            "laureates": [
-                {
-                    "name": "Erik Axel Karlfeldt",
-                    "country": "Sweden",
-                    "language": "Swedish",
-                    "motivation": "The poetry of Erik Axel Karlfeldt",
-                    "genre": [
-                        "poetry"
-                    ],
-                    "notes": "Posthumous award"
-                }
-            ],
-            "notes": "Posthumous award"
-        },
-        "1930": {
-            "laureates": [
-                {
-                    "name": "Sinclair Lewis",
-                    "country": "United States",
-                    "language": "English",
-                    "motivation": "for his vigorous and graphic art of description and his ability to create, with wit and humour, new types of characters",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "drama"
-                    ]
-                }
-            ]
-        },
-        "1929": {
-            "laureates": [
-                {
-                    "name": "Thomas Mann",
-                    "country": "Germany",
-                    "language": "German",
-                    "motivation": "principally for his great novel, Buddenbrooks, which has won steadily increased recognition as one of the classic works of contemporary literature",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "1928": {
-            "laureates": [
-                {
-                    "name": "Sigrid Undset",
-                    "country": "Norway/Denmark",
-                    "language": "Norwegian",
-                    "motivation": "principally for her powerful descriptions of Northern life during the Middle Ages",
-                    "genre": [
-                        "novel"
-                    ]
-                }
-            ]
-        },
-        "1927": {
-            "laureates": [
-                {
-                    "name": "Henri Bergson",
-                    "country": "France",
-                    "language": "French",
-                    "motivation": "in recognition of his rich and vitalizing ideas and the brilliant skill with which they have been presented",
-                    "genre": [
-                        "philosophy"
-                    ]
-                }
-            ]
-        },
-        "1926": {
-            "laureates": [
-                {
-                    "name": "Grazia Deledda",
-                    "country": "Italy",
-                    "language": "Italian",
-                    "motivation": "for her idealistically inspired writings, which with plastic clarity picture the life on her native island and with depth and sympathy deal with human problems in general",
-                    "genre": [
-                        "poetry",
-                        "novel"
-                    ]
-                }
-            ]
-        },
-        "1925": {
-            "laureates": [
-                {
-                    "name": "George Bernard Shaw",
-                    "country": "United Kingdom/Ireland",
-                    "language": "English",
-                    "motivation": "for his work which is marked by both idealism and humanity, its stimulating satire often being infused with a singular poetic beauty",
-                    "genre": [
-                        "drama",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "1924": {
-            "laureates": [
-                {
-                    "name": "Władysław Reymont",
-                    "country": "Poland",
-                    "language": "Polish",
-                    "motivation": "for his great national epic, The Peasants",
-                    "genre": [
-                        "novel"
-                    ]
-                }
-            ]
-        },
-        "1923": {
-            "laureates": [
-                {
-                    "name": "William Butler Yeats",
-                    "country": "Ireland",
-                    "language": "English",
-                    "motivation": "for his always inspired poetry, which in a highly artistic form gives expression to the spirit of a whole nation",
-                    "genre": [
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "1922": {
-            "laureates": [
-                {
-                    "name": "Jacinto Benavente",
-                    "country": "Spain",
-                    "language": "Spanish",
-                    "motivation": "for the happy manner in which he has continued the illustrious traditions of the Spanish drama",
-                    "genre": [
-                        "drama"
-                    ]
-                }
-            ]
-        },
-        "1921": {
-            "laureates": [
-                {
-                    "name": "Anatole France",
-                    "country": "France",
-                    "language": "French",
-                    "motivation": "in recognition of his brilliant literary achievements, characterized as they are by a nobility of style, a profound human sympathy, grace, and a true Gallic temperament",
-                    "genre": [
-                        "novel",
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "1920": {
-            "laureates": [
-                {
-                    "name": "Knut Hamsun",
-                    "country": "Norway",
-                    "language": "Norwegian",
-                    "motivation": "for his monumental work, Growth of the Soil",
-                    "genre": [
-                        "novel"
-                    ]
-                }
-            ]
-        },
-        "1919": {
-            "laureates": [
-                {
-                    "name": "Carl Spitteler",
-                    "country": "Switzerland",
-                    "language": "German",
-                    "motivation": "in special appreciation of his epic, Olympian Spring",
-                    "genre": [
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "1918": {
-            "laureates": [],
-            "notes": "No Nobel Prize in Literature was awarded this year due to World War I"
-        },
-        "1917": {
-            "laureates": [
-                {
-                    "name": "Karl Gjellerup",
-                    "country": "Denmark",
-                    "language": "Danish and German",
-                    "motivation": "for his varied and rich poetry, which is inspired by lofty ideals",
-                    "genre": [
-                        "poetry"
-                    ]
-                },
-                {
-                    "name": "Henrik Pontoppidan",
-                    "country": "Denmark",
-                    "language": "Danish",
-                    "motivation": "for his authentic descriptions of present-day life in Denmark",
-                    "genre": [
-                        "novel"
-                    ]
-                }
-            ]
-        },
-        "1916": {
-            "laureates": [
-                {
-                    "name": "Verner von Heidenstam",
-                    "country": "Sweden",
-                    "language": "Swedish",
-                    "motivation": "in recognition of his significance as the leading representative of a new era in our literature",
-                    "genre": [
-                        "poetry",
-                        "novel"
-                    ]
-                }
-            ]
-        },
-        "1915": {
-            "laureates": [
-                {
-                    "name": "Romain Rolland",
-                    "country": "France",
-                    "language": "French",
-                    "motivation": "as a tribute to the lofty idealism of his literary production and to the sympathy and love of truth with which he has described different types of human beings",
-                    "genre": [
-                        "novel"
-                    ]
-                }
-            ]
-        },
-        "1914": {
-            "laureates": [],
-            "notes": "No Nobel Prize in Literature was awarded this year due to World War I"
-        },
-        "1913": {
-            "laureates": [
-                {
-                    "name": "Rabindranath Tagore",
-                    "country": "India (British Raj)",
-                    "language": "Bengali and English",
-                    "motivation": "because of his profoundly sensitive, fresh and beautiful verse, by which, with consummate skill, he has made his poetic thought, expressed in his own English words, a part of the literature of the West",
-                    "genre": [
-                        "poetry",
-                        "novel",
-                        "drama",
-                        "short story",
-                        "essay",
-                        "translation"
-                    ]
-                }
-            ]
-        },
-        "1912": {
-            "laureates": [
-                {
-                    "name": "Gerhart Hauptmann",
-                    "country": "Germany",
-                    "language": "German",
-                    "motivation": "primarily in recognition of his fruitful, varied and outstanding production in the realm of dramatic art",
-                    "genre": [
-                        "drama",
-                        "novel"
-                    ]
-                }
-            ]
-        },
-        "1911": {
-            "laureates": [
-                {
-                    "name": "Maurice Maeterlinck",
-                    "country": "Belgium",
-                    "language": "French",
-                    "motivation": "in appreciation of his many-sided literary activities, and especially of his dramatic works, which are distinguished by a wealth of imagination and by a poetic fancy, which reveals, sometimes in the guise of a fairy tale, a deep inspiration, while in a mysterious way they appeal to the readers' own feelings and stimulate their imaginations",
-                    "genre": [
-                        "drama",
-                        "poetry",
-                        "essay"
-                    ]
-                }
-            ]
-        },
-        "1910": {
-            "laureates": [
-                {
-                    "name": "Paul Heyse",
-                    "country": "Germany",
-                    "language": "German",
-                    "motivation": "as a tribute to the consummate artistry, permeated with idealism, which he has demonstrated during his long productive career as a lyric poet, dramatist, novelist and writer of world-renowned short stories",
-                    "genre": [
-                        "poetry",
-                        "drama",
-                        "novel",
-                        "short story"
-                    ]
-                }
-            ]
-        },
-        "1909": {
-            "laureates": [
-                {
-                    "name": "Selma Lagerlöf",
-                    "country": "Sweden",
-                    "language": "Swedish",
-                    "motivation": "in appreciation of the lofty idealism, vivid imagination and spiritual perception that characterize her writings",
-                    "genre": [
-                        "novel",
-                        "short story"
-                    ]
-                }
-            ]
-        },
-        "1908": {
-            "laureates": [
-                {
-                    "name": "Rudolf Eucken",
-                    "country": "Germany",
-                    "language": "German",
-                    "motivation": "in recognition of his earnest search for truth, his penetrating power of thought, his wide range of vision, and the warmth and strength in presentation with which in his numerous works he has vindicated and developed an idealistic philosophy of life",
-                    "genre": [
-                        "philosophy"
-                    ]
-                }
-            ]
-        },
-        "1907": {
-            "laureates": [
-                {
-                    "name": "Rudyard Kipling",
-                    "country": "United Kingdom",
-                    "language": "English",
-                    "motivation": "in consideration of the power of observation, originality of imagination, virility of ideas and remarkable talent for narration that characterize the creations of this world-famous author",
-                    "genre": [
-                        "novel",
-                        "short story",
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "1906": {
-            "laureates": [
-                {
-                    "name": "Giosuè Carducci",
-                    "country": "Italy",
-                    "language": "Italian",
-                    "motivation": "not only in consideration of his deep learning and critical research, but above all as a tribute to the creative energy, freshness of style, and lyrical force which characterize his poetic masterpieces",
-                    "genre": [
-                        "poetry"
-                    ]
-                }
-            ]
-        },
-        "1905": {
-            "laureates": [
-                {
-                    "name": "Henryk Sienkiewicz",
-                    "country": "Poland",
-                    "language": "Polish",
-                    "motivation": "because of his outstanding merits as an epic writer",
-                    "genre": [
-                        "novel"
-                    ]
-                }
-            ]
-        },
-        "1904": {
-            "laureates": [
-                {
-                    "name": "Frédéric Mistral",
-                    "country": "France",
-                    "language": "Provençal",
-                    "motivation": "in recognition of the fresh originality and true inspiration of his poetic production, which faithfully reflects the natural scenery and native spirit of his people, and, in addition, his significant work as a Provençal philologist",
-                    "genre": [
-                        "poetry",
-                        "philology"
-                    ]
-                },
-                {
-                    "name": "José Echegaray",
-                    "country": "Spain",
-                    "language": "Spanish",
-                    "motivation": "in recognition of the numerous and brilliant compositions which, in an individual and original manner, have revived the great traditions of the Spanish drama",
-                    "genre": [
-                        "drama"
-                    ]
-                }
-            ]
-        },
-        "1903": {
-            "laureates": [
-                {
-                    "name": "Bjørnstjerne Bjørnson",
-                    "country": "Norway",
-                    "language": "Norwegian",
-                    "motivation": "as a tribute to his noble, magnificent and versatile poetry, which has always been distinguished by both the freshness of its inspiration and the rare purity of its spirit",
-                    "genre": [
-                        "poetry",
-                        "novel",
-                        "drama"
-                    ]
-                }
-            ]
-        },
-        "1902": {
-            "laureates": [
-                {
-                    "name": "Theodor Mommsen",
-                    "country": "Germany",
-                    "language": "German",
-                    "motivation": "the greatest living master of the art of historical writing, with special reference to his monumental work A History of Rome",
-                    "genre": [
-                        "history",
-                        "law"
-                    ]
-                }
-            ]
-        },
-        "1901": {
-            "laureates": [
-                {
-                    "name": "Sully Prudhomme",
-                    "country": "France",
-                    "language": "French",
-                    "motivation": "in special recognition of his poetic composition, which gives evidence of lofty idealism, artistic perfection and a rare combination of the qualities of both heart and intellect",
-                    "genre": [
-                        "poetry",
-                        "essay"
-                    ]
-                }
-            ]
+  "award_info": {
+    "id": "intl_nobel_literature",
+    "name": "Giải Nobel Văn chương",
+    "name_en": "Nobel Prize in Literature",
+    "established_year": 1901,
+    "awarding_body": "Swedish Academy",
+    "country": "Sweden",
+    "total_times_awarded": 118,
+    "total_laureates": 122,
+    "years_not_awarded": 7,
+    "description": "Giải thưởng văn học danh giá nhất thế giới, được trao hàng năm cho tác giả có đóng góp xuất sắc cho văn học thế giới",
+    "website": "https://www.nobelprize.org/prizes/literature/"
+  },
+  "statistics": {
+    "years_awarded": 118,
+    "not_awarded_years": [
+      1914,
+      1918,
+      1935,
+      1940,
+      1941,
+      1942,
+      1943
+    ],
+    "total_laureates": 122,
+    "female_laureates": 18,
+    "male_laureates": 104,
+    "shared_prizes": 4,
+    "declined_prizes": 2,
+    "posthumous_awards": 1
+  },
+  "laureates_by_year": {
+    "2025": {
+      "laureates": [
+        {
+          "name": "László Krasznahorkai",
+          "country": "Hungary",
+          "language": "Hungarian",
+          "motivation": "for his compelling and visionary oeuvre that, in the midst of apocalyptic terror, reaffirms the power of art",
+          "genre": [
+            "novel",
+            "short story",
+            "essay",
+            "screenplay"
+          ]
         }
+      ]
     },
-    "metadata": {
-        "created_date": "2024-11-07",
-        "version": "1.0",
-        "source": "Wikipedia - List of Nobel laureates in Literature",
-        "last_updated": "2025-10-14",
-        "notes": "Complete historical data from 1901-2025. Includes all 118 awards to 122 laureates."
+    "2024": {
+      "laureates": [
+        {
+          "name": "Han Kang",
+          "country": "South Korea",
+          "language": "Korean",
+          "motivation": "for her intense poetic prose that confronts historical traumas and exposes the fragility of human life",
+          "genre": [
+            "novel",
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "2023": {
+      "laureates": [
+        {
+          "name": "Jon Fosse",
+          "country": "Norway",
+          "language": "Norwegian",
+          "motivation": "for his innovative plays and prose which give voice to the unsayable",
+          "genre": [
+            "drama",
+            "novel",
+            "poetry",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "2022": {
+      "laureates": [
+        {
+          "name": "Annie Ernaux",
+          "country": "France",
+          "language": "French",
+          "motivation": "for the courage and clinical acuity with which she uncovers the roots, estrangements and collective restraints of personal memory",
+          "genre": [
+            "memoir",
+            "novel"
+          ]
+        }
+      ]
+    },
+    "2021": {
+      "laureates": [
+        {
+          "name": "Abdulrazak Gurnah",
+          "country": "Tanzania/United Kingdom",
+          "language": "English",
+          "motivation": "for his uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents",
+          "genre": [
+            "novel",
+            "short story",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "2020": {
+      "laureates": [
+        {
+          "name": "Louise Glück",
+          "country": "United States",
+          "language": "English",
+          "motivation": "for her unmistakable poetic voice that with austere beauty makes individual existence universal",
+          "genre": [
+            "poetry",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "2019": {
+      "laureates": [
+        {
+          "name": "Peter Handke",
+          "country": "Austria",
+          "language": "German",
+          "motivation": "for an influential work that with linguistic ingenuity has explored the periphery and the specificity of human experience",
+          "genre": [
+            "novel",
+            "short story",
+            "drama",
+            "essay",
+            "translation",
+            "screenplay"
+          ]
+        }
+      ]
+    },
+    "2018": {
+      "laureates": [
+        {
+          "name": "Olga Tokarczuk",
+          "country": "Poland",
+          "language": "Polish",
+          "motivation": "for a narrative imagination that with encyclopedic passion represents the crossing of boundaries as a form of life",
+          "genre": [
+            "novel",
+            "short story",
+            "poetry",
+            "essay",
+            "screenplay"
+          ]
+        }
+      ]
+    },
+    "2017": {
+      "laureates": [
+        {
+          "name": "Kazuo Ishiguro",
+          "country": "United Kingdom (born in Japan)",
+          "language": "English",
+          "motivation": "who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world",
+          "genre": [
+            "novel",
+            "screenplay",
+            "short story"
+          ]
+        }
+      ]
+    },
+    "2016": {
+      "laureates": [
+        {
+          "name": "Bob Dylan",
+          "country": "United States",
+          "language": "English",
+          "motivation": "for having created new poetic expressions within the great American song tradition",
+          "genre": [
+            "poetry",
+            "song lyrics"
+          ]
+        }
+      ]
+    },
+    "2015": {
+      "laureates": [
+        {
+          "name": "Svetlana Alexievich",
+          "country": "Belarus (born in Soviet Ukraine)",
+          "language": "Russian",
+          "motivation": "for her polyphonic writings, a monument to suffering and courage in our time",
+          "genre": [
+            "history",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "2014": {
+      "laureates": [
+        {
+          "name": "Patrick Modiano",
+          "country": "France",
+          "language": "French",
+          "motivation": "for the art of memory with which he has evoked the most ungraspable human destinies and uncovered the life-world of the Occupation",
+          "genre": [
+            "novel",
+            "screenplay"
+          ]
+        }
+      ]
+    },
+    "2013": {
+      "laureates": [
+        {
+          "name": "Alice Munro",
+          "country": "Canada",
+          "language": "English",
+          "motivation": "master of the contemporary short story",
+          "genre": [
+            "short story"
+          ]
+        }
+      ]
+    },
+    "2012": {
+      "laureates": [
+        {
+          "name": "Mo Yan",
+          "country": "China",
+          "language": "Chinese",
+          "motivation": "who with hallucinatory realism merges folk tales, history and the contemporary",
+          "genre": [
+            "novel",
+            "short story"
+          ]
+        }
+      ],
+      "2011": [
+        {
+          "name": "Tomas Tranströmer",
+          "country": "Sweden",
+          "language": "Swedish",
+          "motivation": "because, through his condensed, translucent images, he gives us fresh access to reality",
+          "genre": [
+            "poetry",
+            "translation"
+          ]
+        }
+      ]
+    },
+    "2010": {
+      "laureates": [
+        {
+          "name": "Mario Vargas Llosa",
+          "country": "Peru/Spain",
+          "language": "Spanish",
+          "motivation": "for his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat",
+          "genre": [
+            "novel",
+            "short story",
+            "essay",
+            "drama",
+            "memoir"
+          ]
+        }
+      ],
+      "2009": [
+        {
+          "name": "Herta Müller",
+          "country": "Germany/Romania",
+          "language": "German",
+          "motivation": "who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed",
+          "genre": [
+            "novel",
+            "short story",
+            "poetry",
+            "essay"
+          ]
+        }
+      ],
+      "2008": [
+        {
+          "name": "Jean-Marie Gustave Le Clézio",
+          "country": "France/Mauritius",
+          "language": "French",
+          "motivation": "author of new departures, poetic adventure and sensual ecstasy, explorer of a humanity beyond and below the reigning civilization",
+          "genre": [
+            "novel",
+            "short story",
+            "essay",
+            "translation"
+          ]
+        }
+      ]
+    },
+    "2007": [
+      {
+        "name": "Doris Lessing",
+        "country": "United Kingdom (born in Iran)",
+        "language": "English",
+        "motivation": "that epicist of the female experience, who with scepticism, fire and visionary power has subjected a divided civilisation to scrutiny",
+        "genre": [
+          "novel",
+          "short story",
+          "memoir/autobiography",
+          "drama",
+          "poetry",
+          "essay"
+        ]
+      }
+    ],
+    "2006": {
+      "laureates": [
+        {
+          "name": "Orhan Pamuk",
+          "country": "Turkey",
+          "language": "Turkish",
+          "motivation": "who in the quest for the melancholic soul of his native city has discovered new symbols for the clash and interlacing of cultures",
+          "genre": [
+            "novel",
+            "screenplay",
+            "autobiography",
+            "essay"
+          ]
+        }
+      ],
+      "2005": [
+        {
+          "name": "Harold Pinter",
+          "country": "United Kingdom",
+          "language": "English",
+          "motivation": "who in his plays uncovers the precipice under everyday prattle and forces entry into oppression's closed rooms",
+          "genre": [
+            "drama",
+            "screenplay",
+            "poetry"
+          ]
+        }
+      ],
+      "2004": [
+        {
+          "name": "Elfriede Jelinek",
+          "country": "Austria",
+          "language": "German",
+          "motivation": "for her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of society's clichés and their subjugating power",
+          "genre": [
+            "novel",
+            "drama"
+          ]
+        }
+      ]
+    },
+    "2003": [
+      {
+        "name": "J. M. Coetzee",
+        "country": "South Africa",
+        "language": "English",
+        "motivation": "who in innumerable guises portrays the surprising involvement of the outsider",
+        "genre": [
+          "novel",
+          "essay",
+          "translation"
+        ]
+      }
+    ],
+    "2002": {
+      "laureates": [
+        {
+          "name": "Imre Kertész",
+          "country": "Hungary",
+          "language": "Hungarian",
+          "motivation": "for writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history",
+          "genre": [
+            "novel"
+          ]
+        }
+      ]
+    },
+    "2001": {
+      "laureates": [
+        {
+          "name": "V. S. Naipaul",
+          "country": "United Kingdom/Trinidad and Tobago",
+          "language": "English",
+          "motivation": "for having united perceptive narrative and incorruptible scrutiny in works that compel us to see the presence of suppressed histories",
+          "genre": [
+            "novel",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "2000": {
+      "laureates": [
+        {
+          "name": "Gao Xingjian",
+          "country": "France/Taiwan/China",
+          "language": "Chinese and French",
+          "motivation": "for an oeuvre of universal validity, bitter insights and linguistic ingenuity, which has opened new paths for the Chinese novel and drama",
+          "genre": [
+            "novel",
+            "drama",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "1999": {
+      "laureates": [
+        {
+          "name": "Günter Grass",
+          "country": "Germany",
+          "language": "German",
+          "motivation": "whose frolicsome black fables portray the forgotten face of history",
+          "genre": [
+            "novel",
+            "drama",
+            "poetry",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "1998": {
+      "laureates": [
+        {
+          "name": "José Saramago",
+          "country": "Portugal",
+          "language": "Portuguese",
+          "motivation": "who with parables sustained by imagination, compassion and irony continually enables us once again to apprehend an elusory reality",
+          "genre": [
+            "novel",
+            "drama",
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "1997": {
+      "laureates": [
+        {
+          "name": "Dario Fo",
+          "country": "Italy",
+          "language": "Italian",
+          "motivation": "who emulates the jesters of the Middle Ages in scourging authority and upholding the dignity of the downtrodden",
+          "genre": [
+            "drama",
+            "song lyrics"
+          ]
+        }
+      ]
+    },
+    "1996": {
+      "laureates": [
+        {
+          "name": "Wisława Szymborska",
+          "country": "Poland",
+          "language": "Polish",
+          "motivation": "for poetry that with ironic precision allows the historical and biological context to come to light in fragments of human reality",
+          "genre": [
+            "poetry",
+            "essay",
+            "translation"
+          ]
+        }
+      ]
+    },
+    "1995": {
+      "laureates": [
+        {
+          "name": "Seamus Heaney",
+          "country": "Ireland",
+          "language": "English",
+          "motivation": "for works of lyrical beauty and ethical depth, which exalt everyday miracles and the living past",
+          "genre": [
+            "poetry",
+            "drama",
+            "translation",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "1994": {
+      "laureates": [
+        {
+          "name": "Kenzaburō Ōe",
+          "country": "Japan",
+          "language": "Japanese",
+          "motivation": "who with poetic force creates an imagined world, where life and myth condense to form a disconcerting picture of the human predicament today",
+          "genre": [
+            "novel",
+            "short story",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "1993": {
+      "laureates": [
+        {
+          "name": "Toni Morrison",
+          "country": "United States",
+          "language": "English",
+          "motivation": "who in novels characterized by visionary force and poetic import, gives life to an essential aspect of American reality",
+          "genre": [
+            "novel",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "1992": {
+      "laureates": [
+        {
+          "name": "Derek Walcott",
+          "country": "Saint Lucia",
+          "language": "English",
+          "motivation": "for a poetic oeuvre of great luminosity, sustained by a historical vision, the outcome of a multicultural commitment",
+          "genre": [
+            "poetry",
+            "drama"
+          ]
+        }
+      ]
+    },
+    "1991": {
+      "laureates": [
+        {
+          "name": "Nadine Gordimer",
+          "country": "South Africa",
+          "language": "English",
+          "motivation": "who through her magnificent epic writing has – in the words of Alfred Nobel – been of very great benefit to humanity",
+          "genre": [
+            "novel",
+            "short story",
+            "essay",
+            "drama"
+          ]
+        }
+      ]
+    },
+    "1990": {
+      "laureates": [
+        {
+          "name": "Octavio Paz",
+          "country": "Mexico",
+          "language": "Spanish",
+          "motivation": "for impassioned writing with wide horizons, characterized by sensuous intelligence and humanistic integrity",
+          "genre": [
+            "poetry",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "1989": {
+      "laureates": [
+        {
+          "name": "Camilo José Cela",
+          "country": "Spain",
+          "language": "Spanish",
+          "motivation": "for a rich and intensive prose, which with restrained compassion forms a challenging vision of man's vulnerability",
+          "genre": [
+            "novel",
+            "short story",
+            "essay",
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "1988": {
+      "laureates": [
+        {
+          "name": "Naguib Mahfouz",
+          "country": "Egypt",
+          "language": "Arabic",
+          "motivation": "who, through works rich in nuance – now clear-sightedly realistic, now evocatively ambiguous – has formed an Arabian narrative art that applies to all mankind",
+          "genre": [
+            "novel",
+            "short story"
+          ]
+        }
+      ]
+    },
+    "1987": {
+      "laureates": [
+        {
+          "name": "Joseph Brodsky",
+          "country": "United States/Soviet Union",
+          "language": "Russian and English",
+          "motivation": "for an all-embracing authorship, imbued with clarity of thought and poetic intensity",
+          "genre": [
+            "poetry",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "1986": {
+      "laureates": [
+        {
+          "name": "Wole Soyinka",
+          "country": "Nigeria",
+          "language": "English",
+          "motivation": "who in a wide cultural perspective and with poetic overtones fashions the drama of existence",
+          "genre": [
+            "drama",
+            "novel",
+            "poetry",
+            "screenplay"
+          ]
+        }
+      ]
+    },
+    "1985": {
+      "laureates": [
+        {
+          "name": "Claude Simon",
+          "country": "France",
+          "language": "French",
+          "motivation": "who in his novel combines the poet's and the painter's creativeness with a deepened awareness of time in the depiction of the human condition",
+          "genre": [
+            "novel",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "1984": {
+      "laureates": [
+        {
+          "name": "Jaroslav Seifert",
+          "country": "Czechoslovakia",
+          "language": "Czech",
+          "motivation": "for his poetry, which endowed with freshness, and rich inventiveness provides a liberating image of the indomitable spirit and versatility of man",
+          "genre": [
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "1983": {
+      "laureates": [
+        {
+          "name": "William Golding",
+          "country": "United Kingdom",
+          "language": "English",
+          "motivation": "for his novels, which with the perspicuity of realistic narrative art and the diversity and universality of myth, illuminate the human condition in the world of today",
+          "genre": [
+            "novel",
+            "poetry",
+            "drama"
+          ]
+        }
+      ]
+    },
+    "1982": {
+      "laureates": [
+        {
+          "name": "Gabriel García Márquez",
+          "country": "Colombia",
+          "language": "Spanish",
+          "motivation": "for his novels and short stories, in which the fantastic and the realistic are combined in a richly composed world of imagination, reflecting a continent's life and conflicts",
+          "genre": [
+            "novel",
+            "short story",
+            "screenplay"
+          ]
+        }
+      ]
+    },
+    "1981": {
+      "laureates": [
+        {
+          "name": "Elias Canetti",
+          "country": "United Kingdom/Bulgaria",
+          "language": "German",
+          "motivation": "for writings marked by a broad outlook, a wealth of ideas and artistic power",
+          "genre": [
+            "novel",
+            "drama",
+            "memoirs",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "1980": {
+      "laureates": [
+        {
+          "name": "Czesław Miłosz",
+          "country": "Poland",
+          "language": "Polish",
+          "motivation": "who with uncompromising clear-sightedness voices man's exposed condition in a world of severe conflicts",
+          "genre": [
+            "poetry",
+            "novel",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "1979": {
+      "laureates": [
+        {
+          "name": "Odysseas Elytis",
+          "country": "Greece",
+          "language": "Greek",
+          "motivation": "for his poetry, which, against the background of Greek tradition, depicts with sensuous strength and intellectual clear-sightedness modern man's struggle for freedom and creativeness",
+          "genre": [
+            "poetry",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "1978": {
+      "laureates": [
+        {
+          "name": "Isaac Bashevis Singer",
+          "country": "Poland/United States",
+          "language": "Yiddish",
+          "motivation": "for his impassioned narrative art which, with roots in a Polish-Jewish cultural tradition, brings universal human conditions to life",
+          "genre": [
+            "novel",
+            "short story",
+            "memoir"
+          ]
+        }
+      ]
+    },
+    "1977": {
+      "laureates": [
+        {
+          "name": "Vicente Aleixandre",
+          "country": "Spain",
+          "language": "Spanish",
+          "motivation": "for a creative poetic writing, which illuminates man's condition in the cosmos and in present-day society, at the same time representing the great renewal of the traditions of Spanish poetry between the wars",
+          "genre": [
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "1976": {
+      "laureates": [
+        {
+          "name": "Saul Bellow",
+          "country": "United States/Canada",
+          "language": "English",
+          "motivation": "for the human understanding and subtle analysis of contemporary culture that are combined in his work",
+          "genre": [
+            "novel",
+            "short story"
+          ]
+        }
+      ]
+    },
+    "1975": {
+      "laureates": [
+        {
+          "name": "Eugenio Montale",
+          "country": "Italy",
+          "language": "Italian",
+          "motivation": "for his distinctive poetry, which, with great artistic sensitivity, has interpreted human values under the sign of an outlook on life with no illusions",
+          "genre": [
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "1974": {
+      "laureates": [
+        {
+          "name": "Eyvind Johnson",
+          "country": "Sweden",
+          "language": "Swedish",
+          "motivation": "for a narrative art, farseeing in lands and ages, in the service of freedom",
+          "genre": [
+            "novel"
+          ]
+        },
+        {
+          "name": "Harry Martinson",
+          "country": "Sweden",
+          "language": "Swedish",
+          "motivation": "for writings that catch the dewdrop and reflect the cosmos",
+          "genre": [
+            "poetry",
+            "novel",
+            "drama"
+          ]
+        }
+      ]
+    },
+    "1973": {
+      "laureates": [
+        {
+          "name": "Patrick White",
+          "country": "Australia (born in the United Kingdom)",
+          "language": "English",
+          "motivation": "for an epic and psychological narrative art, which has introduced a new continent into literature",
+          "genre": [
+            "novel",
+            "short story",
+            "drama"
+          ]
+        }
+      ]
+    },
+    "1972": {
+      "laureates": [
+        {
+          "name": "Heinrich Böll",
+          "country": "West Germany",
+          "language": "German",
+          "motivation": "for his writing, which through its combination of a broad perspective on his time and a sensitive skill in characterization has contributed to a renewal of German literature",
+          "genre": [
+            "novel",
+            "short story"
+          ]
+        }
+      ]
+    },
+    "1971": {
+      "laureates": [
+        {
+          "name": "Pablo Neruda",
+          "country": "Chile",
+          "language": "Spanish",
+          "motivation": "for a poetry that with the action of an elemental force brings alive a continent's destiny and dreams",
+          "genre": [
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "1970": {
+      "laureates": [
+        {
+          "name": "Aleksandr Solzhenitsyn",
+          "country": "Soviet Union",
+          "language": "Russian",
+          "motivation": "for the ethical force with which he has pursued the indispensable traditions of Russian literature",
+          "genre": [
+            "novel",
+            "essay",
+            "short story"
+          ]
+        }
+      ]
+    },
+    "1969": {
+      "laureates": [
+        {
+          "name": "Samuel Beckett",
+          "country": "Ireland",
+          "language": "French and English",
+          "motivation": "for his writing, which – in new forms for the novel and drama – in the destitution of modern man acquires its elevation",
+          "genre": [
+            "novel",
+            "drama",
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "1968": {
+      "laureates": [
+        {
+          "name": "Yasunari Kawabata",
+          "country": "Japan",
+          "language": "Japanese",
+          "motivation": "for his narrative mastery, which with great sensibility expresses the essence of the Japanese mind",
+          "genre": [
+            "novel",
+            "short story"
+          ]
+        }
+      ]
+    },
+    "1967": {
+      "laureates": [
+        {
+          "name": "Miguel Ángel Asturias",
+          "country": "Guatemala",
+          "language": "Spanish",
+          "motivation": "for his vivid literary achievement, deep-rooted in the national traits and traditions of Indian peoples of Latin America",
+          "genre": [
+            "novel",
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "1966": {
+      "laureates": [
+        {
+          "name": "Shmuel Yosef Agnon",
+          "country": "Israel",
+          "language": "Hebrew",
+          "motivation": "for his profoundly characteristic narrative art with motifs from the life of the Jewish people",
+          "genre": [
+            "novel",
+            "short story"
+          ]
+        },
+        {
+          "name": "Nelly Sachs",
+          "country": "West Germany/Sweden",
+          "language": "German",
+          "motivation": "for her outstanding lyrical and dramatic writing, which interprets Israel's destiny with touching strength",
+          "genre": [
+            "poetry",
+            "drama"
+          ]
+        }
+      ]
+    },
+    "1965": {
+      "laureates": [
+        {
+          "name": "Mikhail Sholokhov",
+          "country": "Soviet Union",
+          "language": "Russian",
+          "motivation": "for the artistic power and integrity with which, in his epic of the Don, he has given expression to a historic phase in the life of the Russian people",
+          "genre": [
+            "novel"
+          ]
+        }
+      ]
+    },
+    "1964": {
+      "laureates": [
+        {
+          "name": "Jean-Paul Sartre",
+          "country": "France",
+          "language": "French",
+          "motivation": "for his work, which rich in ideas and filled with the spirit of freedom and the quest for truth, has exerted a far-reaching influence on our age",
+          "genre": [
+            "philosophy",
+            "novel",
+            "drama",
+            "essay",
+            "short story",
+            "screenplay"
+          ],
+          "notes": "Declined the prize"
+        }
+      ],
+      "notes": "Declined the prize"
+    },
+    "1963": {
+      "laureates": [
+        {
+          "name": "Giorgos Seferis",
+          "country": "Greece",
+          "language": "Greek",
+          "motivation": "for his eminent lyrical writing, inspired by a deep feeling for the Hellenic world of culture",
+          "genre": [
+            "poetry",
+            "essay",
+            "memoir"
+          ]
+        }
+      ]
+    },
+    "1962": {
+      "laureates": [
+        {
+          "name": "John Steinbeck",
+          "country": "United States",
+          "language": "English",
+          "motivation": "for his realistic and imaginative writings, combining as they do sympathetic humour and keen social perception",
+          "genre": [
+            "novel",
+            "short story",
+            "screenplay"
+          ]
+        }
+      ]
+    },
+    "1961": {
+      "laureates": [
+        {
+          "name": "Ivo Andrić",
+          "country": "Yugoslavia",
+          "language": "Serbo-Croatian",
+          "motivation": "for the epic force with which he has traced themes and depicted human destinies drawn from the history of his country",
+          "genre": [
+            "novel",
+            "short story"
+          ]
+        }
+      ]
+    },
+    "1960": {
+      "laureates": [
+        {
+          "name": "Saint-John Perse",
+          "country": "France",
+          "language": "French",
+          "motivation": "for the soaring flight and the evocative imagery of his poetry, which in a visionary fashion reflects the conditions of our time",
+          "genre": [
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "1959": {
+      "laureates": [
+        {
+          "name": "Salvatore Quasimodo",
+          "country": "Italy",
+          "language": "Italian",
+          "motivation": "for his lyrical poetry, which with classical fire expresses the tragic experience of life in our own times",
+          "genre": [
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "1958": {
+      "laureates": [
+        {
+          "name": "Boris Pasternak",
+          "country": "Soviet Union",
+          "language": "Russian",
+          "motivation": "for his important achievement both in contemporary lyrical poetry and in the field of the great Russian epic tradition",
+          "genre": [
+            "novel",
+            "poetry",
+            "translation"
+          ],
+          "notes": "Forced to decline by Soviet authorities"
+        }
+      ],
+      "notes": "Forced to decline by Soviet authorities"
+    },
+    "1957": {
+      "laureates": [
+        {
+          "name": "Albert Camus",
+          "country": "France (born in French Algeria)",
+          "language": "French",
+          "motivation": "for his important literary production, which with clear-sighted earnestness illuminates the problems of the human conscience in our times",
+          "genre": [
+            "novel",
+            "short story",
+            "drama",
+            "philosophy",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "1956": {
+      "laureates": [
+        {
+          "name": "Juan Ramón Jiménez",
+          "country": "Spain",
+          "language": "Spanish",
+          "motivation": "for his lyrical poetry, which in Spanish language constitutes an example of high spirit and artistical purity",
+          "genre": [
+            "poetry",
+            "novel"
+          ]
+        }
+      ]
+    },
+    "1955": {
+      "laureates": [
+        {
+          "name": "Halldór Laxness",
+          "country": "Iceland",
+          "language": "Icelandic",
+          "motivation": "for his vivid epic power, which has renewed the great narrative art of Iceland",
+          "genre": [
+            "novel",
+            "short story",
+            "drama",
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "1954": {
+      "laureates": [
+        {
+          "name": "Ernest Hemingway",
+          "country": "United States",
+          "language": "English",
+          "motivation": "for his mastery of the art of narrative, most recently demonstrated in The Old Man and the Sea, and for the influence that he has exerted on contemporary style",
+          "genre": [
+            "novel",
+            "short story",
+            "screenplay"
+          ]
+        }
+      ]
+    },
+    "1953": {
+      "laureates": [
+        {
+          "name": "Winston Churchill",
+          "country": "United Kingdom",
+          "language": "English",
+          "motivation": "for his mastery of historical and biographical description as well as for brilliant oratory in defending exalted human values",
+          "genre": [
+            "history",
+            "essay",
+            "memoir"
+          ]
+        }
+      ]
+    },
+    "1952": {
+      "laureates": [
+        {
+          "name": "François Mauriac",
+          "country": "France",
+          "language": "French",
+          "motivation": "for the deep spiritual insight and the artistic intensity with which he has in his novels penetrated the drama of human life",
+          "genre": [
+            "novel",
+            "short story"
+          ]
+        }
+      ]
+    },
+    "1951": {
+      "laureates": [
+        {
+          "name": "Pär Lagerkvist",
+          "country": "Sweden",
+          "language": "Swedish",
+          "motivation": "for the artistic vigour and true independence of mind with which he endeavours in his poetry to find answers to the eternal questions confronting mankind",
+          "genre": [
+            "poetry",
+            "novel",
+            "short story",
+            "drama"
+          ]
+        }
+      ]
+    },
+    "1950": {
+      "laureates": [
+        {
+          "name": "Bertrand Russell",
+          "country": "United Kingdom",
+          "language": "English",
+          "motivation": "in recognition of his varied and significant writings in which he champions humanitarian ideals and freedom of thought",
+          "genre": [
+            "philosophy",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "1949": {
+      "laureates": [
+        {
+          "name": "William Faulkner",
+          "country": "United States",
+          "language": "English",
+          "motivation": "for his powerful and artistically unique contribution to the modern American novel",
+          "genre": [
+            "novel",
+            "short story"
+          ]
+        }
+      ]
+    },
+    "1948": {
+      "laureates": [
+        {
+          "name": "T. S. Eliot",
+          "country": "United Kingdom (born in the United States)",
+          "language": "English",
+          "motivation": "for his outstanding, pioneer contribution to present-day poetry",
+          "genre": [
+            "poetry",
+            "essay",
+            "drama"
+          ]
+        }
+      ]
+    },
+    "1947": {
+      "laureates": [
+        {
+          "name": "André Gide",
+          "country": "France",
+          "language": "French",
+          "motivation": "for his comprehensive and artistically significant writings, in which human problems and conditions have been presented with a fearless love of truth and keen psychological insight",
+          "genre": [
+            "novel",
+            "essay",
+            "drama",
+            "memoir"
+          ]
+        }
+      ]
+    },
+    "1946": {
+      "laureates": [
+        {
+          "name": "Hermann Hesse",
+          "country": "Germany/Switzerland",
+          "language": "German",
+          "motivation": "for his inspired writings, which while growing in boldness and penetration, exemplify the classical humanitarian ideals and high qualities of style",
+          "genre": [
+            "novel",
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "1945": {
+      "laureates": [
+        {
+          "name": "Gabriela Mistral",
+          "country": "Chile",
+          "language": "Spanish",
+          "motivation": "for her lyric poetry, which inspired by powerful emotions, has made her name a symbol of the idealistic aspirations of the entire Latin American world",
+          "genre": [
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "1944": {
+      "laureates": [
+        {
+          "name": "Johannes V. Jensen",
+          "country": "Denmark",
+          "language": "Danish",
+          "motivation": "for the rare strength and fertility of his poetic imagination with which is combined an intellectual curiosity of wide scope and a bold, freshly creative style",
+          "genre": [
+            "novel",
+            "short story"
+          ]
+        }
+      ]
+    },
+    "1943": {
+      "laureates": [],
+      "notes": "No Nobel Prize in Literature was awarded this year due to World War II"
+    },
+    "1942": {
+      "laureates": [],
+      "notes": "No Nobel Prize in Literature was awarded this year due to World War II"
+    },
+    "1941": {
+      "laureates": [],
+      "notes": "No Nobel Prize in Literature was awarded this year due to World War II"
+    },
+    "1940": {
+      "laureates": [],
+      "notes": "No Nobel Prize in Literature was awarded this year due to World War II and the German occupation of Norway"
+    },
+    "1939": {
+      "laureates": [
+        {
+          "name": "Frans Eemil Sillanpää",
+          "country": "Finland",
+          "language": "Finnish",
+          "motivation": "for his deep understanding of his country's peasantry and the exquisite art with which he has portrayed their way of life and their relationship with Nature",
+          "genre": [
+            "novel"
+          ]
+        }
+      ]
+    },
+    "1938": {
+      "laureates": [
+        {
+          "name": "Pearl S. Buck",
+          "country": "United States",
+          "language": "English",
+          "motivation": "for her rich and truly epic descriptions of peasant life in China and for her biographical masterpieces",
+          "genre": [
+            "novel",
+            "biography"
+          ]
+        }
+      ]
+    },
+    "1937": {
+      "laureates": [
+        {
+          "name": "Roger Martin du Gard",
+          "country": "France",
+          "language": "French",
+          "motivation": "for the artistic power and truth with which he has depicted human conflict as well as some fundamental aspects of contemporary life in his novel cycle Les Thibault",
+          "genre": [
+            "novel"
+          ]
+        }
+      ]
+    },
+    "1936": {
+      "laureates": [
+        {
+          "name": "Eugene O'Neill",
+          "country": "United States",
+          "language": "English",
+          "motivation": "for the power, honesty and deep-felt emotions of his dramatic works, which embody an original concept of tragedy",
+          "genre": [
+            "drama"
+          ]
+        }
+      ]
+    },
+    "1935": {
+      "laureates": [],
+      "notes": "No Nobel Prize in Literature was awarded this year as no candidate was deemed suitable by the Swedish Academy"
+    },
+    "1934": {
+      "laureates": [
+        {
+          "name": "Luigi Pirandello",
+          "country": "Italy",
+          "language": "Italian",
+          "motivation": "for his bold and ingenious revival of dramatic and scenic art",
+          "genre": [
+            "drama",
+            "novel",
+            "short story"
+          ]
+        }
+      ]
+    },
+    "1933": {
+      "laureates": [
+        {
+          "name": "Ivan Bunin",
+          "country": "Stateless (born in Russian Empire)",
+          "language": "Russian",
+          "motivation": "for the strict artistry with which he has carried on the classical Russian traditions in prose writing",
+          "genre": [
+            "short story",
+            "poetry",
+            "novel"
+          ]
+        }
+      ]
+    },
+    "1932": {
+      "laureates": [
+        {
+          "name": "John Galsworthy",
+          "country": "United Kingdom",
+          "language": "English",
+          "motivation": "for his distinguished art of narration, which takes its highest form in The Forsyte Saga",
+          "genre": [
+            "novel"
+          ]
+        }
+      ]
+    },
+    "1931": {
+      "laureates": [
+        {
+          "name": "Erik Axel Karlfeldt",
+          "country": "Sweden",
+          "language": "Swedish",
+          "motivation": "The poetry of Erik Axel Karlfeldt",
+          "genre": [
+            "poetry"
+          ],
+          "notes": "Posthumous award"
+        }
+      ],
+      "notes": "Posthumous award"
+    },
+    "1930": {
+      "laureates": [
+        {
+          "name": "Sinclair Lewis",
+          "country": "United States",
+          "language": "English",
+          "motivation": "for his vigorous and graphic art of description and his ability to create, with wit and humour, new types of characters",
+          "genre": [
+            "novel",
+            "short story",
+            "drama"
+          ]
+        }
+      ]
+    },
+    "1929": {
+      "laureates": [
+        {
+          "name": "Thomas Mann",
+          "country": "Germany",
+          "language": "German",
+          "motivation": "principally for his great novel, Buddenbrooks, which has won steadily increased recognition as one of the classic works of contemporary literature",
+          "genre": [
+            "novel",
+            "short story",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "1928": {
+      "laureates": [
+        {
+          "name": "Sigrid Undset",
+          "country": "Norway/Denmark",
+          "language": "Norwegian",
+          "motivation": "principally for her powerful descriptions of Northern life during the Middle Ages",
+          "genre": [
+            "novel"
+          ]
+        }
+      ]
+    },
+    "1927": {
+      "laureates": [
+        {
+          "name": "Henri Bergson",
+          "country": "France",
+          "language": "French",
+          "motivation": "in recognition of his rich and vitalizing ideas and the brilliant skill with which they have been presented",
+          "genre": [
+            "philosophy"
+          ]
+        }
+      ]
+    },
+    "1926": {
+      "laureates": [
+        {
+          "name": "Grazia Deledda",
+          "country": "Italy",
+          "language": "Italian",
+          "motivation": "for her idealistically inspired writings, which with plastic clarity picture the life on her native island and with depth and sympathy deal with human problems in general",
+          "genre": [
+            "poetry",
+            "novel"
+          ]
+        }
+      ]
+    },
+    "1925": {
+      "laureates": [
+        {
+          "name": "George Bernard Shaw",
+          "country": "United Kingdom/Ireland",
+          "language": "English",
+          "motivation": "for his work which is marked by both idealism and humanity, its stimulating satire often being infused with a singular poetic beauty",
+          "genre": [
+            "drama",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "1924": {
+      "laureates": [
+        {
+          "name": "Władysław Reymont",
+          "country": "Poland",
+          "language": "Polish",
+          "motivation": "for his great national epic, The Peasants",
+          "genre": [
+            "novel"
+          ]
+        }
+      ]
+    },
+    "1923": {
+      "laureates": [
+        {
+          "name": "William Butler Yeats",
+          "country": "Ireland",
+          "language": "English",
+          "motivation": "for his always inspired poetry, which in a highly artistic form gives expression to the spirit of a whole nation",
+          "genre": [
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "1922": {
+      "laureates": [
+        {
+          "name": "Jacinto Benavente",
+          "country": "Spain",
+          "language": "Spanish",
+          "motivation": "for the happy manner in which he has continued the illustrious traditions of the Spanish drama",
+          "genre": [
+            "drama"
+          ]
+        }
+      ]
+    },
+    "1921": {
+      "laureates": [
+        {
+          "name": "Anatole France",
+          "country": "France",
+          "language": "French",
+          "motivation": "in recognition of his brilliant literary achievements, characterized as they are by a nobility of style, a profound human sympathy, grace, and a true Gallic temperament",
+          "genre": [
+            "novel",
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "1920": {
+      "laureates": [
+        {
+          "name": "Knut Hamsun",
+          "country": "Norway",
+          "language": "Norwegian",
+          "motivation": "for his monumental work, Growth of the Soil",
+          "genre": [
+            "novel"
+          ]
+        }
+      ]
+    },
+    "1919": {
+      "laureates": [
+        {
+          "name": "Carl Spitteler",
+          "country": "Switzerland",
+          "language": "German",
+          "motivation": "in special appreciation of his epic, Olympian Spring",
+          "genre": [
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "1918": {
+      "laureates": [],
+      "notes": "No Nobel Prize in Literature was awarded this year due to World War I"
+    },
+    "1917": {
+      "laureates": [
+        {
+          "name": "Karl Gjellerup",
+          "country": "Denmark",
+          "language": "Danish and German",
+          "motivation": "for his varied and rich poetry, which is inspired by lofty ideals",
+          "genre": [
+            "poetry"
+          ]
+        },
+        {
+          "name": "Henrik Pontoppidan",
+          "country": "Denmark",
+          "language": "Danish",
+          "motivation": "for his authentic descriptions of present-day life in Denmark",
+          "genre": [
+            "novel"
+          ]
+        }
+      ]
+    },
+    "1916": {
+      "laureates": [
+        {
+          "name": "Verner von Heidenstam",
+          "country": "Sweden",
+          "language": "Swedish",
+          "motivation": "in recognition of his significance as the leading representative of a new era in our literature",
+          "genre": [
+            "poetry",
+            "novel"
+          ]
+        }
+      ]
+    },
+    "1915": {
+      "laureates": [
+        {
+          "name": "Romain Rolland",
+          "country": "France",
+          "language": "French",
+          "motivation": "as a tribute to the lofty idealism of his literary production and to the sympathy and love of truth with which he has described different types of human beings",
+          "genre": [
+            "novel"
+          ]
+        }
+      ]
+    },
+    "1914": {
+      "laureates": [],
+      "notes": "No Nobel Prize in Literature was awarded this year due to World War I"
+    },
+    "1913": {
+      "laureates": [
+        {
+          "name": "Rabindranath Tagore",
+          "country": "India (British Raj)",
+          "language": "Bengali and English",
+          "motivation": "because of his profoundly sensitive, fresh and beautiful verse, by which, with consummate skill, he has made his poetic thought, expressed in his own English words, a part of the literature of the West",
+          "genre": [
+            "poetry",
+            "novel",
+            "drama",
+            "short story",
+            "essay",
+            "translation"
+          ]
+        }
+      ]
+    },
+    "1912": {
+      "laureates": [
+        {
+          "name": "Gerhart Hauptmann",
+          "country": "Germany",
+          "language": "German",
+          "motivation": "primarily in recognition of his fruitful, varied and outstanding production in the realm of dramatic art",
+          "genre": [
+            "drama",
+            "novel"
+          ]
+        }
+      ]
+    },
+    "1911": {
+      "laureates": [
+        {
+          "name": "Maurice Maeterlinck",
+          "country": "Belgium",
+          "language": "French",
+          "motivation": "in appreciation of his many-sided literary activities, and especially of his dramatic works, which are distinguished by a wealth of imagination and by a poetic fancy, which reveals, sometimes in the guise of a fairy tale, a deep inspiration, while in a mysterious way they appeal to the readers' own feelings and stimulate their imaginations",
+          "genre": [
+            "drama",
+            "poetry",
+            "essay"
+          ]
+        }
+      ]
+    },
+    "1910": {
+      "laureates": [
+        {
+          "name": "Paul Heyse",
+          "country": "Germany",
+          "language": "German",
+          "motivation": "as a tribute to the consummate artistry, permeated with idealism, which he has demonstrated during his long productive career as a lyric poet, dramatist, novelist and writer of world-renowned short stories",
+          "genre": [
+            "poetry",
+            "drama",
+            "novel",
+            "short story"
+          ]
+        }
+      ]
+    },
+    "1909": {
+      "laureates": [
+        {
+          "name": "Selma Lagerlöf",
+          "country": "Sweden",
+          "language": "Swedish",
+          "motivation": "in appreciation of the lofty idealism, vivid imagination and spiritual perception that characterize her writings",
+          "genre": [
+            "novel",
+            "short story"
+          ]
+        }
+      ]
+    },
+    "1908": {
+      "laureates": [
+        {
+          "name": "Rudolf Eucken",
+          "country": "Germany",
+          "language": "German",
+          "motivation": "in recognition of his earnest search for truth, his penetrating power of thought, his wide range of vision, and the warmth and strength in presentation with which in his numerous works he has vindicated and developed an idealistic philosophy of life",
+          "genre": [
+            "philosophy"
+          ]
+        }
+      ]
+    },
+    "1907": {
+      "laureates": [
+        {
+          "name": "Rudyard Kipling",
+          "country": "United Kingdom",
+          "language": "English",
+          "motivation": "in consideration of the power of observation, originality of imagination, virility of ideas and remarkable talent for narration that characterize the creations of this world-famous author",
+          "genre": [
+            "novel",
+            "short story",
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "1906": {
+      "laureates": [
+        {
+          "name": "Giosuè Carducci",
+          "country": "Italy",
+          "language": "Italian",
+          "motivation": "not only in consideration of his deep learning and critical research, but above all as a tribute to the creative energy, freshness of style, and lyrical force which characterize his poetic masterpieces",
+          "genre": [
+            "poetry"
+          ]
+        }
+      ]
+    },
+    "1905": {
+      "laureates": [
+        {
+          "name": "Henryk Sienkiewicz",
+          "country": "Poland",
+          "language": "Polish",
+          "motivation": "because of his outstanding merits as an epic writer",
+          "genre": [
+            "novel"
+          ]
+        }
+      ]
+    },
+    "1904": {
+      "laureates": [
+        {
+          "name": "Frédéric Mistral",
+          "country": "France",
+          "language": "Provençal",
+          "motivation": "in recognition of the fresh originality and true inspiration of his poetic production, which faithfully reflects the natural scenery and native spirit of his people, and, in addition, his significant work as a Provençal philologist",
+          "genre": [
+            "poetry",
+            "philology"
+          ]
+        },
+        {
+          "name": "José Echegaray",
+          "country": "Spain",
+          "language": "Spanish",
+          "motivation": "in recognition of the numerous and brilliant compositions which, in an individual and original manner, have revived the great traditions of the Spanish drama",
+          "genre": [
+            "drama"
+          ]
+        }
+      ]
+    },
+    "1903": {
+      "laureates": [
+        {
+          "name": "Bjørnstjerne Bjørnson",
+          "country": "Norway",
+          "language": "Norwegian",
+          "motivation": "as a tribute to his noble, magnificent and versatile poetry, which has always been distinguished by both the freshness of its inspiration and the rare purity of its spirit",
+          "genre": [
+            "poetry",
+            "novel",
+            "drama"
+          ]
+        }
+      ]
+    },
+    "1902": {
+      "laureates": [
+        {
+          "name": "Theodor Mommsen",
+          "country": "Germany",
+          "language": "German",
+          "motivation": "the greatest living master of the art of historical writing, with special reference to his monumental work A History of Rome",
+          "genre": [
+            "history",
+            "law"
+          ]
+        }
+      ]
+    },
+    "1901": {
+      "laureates": [
+        {
+          "name": "Sully Prudhomme",
+          "country": "France",
+          "language": "French",
+          "motivation": "in special recognition of his poetic composition, which gives evidence of lofty idealism, artistic perfection and a rare combination of the qualities of both heart and intellect",
+          "genre": [
+            "poetry",
+            "essay"
+          ]
+        }
+      ]
     }
+  },
+  "metadata": {
+    "created_date": "2024-11-07",
+    "version": "1.0",
+    "source": "Wikipedia - List of Nobel laureates in Literature",
+    "last_updated": "2025-10-14",
+    "notes": "Complete historical data from 1901-2025. Includes all 118 awards to 122 laureates."
+  }
 }
