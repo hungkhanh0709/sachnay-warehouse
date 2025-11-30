@@ -1,0 +1,1113 @@
+{
+    "award_info": {
+        "id": "us_hugo",
+        "name": "Hugo Award for Best Novel",
+        "name_vi": "Giải Hugo cho Tiểu thuyết Xuất sắc nhất",
+        "country": "United States",
+        "region": "International",
+        "scope": "international",
+        "established_year": 1953,
+        "frequency": "annual",
+        "language": "en",
+        "description": "The most prestigious award for science fiction and fantasy novels, presented at the annual World Science Fiction Convention (Worldcon)",
+        "description_vi": "Giải thưởng uy tín nhất cho tiểu thuyết khoa học viễn tưởng và fantasy, trao tại Hội nghị Khoa học Viễn tưởng Thế giới hàng năm",
+        "genres": [
+            "science_fiction",
+            "fantasy",
+            "speculative_fiction"
+        ],
+        "website": "http://www.thehugoawards.org/",
+        "voting_method": "instant-runoff voting by Worldcon members",
+        "minimum_word_count": 40000
+    },
+    "statistics": {
+        "total_years": 79,
+        "regular_hugos": {
+            "years_awarded": 71,
+            "years_not_awarded": 2,
+            "years_not_awarded_list": [
+                1954,
+                1957
+            ],
+            "total_winners": 74,
+            "total_finalists": 0
+        },
+        "combined_totals": {
+            "total_winners": 82,
+            "total_laureates": 82
+        },
+        "most_wins": {
+            "author": "Robert A. Heinlein",
+            "count": 6,
+            "notes": "4 regular Hugos (1956, 1960, 1962, 1967) + 2 Retro-Hugos (1943, 1951)"
+        },
+        "consecutive_wins_record": {
+            "author": "N. K. Jemisin",
+            "years": "2016-2018",
+            "count": 3
+        },
+        "most_finalist_appearances": {
+            "winner": {
+                "author": "Robert A. Heinlein",
+                "count": 12
+            },
+            "non_winner": {
+                "author": "Robert Silverberg",
+                "count": 9
+            }
+        },
+        "notable_facts": {
+            "first_translated_winner": {
+                "author": "Cixin Liu",
+                "work": "The Three-Body Problem",
+                "year": 2015,
+                "language": "Chinese"
+            },
+            "tied_winners": [
+                {
+                    "year": 1966,
+                    "winners": [
+                        "Frank Herbert - Dune",
+                        "Roger Zelazny - This Immortal"
+                    ]
+                },
+                {
+                    "year": 1993,
+                    "winners": [
+                        "Vernor Vinge - A Fire Upon the Deep",
+                        "Connie Willis - Doomsday Book"
+                    ]
+                },
+                {
+                    "year": 2010,
+                    "winners": [
+                        "Paolo Bacigalupi - The Windup Girl",
+                        "China Miéville - The City & the City"
+                    ]
+                }
+            ]
+        },
+        "total_winners": 82,
+        "total_laureates": 82,
+        "notes": {
+            "retro_hugos": "8 Retro-Hugo awards (1939, 1941, 1943-46, 1951, 1954) are included in laureates_by_year with is_retro flag",
+            "retro_hugo_years": [
+                1939,
+                1941,
+                1943,
+                1944,
+                1945,
+                1946,
+                1951,
+                1954
+            ]
+        }
+    },
+    "laureates_by_year": {
+        "2025": {
+            "laureates": [
+                {
+                    "name": "Robert Jackson Bennett",
+                    "work_title": "The Tainted Cup",
+                    "publisher": "Del Rey Books/Hodderscape",
+                    "genre": [
+                        "fantasy",
+                        "mystery"
+                    ]
+                }
+            ]
+        },
+        "2024": {
+            "laureates": [
+                {
+                    "name": "Emily Tesh",
+                    "work_title": "Some Desperate Glory",
+                    "publisher": "Tordotcom/Orbit Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "2023": {
+            "laureates": [
+                {
+                    "name": "Ursula Vernon (as T. Kingfisher)",
+                    "work_title": "Nettle & Bone",
+                    "publisher": "Tor Books",
+                    "genre": [
+                        "fantasy"
+                    ]
+                }
+            ]
+        },
+        "2022": {
+            "laureates": [
+                {
+                    "name": "Arkady Martine",
+                    "work_title": "A Desolation Called Peace",
+                    "publisher": "Tor Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "2021": {
+            "laureates": [
+                {
+                    "name": "Martha Wells",
+                    "work_title": "Network Effect",
+                    "publisher": "Tor.com Publishing",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "2020": {
+            "laureates": [
+                {
+                    "name": "Arkady Martine",
+                    "work_title": "A Memory Called Empire",
+                    "publisher": "Tor Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "2019": {
+            "laureates": [
+                {
+                    "name": "Mary Robinette Kowal",
+                    "work_title": "The Calculating Stars",
+                    "publisher": "Tor Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "2018": {
+            "laureates": [
+                {
+                    "name": "N. K. Jemisin",
+                    "work_title": "The Stone Sky",
+                    "publisher": "Orbit Books",
+                    "genre": [
+                        "fantasy"
+                    ],
+                    "notes": "Third consecutive Hugo win (2016-2018)"
+                }
+            ]
+        },
+        "2017": {
+            "laureates": [
+                {
+                    "name": "N. K. Jemisin",
+                    "work_title": "The Obelisk Gate",
+                    "publisher": "Orbit Books",
+                    "genre": [
+                        "fantasy"
+                    ],
+                    "notes": "Second consecutive Hugo win"
+                }
+            ]
+        },
+        "2016": {
+            "laureates": [
+                {
+                    "name": "N. K. Jemisin",
+                    "work_title": "The Fifth Season",
+                    "publisher": "Orbit Books",
+                    "genre": [
+                        "fantasy"
+                    ]
+                }
+            ]
+        },
+        "2015": {
+            "laureates": [
+                {
+                    "name": "Cixin Liu",
+                    "work_title": "The Three-Body Problem",
+                    "publisher": "Chongqing Press (original) / Tor Books (translation)",
+                    "genre": [
+                        "science_fiction"
+                    ],
+                    "original_language": "Chinese",
+                    "translator": "Ken Liu",
+                    "notes": "First translated work to win Hugo Best Novel"
+                }
+            ]
+        },
+        "2014": {
+            "laureates": [
+                {
+                    "name": "Ann Leckie",
+                    "work_title": "Ancillary Justice",
+                    "publisher": "Orbit Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "2013": {
+            "laureates": [
+                {
+                    "name": "John Scalzi",
+                    "work_title": "Redshirts",
+                    "publisher": "Tor Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "2012": {
+            "laureates": [
+                {
+                    "name": "Jo Walton",
+                    "work_title": "Among Others",
+                    "publisher": "Tor Books",
+                    "genre": [
+                        "fantasy"
+                    ]
+                }
+            ]
+        },
+        "2011": {
+            "laureates": [
+                {
+                    "name": "Connie Willis",
+                    "work_title": "Blackout/All Clear",
+                    "publisher": "Spectra Books",
+                    "genre": [
+                        "science_fiction",
+                        "time_travel"
+                    ]
+                }
+            ]
+        },
+        "2010": {
+            "laureates": [
+                {
+                    "name": "Paolo Bacigalupi",
+                    "work_title": "The Windup Girl",
+                    "publisher": "Night Shade Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                },
+                {
+                    "name": "China Miéville",
+                    "work_title": "The City & the City",
+                    "publisher": "Del Rey Books",
+                    "genre": [
+                        "fantasy",
+                        "mystery"
+                    ],
+                    "notes": "Tied winner"
+                }
+            ]
+        },
+        "2009": {
+            "laureates": [
+                {
+                    "name": "Neil Gaiman",
+                    "work_title": "The Graveyard Book",
+                    "publisher": "HarperCollins",
+                    "genre": [
+                        "fantasy"
+                    ]
+                }
+            ]
+        },
+        "2008": {
+            "laureates": [
+                {
+                    "name": "Michael Chabon",
+                    "work_title": "The Yiddish Policemen's Union",
+                    "publisher": "HarperCollins",
+                    "genre": [
+                        "science_fiction",
+                        "mystery"
+                    ]
+                }
+            ]
+        },
+        "2007": {
+            "laureates": [
+                {
+                    "name": "Vernor Vinge",
+                    "work_title": "Rainbows End",
+                    "publisher": "Tor Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "2006": {
+            "laureates": [
+                {
+                    "name": "Robert Charles Wilson",
+                    "work_title": "Spin",
+                    "publisher": "Tor Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "2005": {
+            "laureates": [
+                {
+                    "name": "Susanna Clarke",
+                    "work_title": "Jonathan Strange & Mr Norrell",
+                    "publisher": "Bloomsbury Publishing",
+                    "genre": [
+                        "fantasy"
+                    ]
+                }
+            ]
+        },
+        "2004": {
+            "laureates": [
+                {
+                    "name": "Lois McMaster Bujold",
+                    "work_title": "Paladin of Souls",
+                    "publisher": "Eos",
+                    "genre": [
+                        "fantasy"
+                    ]
+                }
+            ]
+        },
+        "2003": {
+            "laureates": [
+                {
+                    "name": "Robert J. Sawyer",
+                    "work_title": "Hominids",
+                    "publisher": "Analog Science Fiction and Fact",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "2002": {
+            "laureates": [
+                {
+                    "name": "Neil Gaiman",
+                    "work_title": "American Gods",
+                    "publisher": "William Morrow and Company",
+                    "genre": [
+                        "fantasy"
+                    ]
+                }
+            ]
+        },
+        "2001": {
+            "laureates": [
+                {
+                    "name": "J. K. Rowling",
+                    "work_title": "Harry Potter and the Goblet of Fire",
+                    "publisher": "Bloomsbury Publishing",
+                    "genre": [
+                        "fantasy"
+                    ]
+                }
+            ]
+        },
+        "2000": {
+            "laureates": [
+                {
+                    "name": "Vernor Vinge",
+                    "work_title": "A Deepness in the Sky",
+                    "publisher": "Tor Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1999": {
+            "laureates": [
+                {
+                    "name": "Connie Willis",
+                    "work_title": "To Say Nothing of the Dog",
+                    "publisher": "Bantam Spectra",
+                    "genre": [
+                        "science_fiction",
+                        "time_travel"
+                    ]
+                }
+            ]
+        },
+        "1998": {
+            "laureates": [
+                {
+                    "name": "Joe Haldeman",
+                    "work_title": "Forever Peace",
+                    "publisher": "Ace Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1997": {
+            "laureates": [
+                {
+                    "name": "Kim Stanley Robinson",
+                    "work_title": "Blue Mars",
+                    "publisher": "HarperCollins Voyager",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1996": {
+            "laureates": [
+                {
+                    "name": "Neal Stephenson",
+                    "work_title": "The Diamond Age",
+                    "publisher": "Bantam Spectra",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1995": {
+            "laureates": [
+                {
+                    "name": "Lois McMaster Bujold",
+                    "work_title": "Mirror Dance",
+                    "publisher": "Baen Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1994": {
+            "laureates": [
+                {
+                    "name": "Kim Stanley Robinson",
+                    "work_title": "Green Mars",
+                    "publisher": "HarperCollins",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1993": {
+            "laureates": [
+                {
+                    "name": "Vernor Vinge",
+                    "work_title": "A Fire Upon the Deep",
+                    "publisher": "Tor Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                },
+                {
+                    "name": "Connie Willis",
+                    "work_title": "Doomsday Book",
+                    "publisher": "Bantam Spectra",
+                    "genre": [
+                        "science_fiction",
+                        "time_travel"
+                    ],
+                    "notes": "Tied winner"
+                }
+            ]
+        },
+        "1992": {
+            "laureates": [
+                {
+                    "name": "Lois McMaster Bujold",
+                    "work_title": "Barrayar",
+                    "publisher": "Analog Science Fact & Fiction",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1991": {
+            "laureates": [
+                {
+                    "name": "Lois McMaster Bujold",
+                    "work_title": "The Vor Game",
+                    "publisher": "Baen Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1990": {
+            "laureates": [
+                {
+                    "name": "Dan Simmons",
+                    "work_title": "Hyperion",
+                    "publisher": "Doubleday",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1989": {
+            "laureates": [
+                {
+                    "name": "C. J. Cherryh",
+                    "work_title": "Cyteen",
+                    "publisher": "Warner Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1988": {
+            "laureates": [
+                {
+                    "name": "David Brin",
+                    "work_title": "The Uplift War",
+                    "publisher": "Bantam Spectra",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1987": {
+            "laureates": [
+                {
+                    "name": "Orson Scott Card",
+                    "work_title": "Speaker for the Dead",
+                    "publisher": "Tor Books",
+                    "genre": [
+                        "science_fiction"
+                    ],
+                    "notes": "Second consecutive Hugo win (1986-1987)"
+                }
+            ]
+        },
+        "1986": {
+            "laureates": [
+                {
+                    "name": "Orson Scott Card",
+                    "work_title": "Ender's Game",
+                    "publisher": "Tor Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1985": {
+            "laureates": [
+                {
+                    "name": "William Gibson",
+                    "work_title": "Neuromancer",
+                    "publisher": "Ace Books",
+                    "genre": [
+                        "science_fiction",
+                        "cyberpunk"
+                    ]
+                }
+            ]
+        },
+        "1984": {
+            "laureates": [
+                {
+                    "name": "David Brin",
+                    "work_title": "Startide Rising",
+                    "publisher": "Bantam Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1983": {
+            "laureates": [
+                {
+                    "name": "Isaac Asimov",
+                    "work_title": "Foundation's Edge",
+                    "publisher": "Doubleday",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1982": {
+            "laureates": [
+                {
+                    "name": "C. J. Cherryh",
+                    "work_title": "Downbelow Station",
+                    "publisher": "DAW Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1981": {
+            "laureates": [
+                {
+                    "name": "Joan D. Vinge",
+                    "work_title": "The Snow Queen",
+                    "publisher": "Dial Press",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1980": {
+            "laureates": [
+                {
+                    "name": "Arthur C. Clarke",
+                    "work_title": "The Fountains of Paradise",
+                    "publisher": "Victor Gollancz Ltd",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1979": {
+            "laureates": [
+                {
+                    "name": "Vonda N. McIntyre",
+                    "work_title": "Dreamsnake",
+                    "publisher": "Houghton Mifflin",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1978": {
+            "laureates": [
+                {
+                    "name": "Frederik Pohl",
+                    "work_title": "Gateway",
+                    "publisher": "Galaxy Science Fiction",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1977": {
+            "laureates": [
+                {
+                    "name": "Kate Wilhelm",
+                    "work_title": "Where Late the Sweet Birds Sang",
+                    "publisher": "Harper & Row",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1976": {
+            "laureates": [
+                {
+                    "name": "Joe Haldeman",
+                    "work_title": "The Forever War",
+                    "publisher": "St. Martin's Press",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1975": {
+            "laureates": [
+                {
+                    "name": "Ursula K. Le Guin",
+                    "work_title": "The Dispossessed",
+                    "publisher": "Harper & Row",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1974": {
+            "laureates": [
+                {
+                    "name": "Arthur C. Clarke",
+                    "work_title": "Rendezvous with Rama",
+                    "publisher": "Galaxy Science Fiction",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1973": {
+            "laureates": [
+                {
+                    "name": "Isaac Asimov",
+                    "work_title": "The Gods Themselves",
+                    "publisher": "Galaxy Science Fiction",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1972": {
+            "laureates": [
+                {
+                    "name": "Philip José Farmer",
+                    "work_title": "To Your Scattered Bodies Go",
+                    "publisher": "Putnam Publishing Group",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1971": {
+            "laureates": [
+                {
+                    "name": "Larry Niven",
+                    "work_title": "Ringworld",
+                    "publisher": "Ballantine Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1970": {
+            "laureates": [
+                {
+                    "name": "Ursula K. Le Guin",
+                    "work_title": "The Left Hand of Darkness",
+                    "publisher": "Ace Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1969": {
+            "laureates": [
+                {
+                    "name": "John Brunner",
+                    "work_title": "Stand on Zanzibar",
+                    "publisher": "Doubleday",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1968": {
+            "laureates": [
+                {
+                    "name": "Roger Zelazny",
+                    "work_title": "Lord of Light",
+                    "publisher": "Doubleday",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1967": {
+            "laureates": [
+                {
+                    "name": "Robert A. Heinlein",
+                    "work_title": "The Moon Is a Harsh Mistress",
+                    "publisher": "If",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1966": {
+            "laureates": [
+                {
+                    "name": "Frank Herbert",
+                    "work_title": "Dune",
+                    "publisher": "Chilton Company",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                },
+                {
+                    "name": "Roger Zelazny",
+                    "work_title": "...And Call Me Conrad (This Immortal)",
+                    "publisher": "The Magazine of Fantasy & Science Fiction",
+                    "genre": [
+                        "science_fiction"
+                    ],
+                    "notes": "Tied winner"
+                }
+            ]
+        },
+        "1965": {
+            "laureates": [
+                {
+                    "name": "Fritz Leiber",
+                    "work_title": "The Wanderer",
+                    "publisher": "Ballantine Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1964": {
+            "laureates": [
+                {
+                    "name": "Clifford D. Simak",
+                    "work_title": "Here Gather the Stars (Way Station)",
+                    "publisher": "Galaxy Science Fiction",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1963": {
+            "laureates": [
+                {
+                    "name": "Philip K. Dick",
+                    "work_title": "The Man in the High Castle",
+                    "publisher": "Putnam Publishing Group",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1962": {
+            "laureates": [
+                {
+                    "name": "Robert A. Heinlein",
+                    "work_title": "Stranger in a Strange Land",
+                    "publisher": "Putnam Publishing Group",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1961": {
+            "laureates": [
+                {
+                    "name": "Walter M. Miller, Jr.",
+                    "work_title": "A Canticle for Leibowitz",
+                    "publisher": "J. B. Lippincott & Co.",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1960": {
+            "laureates": [
+                {
+                    "name": "Robert A. Heinlein",
+                    "work_title": "Starship Troopers",
+                    "publisher": "The Magazine of Fantasy & Science Fiction",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1959": {
+            "laureates": [
+                {
+                    "name": "James Blish",
+                    "work_title": "A Case of Conscience",
+                    "publisher": "Ballantine Books",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1958": {
+            "laureates": [
+                {
+                    "name": "Fritz Leiber",
+                    "work_title": "The Big Time",
+                    "publisher": "Galaxy Science Fiction",
+                    "genre": [
+                        "science_fiction"
+                    ],
+                    "notes": "Award was for Best Novel or Novelette"
+                }
+            ]
+        },
+        "1956": {
+            "laureates": [
+                {
+                    "name": "Robert A. Heinlein",
+                    "work_title": "Double Star",
+                    "publisher": "Astounding Science-Fiction",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1955": {
+            "laureates": [
+                {
+                    "name": "Mark Clifton & Frank Riley",
+                    "work_title": "They'd Rather Be Right (The Forever Machine)",
+                    "publisher": "Astounding Science-Fiction",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1953": {
+            "laureates": [
+                {
+                    "name": "Alfred Bester",
+                    "work_title": "The Demolished Man",
+                    "publisher": "Galaxy Science Fiction",
+                    "genre": [
+                        "science_fiction"
+                    ]
+                }
+            ]
+        },
+        "1954": {
+            "laureates": [
+                {
+                    "name": "Ray Bradbury",
+                    "work_title": "Fahrenheit 451",
+                    "publisher": "Ballantine Books",
+                    "genre": [
+                        "science_fiction"
+                    ],
+                    "is_retro": true,
+                    "retro_awarded_year": 2004
+                }
+            ]
+        },
+        "1951": {
+            "laureates": [
+                {
+                    "name": "Robert A. Heinlein",
+                    "work_title": "Farmer in the Sky",
+                    "publisher": "Boys' Life",
+                    "genre": [
+                        "science_fiction"
+                    ],
+                    "is_retro": true,
+                    "retro_awarded_year": 2001
+                }
+            ]
+        },
+        "1946": {
+            "laureates": [
+                {
+                    "name": "Isaac Asimov",
+                    "work_title": "The Mule",
+                    "publisher": "Astounding Science-Fiction",
+                    "genre": [
+                        "science_fiction"
+                    ],
+                    "is_retro": true,
+                    "retro_awarded_year": 1996
+                }
+            ]
+        },
+        "1945": {
+            "laureates": [
+                {
+                    "name": "Leigh Brackett",
+                    "work_title": "Shadow Over Mars (The Nemesis from Terra)",
+                    "publisher": "Startling Stories",
+                    "genre": [
+                        "science_fiction"
+                    ],
+                    "is_retro": true,
+                    "retro_awarded_year": 2020
+                }
+            ]
+        },
+        "1944": {
+            "laureates": [
+                {
+                    "name": "Fritz Leiber",
+                    "work_title": "Conjure Wife",
+                    "publisher": "Unknown Worlds",
+                    "genre": [
+                        "fantasy"
+                    ],
+                    "is_retro": true,
+                    "retro_awarded_year": 2019
+                }
+            ]
+        },
+        "1943": {
+            "laureates": [
+                {
+                    "name": "Robert A. Heinlein (as Anson MacDonald)",
+                    "work_title": "Beyond This Horizon",
+                    "publisher": "Astounding Science Fiction",
+                    "genre": [
+                        "science_fiction"
+                    ],
+                    "is_retro": true,
+                    "retro_awarded_year": 2018
+                }
+            ]
+        },
+        "1941": {
+            "laureates": [
+                {
+                    "name": "A. E. van Vogt",
+                    "work_title": "Slan",
+                    "publisher": "Astounding Science Fiction",
+                    "genre": [
+                        "science_fiction"
+                    ],
+                    "is_retro": true,
+                    "retro_awarded_year": 2016
+                }
+            ]
+        },
+        "1939": {
+            "laureates": [
+                {
+                    "name": "T. H. White",
+                    "work_title": "The Sword in the Stone",
+                    "publisher": "William Collins, Sons",
+                    "genre": [
+                        "fantasy"
+                    ],
+                    "is_retro": true,
+                    "retro_awarded_year": 2014
+                }
+            ]
+        }
+    }
+}

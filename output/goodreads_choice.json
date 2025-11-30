@@ -1,0 +1,1878 @@
+{
+    "award_info": {
+        "id": "intl_goodreads_choice",
+        "name": "Giải Goodreads Choice",
+        "name_en": "Goodreads Choice Awards",
+        "established_year": 2009,
+        "awarding_body": "Goodreads (Amazon)",
+        "country": "United States",
+        "scope": "international",
+        "total_years": 16,
+        "description": "Giải thưởng do độc giả bình chọn trên nền tảng Goodreads, phản ánh xu hướng đọc sách đại chúng",
+        "voting_method": "Reader voting (crowd-sourced)",
+        "categories_note": "Categories vary by year, typically 15-20 categories including Fiction, Fantasy, Romance, Mystery, Young Adult, etc.",
+        "website": "https://www.goodreads.com/choiceawards"
+    },
+    "statistics": {
+        "years_awarded": 16,
+        "total_categories": 45,
+        "most_wins_author": "Rick Riordan (11 wins)",
+        "most_wins_category": "Children's & Middle Grade"
+    },
+    "laureates_by_year": {
+        "2024": {
+            "categories": {
+                "fiction": {
+                    "author": "Alison Espach",
+                    "book": "The Wedding People",
+                    "publisher": null,
+                    "notes": null
+                },
+                "fantasy": {
+                    "author": "T.J. Klune",
+                    "book": "Somewhere Beyond the Sea",
+                    "publisher": null,
+                    "notes": null
+                },
+                "mystery_thriller": {
+                    "author": "Liz Moore",
+                    "book": "The God of the Woods",
+                    "publisher": null,
+                    "notes": null
+                },
+                "romance": {
+                    "author": "Emily Henry",
+                    "book": "Funny Story",
+                    "publisher": null,
+                    "notes": null
+                },
+                "romantasy": {
+                    "author": "Sarah J. Maas",
+                    "book": "House of Flame and Shadow",
+                    "publisher": null,
+                    "notes": null
+                },
+                "historical_fiction": {
+                    "author": "Kristin Hannah",
+                    "book": "The Women",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_fiction": {
+                    "author": "Kaliane Bradley",
+                    "book": "The Ministry of Time",
+                    "publisher": null,
+                    "notes": null
+                },
+                "horror": {
+                    "author": "Stephen King",
+                    "book": "You Like It Darker",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fantasy": {
+                    "author": "Rebecca Ross",
+                    "book": "Ruthless Vows",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fiction": {
+                    "author": "Alice Oseman",
+                    "book": "Heartstopper: Volume Five",
+                    "publisher": null,
+                    "notes": null
+                },
+                "debut_novel": {
+                    "author": "Yulin Kuang",
+                    "book": "How to End a Love Story",
+                    "publisher": null,
+                    "notes": null
+                },
+                "memoir": {
+                    "author": "Kelly Bishop",
+                    "book": "The Third Gilmore Girl: A Memoir",
+                    "publisher": null,
+                    "notes": null
+                },
+                "nonfiction": {
+                    "author": "Jonathon Haidt",
+                    "book": "The Anxious Generation: How the Great Rewiring of Childhood Caused an Epidemic of Mental Illness",
+                    "publisher": null,
+                    "notes": null
+                },
+                "history_biography": {
+                    "author": "Evan Friss",
+                    "book": "The Bookshop: A History of the American Bookstore",
+                    "publisher": null,
+                    "notes": null
+                },
+                "audiobook": {
+                    "author": "Emily Henry",
+                    "narrator": "Julia Whelan",
+                    "book": "Funny Story",
+                    "publisher": null,
+                    "notes": "First year with Audiobook category"
+                }
+            }
+        },
+        "2023": {
+            "categories": {
+                "fiction": {
+                    "author": "R. F. Kuang",
+                    "book": "Yellowface",
+                    "publisher": null,
+                    "notes": null
+                },
+                "fantasy": {
+                    "author": "Leigh Bardugo",
+                    "book": "Hell Bent",
+                    "publisher": null,
+                    "notes": null
+                },
+                "mystery_thriller": {
+                    "author": "Freida McFadden",
+                    "book": "The Housemaid's Secret",
+                    "publisher": null,
+                    "notes": null
+                },
+                "romance": {
+                    "author": "Emily Henry",
+                    "book": "Happy Place",
+                    "publisher": null,
+                    "notes": null
+                },
+                "romantasy": {
+                    "author": "Rebecca Yarros",
+                    "book": "Fourth Wing",
+                    "publisher": null,
+                    "notes": "First year with Romantasy category"
+                },
+                "historical_fiction": {
+                    "author": "Emilia Hart",
+                    "book": "Weyward",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_fiction": {
+                    "author": "TJ Klune",
+                    "book": "In the Lives of Puppets",
+                    "publisher": null,
+                    "notes": null
+                },
+                "horror": {
+                    "author": "Stephen King",
+                    "book": "Holly",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fantasy": {
+                    "author": "Rebecca Ross",
+                    "book": "Divine Rivals",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fiction": {
+                    "author": "Ali Hazelwood",
+                    "book": "Check & Mate",
+                    "publisher": null,
+                    "notes": null
+                },
+                "debut_novel": {
+                    "author": "Emilia Hart",
+                    "book": "Weyward",
+                    "publisher": null,
+                    "notes": "Also won Historical Fiction"
+                },
+                "memoir_autobiography": {
+                    "author": "Britney Spears",
+                    "book": "The Woman in Me",
+                    "publisher": null,
+                    "notes": null
+                },
+                "nonfiction": {
+                    "author": "Matthew Desmond",
+                    "book": "Poverty, by America",
+                    "publisher": null,
+                    "notes": null
+                },
+                "history_biography": {
+                    "author": "David Grann",
+                    "book": "The Wager: A Tale of Shipwreck, Mutiny and Murder",
+                    "publisher": null,
+                    "notes": null
+                },
+                "humor": {
+                    "author": "Henry Winkler",
+                    "book": "Being Henry: The Fonz . . . and Beyond",
+                    "publisher": null,
+                    "notes": null
+                }
+            }
+        },
+        "2022": {
+            "categories": {
+                "fiction": {
+                    "author": "Gabrielle Zevin",
+                    "book": "Tomorrow, and Tomorrow, and Tomorrow",
+                    "publisher": null,
+                    "notes": null
+                },
+                "fantasy": {
+                    "author": "Sarah J. Maas",
+                    "book": "House of Sky and Breath",
+                    "publisher": null,
+                    "notes": null
+                },
+                "mystery_thriller": {
+                    "author": "Nita Prose",
+                    "book": "The Maid",
+                    "publisher": null,
+                    "notes": null
+                },
+                "romance": {
+                    "author": "Emily Henry",
+                    "book": "Book Lovers",
+                    "publisher": null,
+                    "notes": null
+                },
+                "historical_fiction": {
+                    "author": "Taylor Jenkins Reid",
+                    "book": "Carrie Soto Is Back",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_fiction": {
+                    "author": "Emily St. John Mandel",
+                    "book": "Sea of Tranquility",
+                    "publisher": null,
+                    "notes": null
+                },
+                "horror": {
+                    "author": "Jason Rekulak",
+                    "book": "Hidden Pictures",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fantasy": {
+                    "author": "V. E. Schwab",
+                    "book": "Gallant",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fiction": {
+                    "author": "Jennifer Lynn Barnes",
+                    "book": "The Final Gambit",
+                    "publisher": null,
+                    "notes": null
+                },
+                "debut_novel": {
+                    "author": "Bonnie Garmus",
+                    "book": "Lessons in Chemistry",
+                    "publisher": null,
+                    "notes": null
+                },
+                "memoir_autobiography": {
+                    "author": "Jennette McCurdy",
+                    "book": "I'm Glad My Mom Died",
+                    "publisher": null,
+                    "notes": null
+                },
+                "nonfiction": {
+                    "author": "Brené Brown",
+                    "book": "Atlas of the Heart",
+                    "publisher": null,
+                    "notes": null
+                },
+                "poetry": {
+                    "author": "Amanda Gorman",
+                    "book": "Call Us What We Carry",
+                    "publisher": null,
+                    "notes": null
+                },
+                "history_biography": {
+                    "author": "Huw Lemmey",
+                    "book": "Bad Gays: A Homosexual History",
+                    "publisher": null,
+                    "notes": null
+                },
+                "humor": {
+                    "author": "Jenna Fischer and Angela Kinsey",
+                    "book": "The Office BFFs",
+                    "publisher": null,
+                    "notes": null
+                },
+                "graphic_novel_comics": {
+                    "author": "Alice Oseman",
+                    "book": "Heartstopper, Volume Four",
+                    "publisher": null,
+                    "notes": null
+                },
+                "children_middle_grade": {
+                    "author": "Andie Powers",
+                    "book": "I Am Quiet",
+                    "publisher": null,
+                    "notes": null
+                }
+            }
+        },
+        "2021": {
+            "categories": {
+                "fiction": {
+                    "author": "Sally Rooney",
+                    "book": "Beautiful World, Where Are You",
+                    "publisher": null,
+                    "notes": null
+                },
+                "fantasy": {
+                    "author": "Sarah J. Maas",
+                    "book": "A Court of Silver Flames",
+                    "publisher": null,
+                    "notes": null
+                },
+                "mystery_thriller": {
+                    "author": "Laura Dave",
+                    "book": "The Last Thing He Told Me",
+                    "publisher": null,
+                    "notes": null
+                },
+                "romance": {
+                    "author": "Emily Henry",
+                    "book": "People We Meet on Vacation",
+                    "publisher": null,
+                    "notes": null
+                },
+                "historical_fiction": {
+                    "author": "Taylor Jenkins Reid",
+                    "book": "Malibu Rising",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_fiction": {
+                    "author": "Andy Weir",
+                    "book": "Project Hail Mary",
+                    "publisher": null,
+                    "notes": null
+                },
+                "horror": {
+                    "author": "Grady Hendrix",
+                    "book": "The Final Girl Support Group",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fantasy": {
+                    "author": "Leigh Bardugo",
+                    "book": "Rule of Wolves",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fiction": {
+                    "author": "Angeline Boulley",
+                    "book": "Firekeeper's Daughter",
+                    "publisher": null,
+                    "notes": null
+                },
+                "debut_novel": {
+                    "author": "Elena Armas",
+                    "book": "The Spanish Love Deception",
+                    "publisher": null,
+                    "notes": null
+                },
+                "memoir_autobiography": {
+                    "author": "Michelle Zauner",
+                    "book": "Crying in H Mart",
+                    "publisher": null,
+                    "notes": null
+                },
+                "nonfiction": {
+                    "author": "John Green",
+                    "book": "The Anthropocene Reviewed: Essays on a Human-Centered Planet",
+                    "publisher": null,
+                    "notes": null
+                },
+                "poetry": {
+                    "author": "Amanda Gorman",
+                    "book": "The Hill We Climb",
+                    "publisher": null,
+                    "notes": null
+                },
+                "history_biography": {
+                    "author": "Patrick Radden Keefe",
+                    "book": "Empire of Pain: The Secret History of the Sackler Dynasty",
+                    "publisher": null,
+                    "notes": null
+                },
+                "humor": {
+                    "author": "Jenny Lawson",
+                    "book": "Broken (in the Best Possible Way)",
+                    "publisher": null,
+                    "notes": null
+                },
+                "graphic_novel_comics": {
+                    "author": "Rachel Smythe",
+                    "book": "Lore Olympus",
+                    "publisher": null,
+                    "notes": null
+                },
+                "children_middle_grade": {
+                    "author": "Rick Riordan",
+                    "book": "Daughter of the Deep",
+                    "publisher": null,
+                    "notes": "Rick Riordan's 11th consecutive win in this category"
+                }
+            }
+        },
+        "2020": {
+            "categories": {
+                "fiction": {
+                    "author": "Matt Haig",
+                    "book": "The Midnight Library",
+                    "publisher": null,
+                    "notes": null
+                },
+                "fantasy": {
+                    "author": "Sarah J. Maas",
+                    "book": "House of Earth and Blood",
+                    "publisher": null,
+                    "notes": null
+                },
+                "mystery_thriller": {
+                    "author": "Lucy Foley",
+                    "book": "The Guest List",
+                    "publisher": null,
+                    "notes": null
+                },
+                "romance": {
+                    "author": "Jennifer L. Armentrout",
+                    "book": "From Blood & Ash",
+                    "publisher": null,
+                    "notes": null
+                },
+                "historical_fiction": {
+                    "author": "Brit Bennett",
+                    "book": "The Vanishing Half",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_fiction": {
+                    "author": "Christopher Paolini",
+                    "book": "To Sleep in a Sea of Stars",
+                    "publisher": null,
+                    "notes": null
+                },
+                "horror": {
+                    "author": "Silvia Moreno-Garcia",
+                    "book": "Mexican Gothic",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fantasy": {
+                    "author": "Holly Black",
+                    "book": "The Queen of Nothing",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fiction": {
+                    "author": "Elizabeth Acevedo",
+                    "book": "Clap When You Land",
+                    "publisher": null,
+                    "notes": null
+                },
+                "debut_novel": {
+                    "author": "Kiley Reid",
+                    "book": "Such a Fun Age",
+                    "publisher": null,
+                    "notes": null
+                },
+                "memoir_autobiography": {
+                    "author": "Barack Obama",
+                    "book": "A Promised Land",
+                    "publisher": null,
+                    "notes": null
+                },
+                "nonfiction": {
+                    "author": "Jason Reynolds and Ibram X. Kendi",
+                    "book": "Stamped: Racism, Antiracism, & You",
+                    "publisher": null,
+                    "notes": null
+                },
+                "poetry": {
+                    "author": "Margaret Atwood",
+                    "book": "Dearly: New Poems",
+                    "publisher": null,
+                    "notes": null
+                },
+                "history_biography": {
+                    "author": "Isabel Wilkerson",
+                    "book": "Caste: The Origins of Our Discontents",
+                    "publisher": null,
+                    "notes": null
+                },
+                "humor": {
+                    "author": "Nathan W. Pyle",
+                    "book": "Strange Planet",
+                    "publisher": null,
+                    "notes": null
+                },
+                "graphic_novel_comics": {
+                    "author": "Alice Oseman",
+                    "book": "Heartstopper, Volume Three",
+                    "publisher": null,
+                    "notes": null
+                },
+                "children_middle_grade": {
+                    "author": "Rick Riordan",
+                    "book": "The Tower of Nero",
+                    "publisher": null,
+                    "notes": null
+                },
+                "picture_book": {
+                    "author": "Ibram X. Kendi and Ashley Lukashevsky",
+                    "book": "Antiracist Baby",
+                    "publisher": null,
+                    "notes": null
+                },
+                "food_cooking": {
+                    "author": "Ina Garten",
+                    "book": "Modern Comfort Food: A Barefoot Contessa Cookbook",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_technology": {
+                    "author": "David Attenborough and Jonnie Hughes",
+                    "book": "A Life on Our Planet: My Witness Statement and a Vision for the Future",
+                    "publisher": null,
+                    "notes": null
+                }
+            }
+        },
+        "2019": {
+            "categories": {
+                "fiction": {
+                    "author": "Margaret Atwood",
+                    "book": "The Testaments",
+                    "publisher": null,
+                    "notes": "Sequel to The Handmaid's Tale, also won Booker Prize"
+                },
+                "fantasy": {
+                    "author": "Leigh Bardugo",
+                    "book": "Ninth House",
+                    "publisher": null,
+                    "notes": null
+                },
+                "mystery_thriller": {
+                    "author": "Alex Michaelides",
+                    "book": "The Silent Patient",
+                    "publisher": null,
+                    "notes": null
+                },
+                "romance": {
+                    "author": "Casey McQuiston",
+                    "book": "Red, White & Royal Blue",
+                    "publisher": null,
+                    "notes": "Also won Debut Novel"
+                },
+                "historical_fiction": {
+                    "author": "Taylor Jenkins Reid",
+                    "book": "Daisy Jones & The Six",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_fiction": {
+                    "author": "Blake Crouch",
+                    "book": "Recursion",
+                    "publisher": null,
+                    "notes": null
+                },
+                "horror": {
+                    "author": "Stephen King",
+                    "book": "The Institute",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fantasy": {
+                    "author": "Holly Black",
+                    "book": "The Wicked King",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fiction": {
+                    "author": "Rachael Lippincott",
+                    "book": "Five Feet Apart",
+                    "publisher": null,
+                    "notes": null
+                },
+                "debut_novel": {
+                    "author": "Casey McQuiston",
+                    "book": "Red, White & Royal Blue",
+                    "publisher": null,
+                    "notes": "Also won Romance"
+                },
+                "memoir_autobiography": {
+                    "author": "Jonathan Van Ness",
+                    "book": "Over the Top",
+                    "publisher": null,
+                    "notes": null
+                },
+                "nonfiction": {
+                    "author": "Rachel Hollis",
+                    "book": "Girl, Stop Apologizing",
+                    "publisher": null,
+                    "notes": null
+                },
+                "poetry": {
+                    "author": "Laurie Halse Anderson",
+                    "book": "Shout",
+                    "publisher": null,
+                    "notes": null
+                },
+                "history_biography": {
+                    "author": "Hallie Rubenhold",
+                    "book": "The Five",
+                    "publisher": null,
+                    "notes": null
+                },
+                "humor": {
+                    "author": "Ali Wong",
+                    "book": "Dear Girls",
+                    "publisher": null,
+                    "notes": null
+                },
+                "graphic_novel_comics": {
+                    "author": "Rainbow Rowell and Faith Erin Hicks",
+                    "book": "Pumpkin Heads",
+                    "publisher": null,
+                    "notes": null
+                },
+                "children_middle_grade": {
+                    "author": "Rick Riordan",
+                    "book": "The Tyrant's Tomb",
+                    "publisher": null,
+                    "notes": null
+                },
+                "picture_book": {
+                    "author": "Fred Rogers and Luke Flowers",
+                    "book": "A Beautiful Day in the Neighborhood",
+                    "publisher": null,
+                    "notes": null
+                },
+                "food_cooking": {
+                    "author": "Antoni Porowski",
+                    "book": "Antoni in the Kitchen",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_technology": {
+                    "author": "Caitlin Doughty",
+                    "book": "Will My Cats Eat My Eyeballs?",
+                    "publisher": null,
+                    "notes": null
+                }
+            }
+        },
+        "2018": {
+            "categories": {
+                "fiction": {
+                    "author": "Jojo Moyes",
+                    "book": "Still Me",
+                    "publisher": null,
+                    "notes": null
+                },
+                "fantasy": {
+                    "author": "Madeline Miller",
+                    "book": "Circe",
+                    "publisher": null,
+                    "notes": null
+                },
+                "mystery_thriller": {
+                    "author": "Stephen King",
+                    "book": "The Outsider",
+                    "publisher": null,
+                    "notes": null
+                },
+                "romance": {
+                    "author": "Helen Hoang",
+                    "book": "The Kiss Quotient",
+                    "publisher": null,
+                    "notes": null
+                },
+                "historical_fiction": {
+                    "author": "Kristin Hannah",
+                    "book": "The Great Alone",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_fiction": {
+                    "author": "VE Schwab",
+                    "book": "Vengeful",
+                    "publisher": null,
+                    "notes": null
+                },
+                "horror": {
+                    "author": "Stephen King",
+                    "book": "Elevation",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fantasy": {
+                    "author": "Sarah J. Maas",
+                    "book": "Kingdom of Ash",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fiction": {
+                    "author": "Becky Albertalli",
+                    "book": "Leah on the Offbeat",
+                    "publisher": null,
+                    "notes": null
+                },
+                "debut_author": {
+                    "author": "Tomi Adeyemi",
+                    "book": "Children of Blood and Bone",
+                    "publisher": null,
+                    "notes": null
+                },
+                "memoir_autobiography": {
+                    "author": "Tara Westover",
+                    "book": "Educated",
+                    "publisher": null,
+                    "notes": null
+                },
+                "nonfiction": {
+                    "author": "Michelle McNamara",
+                    "book": "I'll Be Gone in the Dark",
+                    "publisher": null,
+                    "notes": null
+                },
+                "poetry": {
+                    "author": "Amanda Lovelace",
+                    "book": "The Witch Doesn't Burn in This One",
+                    "publisher": null,
+                    "notes": null
+                },
+                "history_biography": {
+                    "author": "Maxwell King",
+                    "book": "The Good Neighbor: The Life and Work of Fred Rogers",
+                    "publisher": null,
+                    "notes": null
+                },
+                "humor": {
+                    "author": "Tiffany Haddish",
+                    "book": "The Last Black Unicorn",
+                    "publisher": null,
+                    "notes": null
+                },
+                "graphic_novel_comics": {
+                    "author": "Sarah Andersen",
+                    "book": "Herding Cats",
+                    "publisher": null,
+                    "notes": null
+                },
+                "children_middle_grade": {
+                    "author": "Rick Riordan",
+                    "book": "The Burning Maze",
+                    "publisher": null,
+                    "notes": null
+                },
+                "picture_book": {
+                    "author": "Grace Byers",
+                    "book": "I Am Enough",
+                    "publisher": null,
+                    "notes": null
+                },
+                "food_cooking": {
+                    "author": "Chrissy Teigen and Adeena Sussman",
+                    "book": "Cravings: Hungry for More",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_technology": {
+                    "author": "Steve Brusatte",
+                    "book": "The Rise and Fall of the Dinosaurs",
+                    "publisher": null,
+                    "notes": null
+                },
+                "best_of_the_best": {
+                    "author": "Angie Thomas",
+                    "book": "The Hate U Give",
+                    "publisher": null,
+                    "notes": "Special 10th anniversary award"
+                }
+            }
+        },
+        "2017": {
+            "categories": {
+                "fiction": {
+                    "author": "Celeste Ng",
+                    "book": "Little Fires Everywhere",
+                    "publisher": null,
+                    "notes": null
+                },
+                "fantasy": {
+                    "author": "J. K. Rowling",
+                    "book": "Fantastic Beasts and Where to Find Them: The Original Screenplay",
+                    "publisher": null,
+                    "notes": null
+                },
+                "mystery_thriller": {
+                    "author": "Paula Hawkins",
+                    "book": "Into the Water",
+                    "publisher": null,
+                    "notes": null
+                },
+                "romance": {
+                    "author": "Colleen Hoover",
+                    "book": "Without Merit",
+                    "publisher": null,
+                    "notes": null
+                },
+                "historical_fiction": {
+                    "author": "Lisa Wingate",
+                    "book": "Before We Were Yours",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_fiction": {
+                    "author": "Andy Weir",
+                    "book": "Artemis",
+                    "publisher": null,
+                    "notes": null
+                },
+                "horror": {
+                    "author": "Stephen King and Owen King",
+                    "book": "Sleeping Beauties",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fantasy": {
+                    "author": "Sarah J. Maas",
+                    "book": "A Court of Wings and Ruin",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fiction": {
+                    "author": "Angie Thomas",
+                    "book": "The Hate U Give",
+                    "publisher": null,
+                    "notes": "Also won Debut Author"
+                },
+                "debut_author": {
+                    "author": "Angie Thomas",
+                    "book": "The Hate U Give",
+                    "publisher": null,
+                    "notes": "Also won Young Adult Fiction"
+                },
+                "memoir_autobiography": {
+                    "author": "Hillary Rodham Clinton",
+                    "book": "What Happened",
+                    "publisher": null,
+                    "notes": null
+                },
+                "nonfiction": {
+                    "author": "Lilly Singh",
+                    "book": "How to Be a Bawse: A Guide to Conquering Life",
+                    "publisher": null,
+                    "notes": null
+                },
+                "poetry": {
+                    "author": "Rupi Kaur",
+                    "book": "The Sun and Her Flowers",
+                    "publisher": null,
+                    "notes": null
+                },
+                "history_biography": {
+                    "author": "Kate Moore",
+                    "book": "The Radium Girls: The Dark Story of America's Shining Women",
+                    "publisher": null,
+                    "notes": null
+                },
+                "humor": {
+                    "author": "Lauren Graham",
+                    "book": "Talking as Fast as I Can: From Gilmore Girls to Gilmore Girls (and Everything in Between)",
+                    "publisher": null,
+                    "notes": null
+                },
+                "graphic_novel_comics": {
+                    "author": "Sarah Andersen",
+                    "book": "Big Mushy Happy Lump",
+                    "publisher": null,
+                    "notes": null
+                },
+                "children_middle_grade": {
+                    "author": "Rick Riordan",
+                    "book": "The Ship of the Dead",
+                    "publisher": null,
+                    "notes": null
+                },
+                "picture_book": {
+                    "author": "R. J. Palacio",
+                    "book": "We're All Wonders",
+                    "publisher": null,
+                    "notes": null
+                },
+                "food_cooking": {
+                    "author": "Ree Drummond",
+                    "book": "The Pioneer Woman Cooks: Come and Get It!",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_technology": {
+                    "author": "Neil deGrasse Tyson",
+                    "book": "Astrophysics for People in a Hurry",
+                    "publisher": null,
+                    "notes": null
+                }
+            }
+        },
+        "2016": {
+            "categories": {
+                "fiction": {
+                    "author": "Liane Moriarty",
+                    "book": "Truly Madly Guilty",
+                    "publisher": null,
+                    "notes": null
+                },
+                "fantasy": {
+                    "author": "J. K. Rowling",
+                    "book": "Harry Potter and the Cursed Child",
+                    "publisher": null,
+                    "notes": null
+                },
+                "mystery_thriller": {
+                    "author": "Stephen King",
+                    "book": "End of Watch",
+                    "publisher": null,
+                    "notes": null
+                },
+                "romance": {
+                    "author": "Colleen Hoover",
+                    "book": "It Ends with Us",
+                    "publisher": null,
+                    "notes": null
+                },
+                "historical_fiction": {
+                    "author": "Colson Whitehead",
+                    "book": "The Underground Railroad",
+                    "publisher": null,
+                    "notes": "Also won Pulitzer Prize"
+                },
+                "science_fiction": {
+                    "author": "Pierce Brown",
+                    "book": "Morning Star",
+                    "publisher": null,
+                    "notes": null
+                },
+                "horror": {
+                    "author": "Joe Hill",
+                    "book": "The Fireman",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fantasy": {
+                    "author": "Sarah J. Maas",
+                    "book": "A Court of Mist and Fury",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fiction": {
+                    "author": "Ruta Sepetys",
+                    "book": "Salt to the Sea",
+                    "publisher": null,
+                    "notes": null
+                },
+                "debut_author": {
+                    "author": "Alwyn Hamilton",
+                    "book": "Rebel of the Sands",
+                    "publisher": null,
+                    "notes": null
+                },
+                "memoir_autobiography": {
+                    "author": "Paul Kalanithi",
+                    "book": "When Breath Becomes Air",
+                    "publisher": null,
+                    "notes": null
+                },
+                "nonfiction": {
+                    "author": "Lin-Manuel Miranda and Jeremy McCarter",
+                    "book": "Hamilton: The Revolution",
+                    "publisher": null,
+                    "notes": null
+                },
+                "poetry": {
+                    "author": "Amanda Lovelace",
+                    "book": "The Princess Saves Herself in This One",
+                    "publisher": null,
+                    "notes": null
+                },
+                "history_biography": {
+                    "author": "William Shatner",
+                    "book": "Leonard: My Fifty-Year Friendship with a Remarkable Man",
+                    "publisher": null,
+                    "notes": null
+                },
+                "humor": {
+                    "author": "Amy Schumer",
+                    "book": "The Girl with the Lower Back Tattoo",
+                    "publisher": null,
+                    "notes": null
+                },
+                "graphic_novel_comics": {
+                    "author": "Sarah Andersen",
+                    "book": "Adulthood is a Myth",
+                    "publisher": null,
+                    "notes": null
+                },
+                "children_middle_grade": {
+                    "author": "Rick Riordan",
+                    "book": "The Hidden Oracle",
+                    "publisher": null,
+                    "notes": null
+                },
+                "picture_book": {
+                    "author": "Mo Willems",
+                    "book": "The Thank You Book",
+                    "publisher": null,
+                    "notes": null
+                },
+                "food_cooking": {
+                    "author": "Chrissy Teigen",
+                    "book": "Cravings",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_technology": {
+                    "author": "Frans De Waal",
+                    "book": "Are We Smart Enough to Know How Smart Animals Are?",
+                    "publisher": null,
+                    "notes": null
+                }
+            }
+        },
+        "2015": {
+            "categories": {
+                "fiction": {
+                    "author": "Harper Lee",
+                    "book": "Go Set a Watchman",
+                    "publisher": null,
+                    "notes": "Controversial sequel to To Kill a Mockingbird"
+                },
+                "fantasy": {
+                    "author": "Neil Gaiman",
+                    "book": "Trigger Warning: Short Fictions & Disturbances",
+                    "publisher": null,
+                    "notes": null
+                },
+                "mystery_thriller": {
+                    "author": "Paula Hawkins",
+                    "book": "The Girl on the Train",
+                    "publisher": null,
+                    "notes": null
+                },
+                "romance": {
+                    "author": "Colleen Hoover",
+                    "book": "Confess",
+                    "publisher": null,
+                    "notes": null
+                },
+                "historical_fiction": {
+                    "author": "Kristin Hannah",
+                    "book": "The Nightingale",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_fiction": {
+                    "author": "Pierce Brown",
+                    "book": "Golden Son",
+                    "publisher": null,
+                    "notes": null
+                },
+                "horror": {
+                    "author": "Dean Koontz",
+                    "book": "Saint Odd",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fantasy": {
+                    "author": "Sarah J. Maas",
+                    "book": "Queen of Shadows",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fiction": {
+                    "author": "Jennifer Niven",
+                    "book": "All the Bright Places",
+                    "publisher": null,
+                    "notes": null
+                },
+                "debut_author": {
+                    "author": "Victoria Aveyard",
+                    "book": "Red Queen",
+                    "publisher": null,
+                    "notes": null
+                },
+                "memoir_autobiography": {
+                    "author": "Connor Franta",
+                    "book": "A Work in Progress",
+                    "publisher": null,
+                    "notes": null
+                },
+                "nonfiction": {
+                    "author": "Aziz Ansari and Eric Klinenberg",
+                    "book": "Modern Romance: An Investigation",
+                    "publisher": null,
+                    "notes": null
+                },
+                "poetry": {
+                    "author": "Trista Mateer",
+                    "book": "The Dogs I Have Kissed",
+                    "publisher": null,
+                    "notes": null
+                },
+                "history_biography": {
+                    "author": "Erik Larson",
+                    "book": "Dead Wake: The Last Crossing of the Lusitania",
+                    "publisher": null,
+                    "notes": null
+                },
+                "humor": {
+                    "author": "Mindy Kaling",
+                    "book": "Why Not Me?",
+                    "publisher": null,
+                    "notes": null
+                },
+                "graphic_novel_comics": {
+                    "author": "Brian K. Vaughan and Fiona Staples",
+                    "book": "Saga, Volume 4",
+                    "publisher": null,
+                    "notes": null
+                },
+                "children_middle_grade": {
+                    "author": "Rick Riordan",
+                    "book": "The Sword of Summer",
+                    "publisher": null,
+                    "notes": null
+                },
+                "picture_book": {
+                    "author": "Drew Daywalt and Oliver Jeffers",
+                    "book": "The Day the Crayons Came Home",
+                    "publisher": null,
+                    "notes": null
+                },
+                "food_cooking": {
+                    "author": "Ree Drummond",
+                    "book": "The Pioneer Woman Cooks: Dinnertime",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_technology": {
+                    "author": "John Hargrove",
+                    "book": "Beneath the Surface: Killer Whales, SeaWorld, and the Truth Beyond Blackfish",
+                    "publisher": null,
+                    "notes": null
+                }
+            }
+        },
+        "2014": {
+            "categories": {
+                "fiction": {
+                    "author": "Rainbow Rowell",
+                    "book": "Landline",
+                    "publisher": null,
+                    "notes": null
+                },
+                "fantasy": {
+                    "author": "Deborah Harkness",
+                    "book": "The Book of Life",
+                    "publisher": null,
+                    "notes": null
+                },
+                "mystery_thriller": {
+                    "author": "Stephen King",
+                    "book": "Mr. Mercedes",
+                    "publisher": null,
+                    "notes": null
+                },
+                "romance": {
+                    "author": "Diana Gabaldon",
+                    "book": "Written in My Own Heart's Blood",
+                    "publisher": null,
+                    "notes": null
+                },
+                "historical_fiction": {
+                    "author": "Anthony Doerr",
+                    "book": "All the Light We Cannot See",
+                    "publisher": null,
+                    "notes": "Also won Pulitzer Prize"
+                },
+                "science_fiction": {
+                    "author": "Andy Weir",
+                    "book": "The Martian",
+                    "publisher": null,
+                    "notes": null
+                },
+                "horror": {
+                    "author": "Anne Rice",
+                    "book": "Prince Lestat",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fantasy": {
+                    "author": "Cassandra Clare",
+                    "book": "City of Heavenly Fire",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fiction": {
+                    "author": "E. Lockhart",
+                    "book": "We Were Liars",
+                    "publisher": null,
+                    "notes": null
+                },
+                "debut_author": {
+                    "author": "Pierce Brown",
+                    "book": "Red Rising",
+                    "publisher": null,
+                    "notes": null
+                },
+                "memoir_autobiography": {
+                    "author": "Esther Earl",
+                    "book": "This Star Won't Go Out",
+                    "publisher": null,
+                    "notes": null
+                },
+                "nonfiction": {
+                    "author": "Marina Keegan",
+                    "book": "The Opposite of Loneliness",
+                    "publisher": null,
+                    "notes": null
+                },
+                "poetry": {
+                    "author": "Lang Leav",
+                    "book": "Lullabies",
+                    "publisher": null,
+                    "notes": null
+                },
+                "history_biography": {
+                    "author": "Helen Rappaport",
+                    "book": "The Romanov Sisters",
+                    "publisher": null,
+                    "notes": null
+                },
+                "humor": {
+                    "author": "Amy Poehler",
+                    "book": "Yes Please",
+                    "publisher": null,
+                    "notes": null
+                },
+                "graphic_novel_comics": {
+                    "author": "Zack Whedon, Fábio Moon, and Daniel Dos Santos",
+                    "book": "Serenity: Leaves on the Wind",
+                    "publisher": null,
+                    "notes": null
+                },
+                "children_middle_grade": {
+                    "author": "Rick Riordan",
+                    "book": "The Blood of Olympus",
+                    "publisher": null,
+                    "notes": null
+                },
+                "picture_book": {
+                    "author": "Mo Willems",
+                    "book": "The Pigeon Needs a Bath! (I Do Not!)",
+                    "publisher": null,
+                    "notes": null
+                },
+                "business": {
+                    "author": "Sophia Amoruso",
+                    "book": "#GIRLBOSS",
+                    "publisher": null,
+                    "notes": null
+                },
+                "food_cooking": {
+                    "author": "Ina Garten",
+                    "book": "Make It Ahead: A Barefoot Contessa Cookbook",
+                    "publisher": null,
+                    "notes": null
+                }
+            }
+        },
+        "2013": {
+            "categories": {
+                "fiction": {
+                    "author": "Khaled Hosseini",
+                    "book": "And the Mountains Echoed",
+                    "publisher": null,
+                    "notes": null
+                },
+                "fantasy": {
+                    "author": "Neil Gaiman",
+                    "book": "The Ocean at the End of the Lane",
+                    "publisher": null,
+                    "notes": null
+                },
+                "mystery_thriller": {
+                    "author": "Dan Brown",
+                    "book": "Inferno",
+                    "publisher": null,
+                    "notes": null
+                },
+                "romance": {
+                    "author": "J. R. Ward",
+                    "book": "Lover at Last",
+                    "publisher": null,
+                    "notes": null
+                },
+                "historical_fiction": {
+                    "author": "Kate Atkinson",
+                    "book": "Life After Life",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_fiction": {
+                    "author": "Margaret Atwood",
+                    "book": "MaddAddam",
+                    "publisher": null,
+                    "notes": null
+                },
+                "horror": {
+                    "author": "Stephen King",
+                    "book": "Doctor Sleep",
+                    "publisher": null,
+                    "notes": "Sequel to The Shining"
+                },
+                "young_adult_fantasy": {
+                    "author": "Veronica Roth",
+                    "book": "Allegiant",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fiction": {
+                    "author": "Rainbow Rowell",
+                    "book": "Eleanor & Park",
+                    "publisher": null,
+                    "notes": null
+                },
+                "debut_author": {
+                    "author": "Emma Chase",
+                    "book": "Tangled",
+                    "publisher": null,
+                    "notes": null
+                },
+                "memoir_autobiography": {
+                    "author": "Malala Yousafzai",
+                    "book": "I am Malala",
+                    "publisher": null,
+                    "notes": null
+                },
+                "nonfiction": {
+                    "author": "Temple Grandin and Richard Panek",
+                    "book": "The Autistic Brain: Thinking Across the Spectrum",
+                    "publisher": null,
+                    "notes": null
+                },
+                "poetry": {
+                    "author": "J. R. R. Tolkien",
+                    "book": "The Fall of Arthur",
+                    "publisher": null,
+                    "notes": "Published posthumously"
+                },
+                "history_biography": {
+                    "author": "Brian Jay Jones",
+                    "book": "Jim Henson: The Biography",
+                    "publisher": null,
+                    "notes": null
+                },
+                "humor": {
+                    "author": "Allie Brosh",
+                    "book": "Hyperbole & a Half",
+                    "publisher": null,
+                    "notes": null
+                },
+                "graphic_novel_comics": {
+                    "author": "Kami Garcia, Margaret Stohl, and artist Cassandra Jean",
+                    "book": "Beautiful Creatures",
+                    "publisher": null,
+                    "notes": null
+                },
+                "children_middle_grade": {
+                    "author": "Rick Riordan",
+                    "book": "The House of Hades",
+                    "publisher": null,
+                    "notes": null
+                },
+                "picture_book": {
+                    "author": "Drew Daywalt and Oliver Jeffers",
+                    "book": "The Day the Crayons Quit",
+                    "publisher": null,
+                    "notes": null
+                },
+                "food_cooking": {
+                    "author": "Tim Federle",
+                    "book": "Tequila Mockingbird: Cocktails with a Literary Twist",
+                    "publisher": null,
+                    "notes": null
+                },
+                "paranormal_fantasy": {
+                    "author": "Jim Butcher",
+                    "book": "Cold Days",
+                    "publisher": null,
+                    "notes": null
+                }
+            }
+        },
+        "2012": {
+            "categories": {
+                "fiction": {
+                    "author": "J. K. Rowling",
+                    "book": "The Casual Vacancy",
+                    "publisher": null,
+                    "notes": "First adult novel by J.K. Rowling"
+                },
+                "fantasy": {
+                    "author": "Stephen King",
+                    "book": "The Dark Tower: The Wind Through the Keyhole",
+                    "publisher": null,
+                    "notes": null
+                },
+                "mystery_thriller": {
+                    "author": "Gillian Flynn",
+                    "book": "Gone Girl",
+                    "publisher": null,
+                    "notes": null
+                },
+                "romance": {
+                    "author": "E. L. James",
+                    "book": "Fifty Shades Freed",
+                    "publisher": null,
+                    "notes": null
+                },
+                "historical_fiction": {
+                    "author": "M. L. Stedman",
+                    "book": "The Light Between Oceans",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_fiction": {
+                    "author": "Terry Pratchett and Stephen Baxter",
+                    "book": "The Long Earth",
+                    "publisher": null,
+                    "notes": null
+                },
+                "horror": {
+                    "author": "Justin Cronin",
+                    "book": "The Twelve",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fantasy": {
+                    "author": "Veronica Roth",
+                    "book": "Insurgent",
+                    "publisher": null,
+                    "notes": "Also won Goodreads Author award"
+                },
+                "young_adult_fiction": {
+                    "author": "John Green",
+                    "book": "The Fault in Our Stars",
+                    "publisher": null,
+                    "notes": null
+                },
+                "memoir_autobiography": {
+                    "author": "Cheryl Strayed",
+                    "book": "Wild: From Lost to Found on the Pacific Crest Trail",
+                    "publisher": null,
+                    "notes": null
+                },
+                "nonfiction": {
+                    "author": "Susan Cain",
+                    "book": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+                    "publisher": null,
+                    "notes": null
+                },
+                "poetry": {
+                    "author": "Mary Oliver",
+                    "book": "A Thousand Mornings",
+                    "publisher": null,
+                    "notes": null
+                },
+                "humor": {
+                    "author": "Jenny Lawson",
+                    "book": "Let's Pretend This Never Happened",
+                    "publisher": null,
+                    "notes": null
+                },
+                "graphic_novel_comics": {
+                    "author": "Robert Kirkman",
+                    "book": "The Walking Dead, Vol. 16: A Larger World",
+                    "publisher": null,
+                    "notes": null
+                },
+                "children_middle_grade": {
+                    "author": "Rick Riordan",
+                    "book": "The Mark of Athena",
+                    "publisher": null,
+                    "notes": null
+                },
+                "picture_book": {
+                    "author": "Ian Falconer",
+                    "book": "Olivia and the Fairy Princesses",
+                    "publisher": null,
+                    "notes": null
+                },
+                "food_cooking": {
+                    "author": "Ree Drummond",
+                    "book": "The Pioneer Woman Cooks: Recipes from an Accidental Country Girl",
+                    "publisher": null,
+                    "notes": null
+                },
+                "goodreads_author": {
+                    "author": "Veronica Roth",
+                    "book": "Insurgent",
+                    "publisher": null,
+                    "notes": "Special category"
+                },
+                "paranormal_fantasy": {
+                    "author": "Deborah Harkness",
+                    "book": "Shadow of Night",
+                    "publisher": null,
+                    "notes": null
+                }
+            }
+        },
+        "2011": {
+            "categories": {
+                "fiction": {
+                    "author": "Haruki Murakami",
+                    "book": "1Q84",
+                    "publisher": null,
+                    "notes": null
+                },
+                "fantasy": {
+                    "author": "George R. R. Martin",
+                    "book": "A Dance with Dragons",
+                    "publisher": null,
+                    "notes": null
+                },
+                "mystery_thriller": {
+                    "author": "Janet Evanovich",
+                    "book": "Smokin' Seventeen",
+                    "publisher": null,
+                    "notes": null
+                },
+                "romance": {
+                    "author": "J. R. Ward",
+                    "book": "Lover Unleashed",
+                    "publisher": null,
+                    "notes": null
+                },
+                "historical_fiction": {
+                    "author": "Paula McLain",
+                    "book": "The Paris Wife",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_fiction": {
+                    "author": "Stephen King",
+                    "book": "11/22/63",
+                    "publisher": null,
+                    "notes": null
+                },
+                "horror": {
+                    "author": "Melissa Marr",
+                    "book": "Graveminder",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fantasy": {
+                    "author": "Veronica Roth",
+                    "book": "Divergent",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fiction": {
+                    "author": "Gayle Forman",
+                    "book": "Where She Went",
+                    "publisher": null,
+                    "notes": null
+                },
+                "memoir_autobiography": {
+                    "author": "Matthew Logelin",
+                    "book": "Two Kisses for Maddy: A Memoir of Loss & Love",
+                    "publisher": null,
+                    "notes": null
+                },
+                "nonfiction": {
+                    "author": "Alexandra Robbins",
+                    "book": "The Geeks Shall Inherit the Earth",
+                    "publisher": null,
+                    "notes": null
+                },
+                "poetry": {
+                    "author": "Billy Collins",
+                    "book": "Horoscopes for the Dead",
+                    "publisher": null,
+                    "notes": null
+                },
+                "history_biography": {
+                    "author": "Walter Isaacson",
+                    "book": "Steve Jobs",
+                    "publisher": null,
+                    "notes": null
+                },
+                "humor": {
+                    "author": "Tina Fey",
+                    "book": "Bossypants",
+                    "publisher": null,
+                    "notes": null
+                },
+                "graphic_novel_comics": {
+                    "author": "Richelle Mead",
+                    "book": "Vampire Academy: The Graphic Novel",
+                    "publisher": null,
+                    "notes": null
+                },
+                "children_middle_grade": {
+                    "author": "Rick Riordan",
+                    "book": "The Son of Neptune",
+                    "publisher": null,
+                    "notes": null
+                },
+                "picture_book": {
+                    "author": "Weird Al Yankovic",
+                    "book": "When I Grow Up",
+                    "publisher": null,
+                    "notes": null
+                },
+                "food_cooking": {
+                    "author": "Gwyneth Paltrow",
+                    "book": "My Father's Daughter",
+                    "publisher": null,
+                    "notes": null
+                },
+                "goodreads_author": {
+                    "author": "Cassandra Clare",
+                    "book": "City of Fallen Angels",
+                    "publisher": null,
+                    "notes": "Special category"
+                },
+                "paranormal_fantasy": {
+                    "author": "Karen Marie Moning",
+                    "book": "Shadowfever",
+                    "publisher": null,
+                    "notes": null
+                },
+                "travel_outdoors": {
+                    "author": "Conor Grennan",
+                    "book": "Little Princes: One Man's Promise to Bring Home the Lost Children of Nepal",
+                    "publisher": null,
+                    "notes": null
+                }
+            }
+        },
+        "2010": {
+            "categories": {
+                "fiction": {
+                    "author": "Emma Donoghue",
+                    "book": "Room",
+                    "publisher": null,
+                    "notes": null
+                },
+                "fantasy": {
+                    "author": "Robert Jordan and Brandon Sanderson",
+                    "book": "Towers of Midnight",
+                    "publisher": null,
+                    "notes": null
+                },
+                "mystery_thriller": {
+                    "author": "Stieg Larsson",
+                    "book": "The Girl Who Kicked the Hornets' Nest",
+                    "publisher": null,
+                    "notes": null
+                },
+                "romance": {
+                    "author": "J. R. Ward",
+                    "book": "Lover Mine",
+                    "publisher": null,
+                    "notes": null
+                },
+                "historical_fiction": {
+                    "author": "Ken Follett",
+                    "book": "Fall of Giants",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_fiction": {
+                    "author": "Mira Grant",
+                    "book": "Feed",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fantasy": {
+                    "author": "Suzanne Collins",
+                    "book": "Mockingjay",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fiction": {
+                    "author": "Lauren Oliver",
+                    "book": "Before I Fall",
+                    "publisher": null,
+                    "notes": null
+                },
+                "debut_author": {
+                    "author": "Rebecca Skloot",
+                    "book": "The Immortal Life of Henrietta Lacks",
+                    "publisher": null,
+                    "notes": "Also won Nonfiction"
+                },
+                "memoir_autobiography": {
+                    "author": "Portia de Rossi",
+                    "book": "Unbearable Lightness",
+                    "publisher": null,
+                    "notes": null
+                },
+                "nonfiction": {
+                    "author": "Rebecca Skloot",
+                    "book": "The Immortal Life of Henrietta Lacks",
+                    "publisher": null,
+                    "notes": "Also won Debut Author"
+                },
+                "poetry": {
+                    "author": "Matthew Zapruder",
+                    "book": "Come On All You Ghosts",
+                    "publisher": null,
+                    "notes": null
+                },
+                "history_biography": {
+                    "author": "G. J. Meyer",
+                    "book": "The Tudors",
+                    "publisher": null,
+                    "notes": null
+                },
+                "humor": {
+                    "author": "Christopher Moore",
+                    "book": "Bite Me: A Love Story",
+                    "publisher": null,
+                    "notes": null
+                },
+                "graphic_novel": {
+                    "author": "Stephenie Meyer",
+                    "book": "Twilight: The Graphic Novel",
+                    "publisher": null,
+                    "notes": null
+                },
+                "children_middle_grade": {
+                    "author": "Jeff Kinney",
+                    "book": "Diary of a Wimpy Kid: The Ugly Truth",
+                    "publisher": null,
+                    "notes": null
+                },
+                "picture_book": {
+                    "author": "Lane Smith",
+                    "book": "It's a Book",
+                    "publisher": null,
+                    "notes": null
+                },
+                "cover_art": {
+                    "author": "Lauren Kate",
+                    "book": "Torment",
+                    "publisher": null,
+                    "notes": "Special category for cover design"
+                },
+                "paranormal_fantasy": {
+                    "author": "Charlaine Harris",
+                    "book": "Dead in the Family",
+                    "publisher": null,
+                    "notes": null
+                }
+            }
+        },
+        "2009": {
+            "categories": {
+                "fiction": {
+                    "author": "Kathryn Stockett",
+                    "book": "The Help",
+                    "publisher": null,
+                    "notes": null
+                },
+                "fantasy": {
+                    "author": "Charlaine Harris",
+                    "book": "Dead and Gone",
+                    "publisher": null,
+                    "notes": null
+                },
+                "mystery_thriller": {
+                    "author": "Stieg Larsson",
+                    "book": "The Girl Who Played with Fire",
+                    "publisher": null,
+                    "notes": null
+                },
+                "romance": {
+                    "author": "Diana Gabaldon",
+                    "book": "An Echo in the Bone",
+                    "publisher": null,
+                    "notes": null
+                },
+                "science_fiction": {
+                    "author": "Scott Westerfeld",
+                    "book": "Leviathan",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_fiction": {
+                    "author": "Sarah Dessen",
+                    "book": "Along for the Ride",
+                    "publisher": null,
+                    "notes": null
+                },
+                "young_adult_series": {
+                    "author": "Suzanne Collins",
+                    "book": "Catching Fire",
+                    "publisher": null,
+                    "notes": null
+                },
+                "nonfiction": {
+                    "author": "Dave Cullen",
+                    "book": "Columbine",
+                    "publisher": null,
+                    "notes": null
+                },
+                "graphic_novel": {
+                    "author": "Neil Gaiman",
+                    "book": "Batman: Whatever Happened to the Caped Crusader?",
+                    "publisher": null,
+                    "notes": null
+                },
+                "children": {
+                    "author": "Jeff Kinney",
+                    "book": "Diary of a Wimpy Kid: Dog Days",
+                    "publisher": null,
+                    "notes": null
+                },
+                "picture_book": {
+                    "author": "Neil Gaiman",
+                    "book": "Blueberry Girl",
+                    "publisher": null,
+                    "notes": null
+                },
+                "chick_lit": {
+                    "author": "Nicholas Sparks",
+                    "book": "The Last Song",
+                    "publisher": null,
+                    "notes": "Category discontinued after 2009"
+                }
+            }
+        }
+    },
+    "metadata": {
+        "created_date": "2024-11-30",
+        "version": "1.0",
+        "source": "Wikipedia - Goodreads Choice Awards",
+        "last_updated": "2024-11-30",
+        "notes": "Complete data from 2009-2024. Categories vary by year. Focus on book titles and reader preferences rather than literary merit.",
+        "data_characteristics": {
+            "focus": "Book-centric (title is primary, author secondary)",
+            "voting": "Crowd-sourced by Goodreads users",
+            "scope": "Popular/commercial fiction and non-fiction",
+            "categories_evolution": "Categories added/removed over years (e.g., Romantasy added 2023, Audiobook added 2024)"
+        }
+    }
+}

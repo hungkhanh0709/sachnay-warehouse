@@ -1,0 +1,1596 @@
+{
+    "award_info": {
+        "id": "us_pulitzer_fiction",
+        "name": "Giải Pulitzer cho Tiểu thuyết",
+        "name_en": "Pulitzer Prize for Fiction",
+        "established_year": 1917,
+        "first_awarded": 1918,
+        "awarding_body": "Columbia University",
+        "country": "United States",
+        "total_times_awarded": 97,
+        "total_years": 108,
+        "years_not_awarded": 11,
+        "description": "Giải thưởng văn học danh giá của Mỹ, công nhận tác phẩm tiểu thuyết xuất sắc của tác giả Mỹ, ưu tiên cho tác phẩm về đời sống người Mỹ",
+        "website": "https://www.pulitzer.org/",
+        "notes": "Từ 1918-1947 gọi là 'Pulitzer Prize for the Novel'. Từ 1948 đổi tên thành 'Pulitzer Prize for Fiction' và mở rộng cho cả truyện ngắn, novella"
+    },
+    "laureates_by_year": {
+        "2025": {
+            "laureates": [
+                {
+                    "name": "Percival Everett",
+                    "book_title": "James",
+                    "publisher": "Doubleday",
+                    "year_published": 2024,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Georgia",
+                    "citation": "An accomplished reconsideration of 'Huckleberry Finn' that gives agency to Jim to illustrate the absurdity of racial supremacy and provide a new take on the search for family and freedom"
+                }
+            ]
+        },
+        "2024": {
+            "laureates": [
+                {
+                    "name": "Jayne Anne Phillips",
+                    "book_title": "Night Watch",
+                    "publisher": "Knopf",
+                    "year_published": 2023,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "West Virginia",
+                    "citation": "A beautifully rendered novel set in West Virginia's Trans-Allegheny Lunatic Asylum in the aftermath of the Civil War, where a severely wounded Union veteran, a 12-year-old girl and her mother, long abused by a Confederate soldier, struggle to heal"
+                }
+            ]
+        },
+        "2023": {
+            "laureates": [
+                {
+                    "name": "Hernan Diaz",
+                    "book_title": "Trust",
+                    "publisher": "Riverhead Books",
+                    "year_published": 2022,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "New York (born in Argentina)",
+                    "citation": "A riveting novel set in a bygone America that explores family, wealth and ambition through linked narratives rendered in different literary styles, a complex examination of love and power in a country where capitalism is king"
+                },
+                {
+                    "name": "Barbara Kingsolver",
+                    "book_title": "Demon Copperhead",
+                    "publisher": "Harper",
+                    "year_published": 2022,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Kentucky",
+                    "citation": "A masterful recasting of 'David Copperfield,' narrated by an Appalachian boy whose wise, unwavering voice relates his encounters with poverty, addiction, institutional failures and moral collapse–and his efforts to conquer them"
+                }
+            ],
+            "notes": "First time in Pulitzer Fiction history that two winners were named"
+        },
+        "2022": {
+            "laureates": [
+                {
+                    "name": "Joshua Cohen",
+                    "book_title": "The Netanyahus: An Account of a Minor and Ultimately Even Negligible Episode in the History of a Very Famous Family",
+                    "publisher": "New York Review Books",
+                    "year_published": 2021,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "New Jersey",
+                    "citation": "A mordant, linguistically deft historical novel about the ambiguities of the Jewish American experience, presenting ideas and disputes as volatile as its tightly-wound plot"
+                }
+            ]
+        },
+        "2021": {
+            "laureates": [
+                {
+                    "name": "Louise Erdrich",
+                    "book_title": "The Night Watchman",
+                    "publisher": "HarperCollins",
+                    "year_published": 2020,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Minnesota",
+                    "citation": "A majestic, polyphonic novel about a community's efforts to halt the proposed displacement and elimination of several Native American tribes in the 1950s, rendered with dexterity and imagination"
+                }
+            ]
+        },
+        "2020": {
+            "laureates": [
+                {
+                    "name": "Colson Whitehead",
+                    "book_title": "The Nickel Boys",
+                    "publisher": "Doubleday",
+                    "year_published": 2019,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "New York",
+                    "citation": "A spare and devastating exploration of abuse at a reform school in Jim Crow-era Florida that is ultimately a powerful tale of human perseverance, dignity and redemption",
+                    "notes": "Second Pulitzer Prize for Colson Whitehead"
+                }
+            ]
+        },
+        "2019": {
+            "laureates": [
+                {
+                    "name": "Richard Powers",
+                    "book_title": "The Overstory",
+                    "publisher": "W. W. Norton & Company",
+                    "year_published": 2018,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Illinois",
+                    "citation": "An ingeniously structured narrative that branches and canopies like the trees at the core of the story whose wonder and connectivity echo those of the humans living amongst them"
+                }
+            ]
+        },
+        "2018": {
+            "laureates": [
+                {
+                    "name": "Andrew Sean Greer",
+                    "book_title": "Less",
+                    "publisher": "Little, Brown and Company",
+                    "year_published": 2017,
+                    "genre": [
+                        "satirical novel"
+                    ],
+                    "birth_state": "Washington, D.C.",
+                    "citation": "A generous book, musical in its prose and expansive in its structure and range, about growing older and the essential nature of love"
+                }
+            ]
+        },
+        "2017": {
+            "laureates": [
+                {
+                    "name": "Colson Whitehead",
+                    "book_title": "The Underground Railroad",
+                    "publisher": "Doubleday",
+                    "year_published": 2016,
+                    "genre": [
+                        "alternate historical novel"
+                    ],
+                    "birth_state": "New York",
+                    "citation": "For a smart melding of realism and allegory that combines the violence of slavery and the drama of escape in a myth that speaks to contemporary America",
+                    "notes": "First Pulitzer Prize for Colson Whitehead"
+                }
+            ]
+        },
+        "2016": {
+            "laureates": [
+                {
+                    "name": "Viet Thanh Nguyen",
+                    "book_title": "The Sympathizer",
+                    "publisher": "Grove Press",
+                    "year_published": 2015,
+                    "genre": [
+                        "debut novel"
+                    ],
+                    "birth_state": "California (born in Buôn Ma Thuột, Vietnam)",
+                    "citation": "A layered immigrant tale told in the wry, confessional voice of a 'man of two minds' -- and two countries, Vietnam and the United States"
+                }
+            ]
+        },
+        "2015": {
+            "laureates": [
+                {
+                    "name": "Anthony Doerr",
+                    "book_title": "All the Light We Cannot See",
+                    "publisher": "Charles Scribner's Sons",
+                    "year_published": 2014,
+                    "genre": [
+                        "war novel"
+                    ],
+                    "birth_state": "Ohio",
+                    "citation": "An imaginative and intricate novel inspired by the horrors of World War II and written in short, elegant chapters that explore human nature and the contradictory power of technology"
+                }
+            ]
+        },
+        "2014": {
+            "laureates": [
+                {
+                    "name": "Donna Tartt",
+                    "book_title": "The Goldfinch",
+                    "publisher": "Little, Brown and Company",
+                    "year_published": 2013,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Mississippi",
+                    "citation": "A beautifully written coming-of-age novel with exquisitely drawn characters that follows a grieving boy's entanglement with a small famous painting that has eluded destruction, a book that stimulates the mind and touches the heart"
+                }
+            ]
+        },
+        "2013": {
+            "laureates": [
+                {
+                    "name": "Adam Johnson",
+                    "book_title": "The Orphan Master's Son",
+                    "publisher": "Random House",
+                    "year_published": 2012,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "South Dakota",
+                    "citation": "An exquisitely crafted novel that carries the reader on an adventuresome journey into the depths of totalitarian North Korea and into the most intimate spaces of the human heart"
+                }
+            ]
+        },
+        "2012": {
+            "laureates": [],
+            "notes": "No award was given this year. Finalists were: Karen Russell (Swamplandia!), David Foster Wallace (The Pale King, posthumously), Denis Johnson (Train Dreams)"
+        },
+        "2011": {
+            "laureates": [
+                {
+                    "name": "Jennifer Egan",
+                    "book_title": "A Visit from the Goon Squad",
+                    "publisher": "Alfred A. Knopf",
+                    "year_published": 2010,
+                    "genre": [
+                        "interrelated short stories"
+                    ],
+                    "birth_state": "Illinois",
+                    "citation": "An inventive investigation of growing up and growing old in the digital age, displaying a big-hearted curiosity about cultural change at warp speed"
+                }
+            ]
+        },
+        "2010": {
+            "laureates": [
+                {
+                    "name": "Paul Harding",
+                    "book_title": "Tinkers",
+                    "publisher": "Bellevue Literary Press",
+                    "year_published": 2009,
+                    "genre": [
+                        "debut novel"
+                    ],
+                    "birth_state": "Massachusetts",
+                    "citation": "A powerful celebration of life in which a New England father and son, through suffering and joy, transcend their imprisoning lives and offer new ways of perceiving the world and mortality"
+                }
+            ]
+        },
+        "2009": {
+            "laureates": [
+                {
+                    "name": "Elizabeth Strout",
+                    "book_title": "Olive Kitteridge",
+                    "publisher": "Random House",
+                    "year_published": 2008,
+                    "genre": [
+                        "interrelated short stories"
+                    ],
+                    "birth_state": "Maine",
+                    "citation": "A collection of 13 short stories set in small-town Maine that packs a cumulative emotional wallop, bound together by polished prose and by Olive, the title character, blunt, flawed and fascinating"
+                }
+            ]
+        },
+        "2008": {
+            "laureates": [
+                {
+                    "name": "Junot Díaz",
+                    "book_title": "The Brief Wondrous Life of Oscar Wao",
+                    "publisher": "Riverhead Books",
+                    "year_published": 2007,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "New Jersey (born in Santo Domingo, Dominican Republic)",
+                    "citation": null
+                }
+            ]
+        },
+        "2007": {
+            "laureates": [
+                {
+                    "name": "Cormac McCarthy",
+                    "book_title": "The Road",
+                    "publisher": "Alfred A. Knopf",
+                    "year_published": 2006,
+                    "genre": [
+                        "post-apocalyptic fiction"
+                    ],
+                    "birth_state": "Rhode Island",
+                    "citation": null
+                }
+            ]
+        },
+        "2006": {
+            "laureates": [
+                {
+                    "name": "Geraldine Brooks",
+                    "book_title": "March",
+                    "publisher": "Viking Press",
+                    "year_published": 2005,
+                    "genre": [
+                        "historical fiction"
+                    ],
+                    "birth_state": "New York (born in Sydney, Australia)",
+                    "citation": null
+                }
+            ]
+        },
+        "2005": {
+            "laureates": [
+                {
+                    "name": "Marilynne Robinson",
+                    "book_title": "Gilead",
+                    "publisher": "Farrar, Straus and Giroux",
+                    "year_published": 2004,
+                    "genre": [
+                        "epistolary novel"
+                    ],
+                    "birth_state": "Idaho",
+                    "citation": null
+                }
+            ]
+        },
+        "2004": {
+            "laureates": [
+                {
+                    "name": "Edward P. Jones",
+                    "book_title": "The Known World",
+                    "publisher": "Amistad Press",
+                    "year_published": 2003,
+                    "genre": [
+                        "historical fiction"
+                    ],
+                    "birth_state": "Washington, D.C.",
+                    "citation": null
+                }
+            ]
+        },
+        "2003": {
+            "laureates": [
+                {
+                    "name": "Jeffrey Eugenides",
+                    "book_title": "Middlesex",
+                    "publisher": "Farrar, Straus and Giroux",
+                    "year_published": 2002,
+                    "genre": [
+                        "family saga"
+                    ],
+                    "birth_state": "Michigan",
+                    "citation": null
+                }
+            ]
+        },
+        "2002": {
+            "laureates": [
+                {
+                    "name": "Richard Russo",
+                    "book_title": "Empire Falls",
+                    "publisher": "Alfred A. Knopf",
+                    "year_published": 2001,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "New York",
+                    "citation": null
+                }
+            ]
+        },
+        "2001": {
+            "laureates": [
+                {
+                    "name": "Michael Chabon",
+                    "book_title": "The Amazing Adventures of Kavalier & Clay",
+                    "publisher": "Random House",
+                    "year_published": 2000,
+                    "genre": [
+                        "historical fiction"
+                    ],
+                    "birth_state": "Washington, D.C.",
+                    "citation": null
+                }
+            ]
+        },
+        "2000": {
+            "laureates": [
+                {
+                    "name": "Jhumpa Lahiri",
+                    "book_title": "Interpreter of Maladies",
+                    "publisher": "Houghton Mifflin",
+                    "year_published": 1999,
+                    "genre": [
+                        "short story collection"
+                    ],
+                    "birth_state": "Rhode Island (born in London, United Kingdom)",
+                    "citation": null
+                }
+            ]
+        },
+        "1999": {
+            "laureates": [
+                {
+                    "name": "Michael Cunningham",
+                    "book_title": "The Hours",
+                    "publisher": "Farrar, Straus and Giroux",
+                    "year_published": 1998,
+                    "genre": [
+                        "historical fiction"
+                    ],
+                    "birth_state": "Ohio",
+                    "citation": null
+                }
+            ]
+        },
+        "1998": {
+            "laureates": [
+                {
+                    "name": "Philip Roth",
+                    "book_title": "American Pastoral",
+                    "publisher": "Houghton Mifflin",
+                    "year_published": 1997,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "New Jersey",
+                    "citation": null
+                }
+            ]
+        },
+        "1997": {
+            "laureates": [
+                {
+                    "name": "Steven Millhauser",
+                    "book_title": "Martin Dressler: The Tale of an American Dreamer",
+                    "publisher": "Crown Publishers",
+                    "year_published": 1996,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "New York",
+                    "citation": null
+                }
+            ]
+        },
+        "1996": {
+            "laureates": [
+                {
+                    "name": "Richard Ford",
+                    "book_title": "Independence Day",
+                    "publisher": "Alfred A. Knopf",
+                    "year_published": 1995,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Mississippi",
+                    "citation": null
+                }
+            ]
+        },
+        "1995": {
+            "laureates": [
+                {
+                    "name": "Carol Shields",
+                    "book_title": "The Stone Diaries",
+                    "publisher": "Random House",
+                    "year_published": 1993,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Illinois",
+                    "citation": null
+                }
+            ]
+        },
+        "1994": {
+            "laureates": [
+                {
+                    "name": "E. Annie Proulx",
+                    "book_title": "The Shipping News",
+                    "publisher": "Charles Scribner's Sons",
+                    "year_published": 1993,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Connecticut",
+                    "citation": null
+                }
+            ]
+        },
+        "1993": {
+            "laureates": [
+                {
+                    "name": "Robert Olen Butler",
+                    "book_title": "A Good Scent from a Strange Mountain",
+                    "publisher": "Henry Holt",
+                    "year_published": 1992,
+                    "genre": [
+                        "short story collection"
+                    ],
+                    "birth_state": "Illinois",
+                    "citation": null
+                }
+            ]
+        },
+        "1992": {
+            "laureates": [
+                {
+                    "name": "Jane Smiley",
+                    "book_title": "A Thousand Acres",
+                    "publisher": "Alfred A. Knopf",
+                    "year_published": 1991,
+                    "genre": [
+                        "domestic realism"
+                    ],
+                    "birth_state": "California",
+                    "citation": null
+                }
+            ]
+        },
+        "1991": {
+            "laureates": [
+                {
+                    "name": "John Updike",
+                    "book_title": "Rabbit At Rest",
+                    "publisher": "Alfred A. Knopf",
+                    "year_published": 1990,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Pennsylvania",
+                    "citation": null,
+                    "notes": "Second Pulitzer Prize for John Updike"
+                }
+            ]
+        },
+        "1990": {
+            "laureates": [
+                {
+                    "name": "Oscar Hijuelos",
+                    "book_title": "The Mambo Kings Play Songs of Love",
+                    "publisher": "Farrar, Straus and Giroux",
+                    "year_published": 1989,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "New York",
+                    "citation": null
+                }
+            ]
+        },
+        "1989": {
+            "laureates": [
+                {
+                    "name": "Anne Tyler",
+                    "book_title": "Breathing Lessons",
+                    "publisher": "Alfred A. Knopf",
+                    "year_published": 1988,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Minnesota",
+                    "citation": null
+                }
+            ]
+        },
+        "1988": {
+            "laureates": [
+                {
+                    "name": "Toni Morrison",
+                    "book_title": "Beloved",
+                    "publisher": "Alfred A. Knopf",
+                    "year_published": 1987,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Ohio",
+                    "citation": null
+                }
+            ]
+        },
+        "1987": {
+            "laureates": [
+                {
+                    "name": "Peter Taylor",
+                    "book_title": "A Summons to Memphis",
+                    "publisher": "Alfred A. Knopf",
+                    "year_published": 1986,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Tennessee",
+                    "citation": null
+                }
+            ]
+        },
+        "1986": {
+            "laureates": [
+                {
+                    "name": "Larry McMurtry",
+                    "book_title": "Lonesome Dove",
+                    "publisher": "Simon & Schuster",
+                    "year_published": 1985,
+                    "genre": [
+                        "western novel"
+                    ],
+                    "birth_state": "Texas",
+                    "citation": null
+                }
+            ]
+        },
+        "1985": {
+            "laureates": [
+                {
+                    "name": "Alison Lurie",
+                    "book_title": "Foreign Affairs",
+                    "publisher": "Random House",
+                    "year_published": 1984,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Illinois",
+                    "citation": null
+                }
+            ]
+        },
+        "1984": {
+            "laureates": [
+                {
+                    "name": "William Kennedy",
+                    "book_title": "Ironweed",
+                    "publisher": "Viking Press",
+                    "year_published": 1983,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "New York",
+                    "citation": null
+                }
+            ]
+        },
+        "1983": {
+            "laureates": [
+                {
+                    "name": "Alice Walker",
+                    "book_title": "The Color Purple",
+                    "publisher": "Harcourt Brace Jovanovich",
+                    "year_published": 1982,
+                    "genre": [
+                        "epistolary novel"
+                    ],
+                    "birth_state": "Georgia",
+                    "citation": null
+                }
+            ]
+        },
+        "1982": {
+            "laureates": [
+                {
+                    "name": "John Updike",
+                    "book_title": "Rabbit Is Rich",
+                    "publisher": "Alfred A. Knopf",
+                    "year_published": 1981,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Pennsylvania",
+                    "citation": null,
+                    "notes": "First Pulitzer Prize for John Updike"
+                }
+            ]
+        },
+        "1981": {
+            "laureates": [
+                {
+                    "name": "John Kennedy Toole",
+                    "book_title": "A Confederacy of Dunces",
+                    "publisher": "Louisiana State University Press",
+                    "year_published": 1980,
+                    "genre": [
+                        "picaresque novel"
+                    ],
+                    "birth_state": "Louisiana",
+                    "citation": null,
+                    "notes": "Posthumously awarded"
+                }
+            ]
+        },
+        "1980": {
+            "laureates": [
+                {
+                    "name": "Norman Mailer",
+                    "book_title": "The Executioner's Song",
+                    "publisher": "Little, Brown",
+                    "year_published": 1979,
+                    "genre": [
+                        "true crime novel"
+                    ],
+                    "birth_state": "New Jersey",
+                    "citation": null
+                }
+            ]
+        },
+        "1979": {
+            "laureates": [
+                {
+                    "name": "John Cheever",
+                    "book_title": "The Stories of John Cheever",
+                    "publisher": "Alfred A. Knopf",
+                    "year_published": 1978,
+                    "genre": [
+                        "short story collection"
+                    ],
+                    "birth_state": "Massachusetts",
+                    "citation": null
+                }
+            ]
+        },
+        "1978": {
+            "laureates": [
+                {
+                    "name": "James Alan McPherson",
+                    "book_title": "Elbow Room",
+                    "publisher": "Little, Brown",
+                    "year_published": 1977,
+                    "genre": [
+                        "short story collection"
+                    ],
+                    "birth_state": "Georgia",
+                    "citation": null
+                }
+            ]
+        },
+        "1977": {
+            "laureates": [],
+            "notes": "No award was given this year. The jury recommended 'A River Runs Through It' by Norman MacLean, but the Pulitzer board made no award"
+        },
+        "1976": {
+            "laureates": [
+                {
+                    "name": "Saul Bellow",
+                    "book_title": "Humboldt's Gift",
+                    "publisher": "Viking Press",
+                    "year_published": 1975,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Illinois (born in Quebec, Canada)",
+                    "citation": null
+                }
+            ]
+        },
+        "1975": {
+            "laureates": [
+                {
+                    "name": "Michael Shaara",
+                    "book_title": "The Killer Angels",
+                    "publisher": "David McKay Publications",
+                    "year_published": 1974,
+                    "genre": [
+                        "historical fiction"
+                    ],
+                    "birth_state": "New Jersey",
+                    "citation": null
+                }
+            ]
+        },
+        "1974": {
+            "laureates": [],
+            "notes": "No award was given this year. The jury unanimously recommended 'Gravity's Rainbow' by Thomas Pynchon, but the Pulitzer board made no award"
+        },
+        "1973": {
+            "laureates": [
+                {
+                    "name": "Eudora Welty",
+                    "book_title": "The Optimist's Daughter",
+                    "publisher": "Random House",
+                    "year_published": 1972,
+                    "genre": [
+                        "short novel"
+                    ],
+                    "birth_state": "Mississippi",
+                    "citation": null
+                }
+            ]
+        },
+        "1972": {
+            "laureates": [
+                {
+                    "name": "Wallace Stegner",
+                    "book_title": "Angle of Repose",
+                    "publisher": "Doubleday",
+                    "year_published": 1971,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Iowa",
+                    "citation": null
+                }
+            ]
+        },
+        "1971": {
+            "laureates": [],
+            "notes": "No award was given this year. The jury put forth three novels for consideration but the board rejected all three"
+        },
+        "1970": {
+            "laureates": [
+                {
+                    "name": "Jean Stafford",
+                    "book_title": "Collected Stories",
+                    "publisher": "Farrar, Straus & Giroux",
+                    "year_published": 1969,
+                    "genre": [
+                        "short story collection"
+                    ],
+                    "birth_state": "California",
+                    "citation": null
+                }
+            ]
+        },
+        "1969": {
+            "laureates": [
+                {
+                    "name": "N. Scott Momaday",
+                    "book_title": "House Made of Dawn",
+                    "publisher": "Harper & Row",
+                    "year_published": 1968,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Oklahoma",
+                    "citation": null
+                }
+            ]
+        },
+        "1968": {
+            "laureates": [
+                {
+                    "name": "William Styron",
+                    "book_title": "The Confessions of Nat Turner",
+                    "publisher": "Random House",
+                    "year_published": 1967,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Virginia",
+                    "citation": null
+                }
+            ]
+        },
+        "1967": {
+            "laureates": [
+                {
+                    "name": "Bernard Malamud",
+                    "book_title": "The Fixer",
+                    "publisher": "Farrar, Straus & Giroux",
+                    "year_published": 1966,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "New York",
+                    "citation": null
+                }
+            ]
+        },
+        "1966": {
+            "laureates": [
+                {
+                    "name": "Katherine Anne Porter",
+                    "book_title": "The Collected Stories",
+                    "publisher": "Harcourt Brace",
+                    "year_published": 1965,
+                    "genre": [
+                        "short story collection"
+                    ],
+                    "birth_state": "Texas",
+                    "citation": null
+                }
+            ]
+        },
+        "1965": {
+            "laureates": [
+                {
+                    "name": "Shirley Ann Grau",
+                    "book_title": "The Keepers of the House",
+                    "publisher": "Alfred A. Knopf",
+                    "year_published": 1964,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Louisiana",
+                    "citation": null
+                }
+            ]
+        },
+        "1964": {
+            "laureates": [],
+            "notes": "No award was given this year. The jury could not recommend any 1963 novel as 'distinguished fiction'"
+        },
+        "1963": {
+            "laureates": [
+                {
+                    "name": "William Faulkner",
+                    "book_title": "The Reivers",
+                    "publisher": "Random House",
+                    "year_published": 1962,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Mississippi",
+                    "citation": null,
+                    "notes": "Posthumously awarded. Second Pulitzer Prize for William Faulkner"
+                }
+            ]
+        },
+        "1962": {
+            "laureates": [
+                {
+                    "name": "Edwin O'Connor",
+                    "book_title": "The Edge of Sadness",
+                    "publisher": "Little, Brown and Company",
+                    "year_published": 1961,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Rhode Island",
+                    "citation": null
+                }
+            ]
+        },
+        "1961": {
+            "laureates": [
+                {
+                    "name": "Harper Lee",
+                    "book_title": "To Kill a Mockingbird",
+                    "publisher": "J. B. Lippincott & Co.",
+                    "year_published": 1960,
+                    "genre": [
+                        "southern gothic",
+                        "bildungsroman",
+                        "debut novel"
+                    ],
+                    "birth_state": "Alabama",
+                    "citation": null
+                }
+            ]
+        },
+        "1960": {
+            "laureates": [
+                {
+                    "name": "Allen Drury",
+                    "book_title": "Advise and Consent",
+                    "publisher": "Doubleday",
+                    "year_published": 1959,
+                    "genre": [
+                        "political fiction",
+                        "debut novel"
+                    ],
+                    "birth_state": "Texas",
+                    "citation": null
+                }
+            ]
+        },
+        "1959": {
+            "laureates": [
+                {
+                    "name": "Robert Lewis Taylor",
+                    "book_title": "The Travels of Jaimie McPheeters",
+                    "publisher": "Doubleday",
+                    "year_published": 1958,
+                    "genre": [
+                        "historical fiction"
+                    ],
+                    "birth_state": "Illinois",
+                    "citation": null
+                }
+            ]
+        },
+        "1958": {
+            "laureates": [
+                {
+                    "name": "James Agee",
+                    "book_title": "A Death in the Family",
+                    "publisher": "McDowell, Obolensky",
+                    "year_published": 1957,
+                    "genre": [
+                        "autobiographical novel"
+                    ],
+                    "birth_state": "Tennessee",
+                    "citation": null,
+                    "notes": "Posthumously awarded"
+                }
+            ]
+        },
+        "1957": {
+            "laureates": [],
+            "notes": "No award was given this year. The jury recommended 'The Voice at the Back Door' by Elizabeth Spencer, but the Pulitzer board chose to give no award"
+        },
+        "1956": {
+            "laureates": [
+                {
+                    "name": "MacKinlay Kantor",
+                    "book_title": "Andersonville",
+                    "publisher": "Penguin Books",
+                    "year_published": 1955,
+                    "genre": [
+                        "historical fiction"
+                    ],
+                    "birth_state": "Iowa",
+                    "citation": null
+                }
+            ]
+        },
+        "1955": {
+            "laureates": [
+                {
+                    "name": "William Faulkner",
+                    "book_title": "A Fable",
+                    "publisher": "Random House",
+                    "year_published": 1954,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Mississippi",
+                    "citation": null,
+                    "notes": "First Pulitzer Prize for William Faulkner"
+                }
+            ]
+        },
+        "1954": {
+            "laureates": [],
+            "notes": "No award was given this year. The two-man jury could not agree on a single book to recommend"
+        },
+        "1953": {
+            "laureates": [
+                {
+                    "name": "Ernest Hemingway",
+                    "book_title": "The Old Man and the Sea",
+                    "publisher": "Charles Scribner's Sons",
+                    "year_published": 1952,
+                    "genre": [
+                        "short novel"
+                    ],
+                    "birth_state": "Illinois",
+                    "citation": null
+                }
+            ]
+        },
+        "1952": {
+            "laureates": [
+                {
+                    "name": "Herman Wouk",
+                    "book_title": "The Caine Mutiny",
+                    "publisher": "Doubleday",
+                    "year_published": 1951,
+                    "genre": [
+                        "historical fiction"
+                    ],
+                    "birth_state": "New York",
+                    "citation": null
+                }
+            ]
+        },
+        "1951": {
+            "laureates": [
+                {
+                    "name": "Conrad Richter",
+                    "book_title": "The Town",
+                    "publisher": "Alfred A. Knopf",
+                    "year_published": 1950,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Pennsylvania",
+                    "citation": null
+                }
+            ]
+        },
+        "1950": {
+            "laureates": [
+                {
+                    "name": "A. B. Guthrie",
+                    "book_title": "The Way West",
+                    "publisher": "William Sloane Associates",
+                    "year_published": 1949,
+                    "genre": [
+                        "western fiction"
+                    ],
+                    "birth_state": "Indiana",
+                    "citation": null
+                }
+            ]
+        },
+        "1949": {
+            "laureates": [
+                {
+                    "name": "James Gould Cozzens",
+                    "book_title": "Guard of Honor",
+                    "publisher": "Harcourt, Brace & Company",
+                    "year_published": 1948,
+                    "genre": [
+                        "war novel"
+                    ],
+                    "birth_state": "Illinois",
+                    "citation": null
+                }
+            ]
+        },
+        "1948": {
+            "laureates": [
+                {
+                    "name": "James A. Michener",
+                    "book_title": "Tales of the South Pacific",
+                    "publisher": "Macmillan Publishers",
+                    "year_published": 1947,
+                    "genre": [
+                        "interrelated short stories",
+                        "book debut"
+                    ],
+                    "birth_state": "Pennsylvania",
+                    "citation": null,
+                    "notes": "First time a short story collection won under the new 'Fiction' category name"
+                }
+            ]
+        },
+        "1947": {
+            "laureates": [
+                {
+                    "name": "Robert Penn Warren",
+                    "book_title": "All the King's Men",
+                    "publisher": "Harcourt, Brace & Company",
+                    "year_published": 1946,
+                    "genre": [
+                        "political fiction"
+                    ],
+                    "birth_state": "Kentucky",
+                    "citation": null
+                }
+            ]
+        },
+        "1946": {
+            "laureates": [],
+            "notes": "No award was given this year. The jury could not reach consensus; one point of contention was whether 'Black Boy' by Richard Wright qualified as a novel or memoir"
+        },
+        "1945": {
+            "laureates": [
+                {
+                    "name": "John Hersey",
+                    "book_title": "A Bell for Adano",
+                    "publisher": "Alfred A. Knopf",
+                    "year_published": 1944,
+                    "genre": [
+                        "war novel"
+                    ],
+                    "birth_state": "New York (born in Tianjin, China)",
+                    "citation": null
+                }
+            ]
+        },
+        "1944": {
+            "laureates": [
+                {
+                    "name": "Martin Flavin",
+                    "book_title": "Journey in the Dark",
+                    "publisher": "Harper & Brothers",
+                    "year_published": 1943,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "California",
+                    "citation": null
+                }
+            ]
+        },
+        "1943": {
+            "laureates": [
+                {
+                    "name": "Upton Sinclair",
+                    "book_title": "Dragon's Teeth",
+                    "publisher": "Viking Press",
+                    "year_published": 1942,
+                    "genre": [
+                        "historical fiction"
+                    ],
+                    "birth_state": "Maryland",
+                    "citation": null
+                }
+            ]
+        },
+        "1942": {
+            "laureates": [
+                {
+                    "name": "Ellen Glasgow",
+                    "book_title": "In This Our Life",
+                    "publisher": "Jonathan Cape",
+                    "year_published": 1941,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Virginia",
+                    "citation": null
+                }
+            ]
+        },
+        "1941": {
+            "laureates": [],
+            "notes": "No award was given this year. The jury recommended 'For Whom the Bell Tolls' by Ernest Hemingway, but Columbia University president Nicholas Murray Butler persuaded the board to reverse its judgment because he deemed the novel offensive"
+        },
+        "1940": {
+            "laureates": [
+                {
+                    "name": "John Steinbeck",
+                    "book_title": "The Grapes of Wrath",
+                    "publisher": "Viking Press",
+                    "year_published": 1939,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "California",
+                    "citation": null
+                }
+            ]
+        },
+        "1939": {
+            "laureates": [
+                {
+                    "name": "Marjorie Kinnan Rawlings",
+                    "book_title": "The Yearling",
+                    "publisher": "Charles Scribner's Sons",
+                    "year_published": 1938,
+                    "genre": [
+                        "young adult novel"
+                    ],
+                    "birth_state": "Washington, D.C.",
+                    "citation": null
+                }
+            ]
+        },
+        "1938": {
+            "laureates": [
+                {
+                    "name": "John Phillips Marquand",
+                    "book_title": "The Late George Apley",
+                    "publisher": "Little, Brown and Company",
+                    "year_published": 1937,
+                    "genre": [
+                        "epistolary novel"
+                    ],
+                    "birth_state": "Delaware",
+                    "citation": null
+                }
+            ]
+        },
+        "1937": {
+            "laureates": [
+                {
+                    "name": "Margaret Mitchell",
+                    "book_title": "Gone with the Wind",
+                    "publisher": "Macmillan Publishers",
+                    "year_published": 1936,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Georgia",
+                    "citation": null
+                }
+            ]
+        },
+        "1936": {
+            "laureates": [
+                {
+                    "name": "Harold L. Davis",
+                    "book_title": "Honey in the Horn",
+                    "publisher": "Harper & Brothers",
+                    "year_published": 1935,
+                    "genre": [
+                        "debut novel"
+                    ],
+                    "birth_state": "Oregon",
+                    "citation": null
+                }
+            ]
+        },
+        "1935": {
+            "laureates": [
+                {
+                    "name": "Josephine Winslow Johnson",
+                    "book_title": "Now in November",
+                    "publisher": "Simon & Schuster",
+                    "year_published": 1934,
+                    "genre": [
+                        "debut novel"
+                    ],
+                    "birth_state": "Missouri",
+                    "citation": null
+                }
+            ]
+        },
+        "1934": {
+            "laureates": [
+                {
+                    "name": "Caroline Miller",
+                    "book_title": "Lamb in His Bosom",
+                    "publisher": "Harper & Brothers",
+                    "year_published": 1933,
+                    "genre": [
+                        "debut novel"
+                    ],
+                    "birth_state": "Georgia",
+                    "citation": null
+                }
+            ]
+        },
+        "1933": {
+            "laureates": [
+                {
+                    "name": "T. S. Stribling",
+                    "book_title": "The Store",
+                    "publisher": "Doubleday, Doran",
+                    "year_published": 1932,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Tennessee",
+                    "citation": null
+                }
+            ]
+        },
+        "1932": {
+            "laureates": [
+                {
+                    "name": "Pearl S. Buck",
+                    "book_title": "The Good Earth",
+                    "publisher": "John Day Company",
+                    "year_published": 1931,
+                    "genre": [
+                        "historical fiction"
+                    ],
+                    "birth_state": "West Virginia",
+                    "citation": null
+                }
+            ]
+        },
+        "1931": {
+            "laureates": [
+                {
+                    "name": "Margaret Ayer Barnes",
+                    "book_title": "Years of Grace",
+                    "publisher": "Houghton Mifflin",
+                    "year_published": 1930,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Illinois",
+                    "citation": null
+                }
+            ]
+        },
+        "1930": {
+            "laureates": [
+                {
+                    "name": "Oliver La Farge",
+                    "book_title": "Laughing Boy",
+                    "publisher": "Houghton Mifflin",
+                    "year_published": 1929,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "New York",
+                    "citation": null
+                }
+            ]
+        },
+        "1929": {
+            "laureates": [
+                {
+                    "name": "Julia Peterkin",
+                    "book_title": "Scarlet Sister Mary",
+                    "publisher": "Bobbs-Merrill Company",
+                    "year_published": 1928,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "South Carolina",
+                    "citation": null
+                }
+            ]
+        },
+        "1928": {
+            "laureates": [
+                {
+                    "name": "Thornton Wilder",
+                    "book_title": "The Bridge of San Luis Rey",
+                    "publisher": "Albert & Charles Boni",
+                    "year_published": 1927,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Wisconsin",
+                    "citation": null
+                }
+            ]
+        },
+        "1927": {
+            "laureates": [
+                {
+                    "name": "Louis Bromfield",
+                    "book_title": "Early Autumn",
+                    "publisher": "Amereon Ltd",
+                    "year_published": 1926,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Ohio",
+                    "citation": null
+                }
+            ]
+        },
+        "1926": {
+            "laureates": [
+                {
+                    "name": "Sinclair Lewis",
+                    "book_title": "Arrowsmith",
+                    "publisher": "Harcourt Brace & Co.",
+                    "year_published": 1925,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Minnesota",
+                    "citation": null,
+                    "notes": "Declined the prize"
+                }
+            ]
+        },
+        "1925": {
+            "laureates": [
+                {
+                    "name": "Edna Ferber",
+                    "book_title": "So Big",
+                    "publisher": "Grosset & Dunlap",
+                    "year_published": 1924,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Michigan",
+                    "citation": null
+                }
+            ]
+        },
+        "1924": {
+            "laureates": [
+                {
+                    "name": "Margaret Wilson",
+                    "book_title": "The Able McLaughlins",
+                    "publisher": "Harper & Brothers",
+                    "year_published": 1923,
+                    "genre": [
+                        "debut novel"
+                    ],
+                    "birth_state": "Iowa",
+                    "citation": null
+                }
+            ]
+        },
+        "1923": {
+            "laureates": [
+                {
+                    "name": "Willa Cather",
+                    "book_title": "One of Ours",
+                    "publisher": "Alfred A. Knopf",
+                    "year_published": 1922,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Virginia",
+                    "citation": null
+                }
+            ]
+        },
+        "1922": {
+            "laureates": [
+                {
+                    "name": "Booth Tarkington",
+                    "book_title": "Alice Adams",
+                    "publisher": "Doubleday, Page & Co.",
+                    "year_published": 1921,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Indiana",
+                    "citation": null,
+                    "notes": "Second Pulitzer Prize for Booth Tarkington"
+                }
+            ]
+        },
+        "1921": {
+            "laureates": [
+                {
+                    "name": "Edith Wharton",
+                    "book_title": "The Age of Innocence",
+                    "publisher": "D. Appleton & Company",
+                    "year_published": 1920,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "New York",
+                    "citation": null,
+                    "notes": "The jury actually preferred 'Main Street' by Sinclair Lewis, but the Pulitzer board overturned their decision"
+                }
+            ]
+        },
+        "1920": {
+            "laureates": [],
+            "notes": "No award was given this year due to a dispute over the wording of the award criteria ('whole' vs 'wholesome' atmosphere of American life)"
+        },
+        "1919": {
+            "laureates": [
+                {
+                    "name": "Booth Tarkington",
+                    "book_title": "The Magnificent Ambersons",
+                    "publisher": "Doubleday, Page & Co.",
+                    "year_published": 1918,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Indiana",
+                    "citation": null,
+                    "notes": "First Pulitzer Prize for Booth Tarkington"
+                }
+            ]
+        },
+        "1918": {
+            "laureates": [
+                {
+                    "name": "Ernest Poole",
+                    "book_title": "His Family",
+                    "publisher": "Macmillan",
+                    "year_published": 1917,
+                    "genre": [
+                        "novel"
+                    ],
+                    "birth_state": "Illinois",
+                    "citation": null,
+                    "notes": "First Pulitzer Prize for Fiction ever awarded"
+                }
+            ]
+        }
+    },
+    "statistics": {
+        "years_awarded": 97,
+        "years_not_awarded": 11,
+        "not_awarded_years": [
+            1920,
+            1941,
+            1946,
+            1954,
+            1957,
+            1964,
+            1971,
+            1974,
+            1977,
+            2012
+        ],
+        "total_authors": 99,
+        "female_authors": 31,
+        "male_authors": 68,
+        "repeat_winners": 4,
+        "repeat_winner_names": [
+            "Booth Tarkington",
+            "William Faulkner",
+            "John Updike",
+            "Colson Whitehead"
+        ],
+        "declined_prizes": 1,
+        "posthumous_awards": 3,
+        "shared_prize_years": 1,
+        "debut_novels_awarded": 9
+    },
+    "metadata": {
+        "created_date": "2024-11-30",
+        "version": "1.0",
+        "source": "Wikipedia - Pulitzer Prize for Fiction",
+        "last_updated": "2025-05-05",
+        "notes": "Complete historical data from 1918-2025. Originally named 'Pulitzer Prize for the Novel' (1918-1947), renamed to 'Pulitzer Prize for Fiction' in 1948 to include short story collections. Total 108 years, 97 awards given, 11 years with no award."
+    }
+}
